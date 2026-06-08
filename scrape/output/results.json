@@ -1,0 +1,2507 @@
+[
+  {
+    "id": "british-museum",
+    "name": "British Museum",
+    "url": "https://www.britishmuseum.org/visit",
+    "opening_hours": "Daily: 10.00–17.00 (Fridays: 20.30)",
+    "price": 0,
+    "price_text": "Free",
+    "meta_description": "Find out the latest information on visiting the British Museum.",
+    "title": "Visit | British Museum",
+    "source": [
+      "text",
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "national-gallery",
+    "name": "National Gallery",
+    "url": "https://www.nationalgallery.org.uk/visit",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": null,
+    "title": "Page not found | National Gallery, London",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "tate-modern",
+    "name": "Tate Modern",
+    "url": "https://www.tate.org.uk/visit/tate-modern",
+    "opening_hours": "Sunday to Thursday 10.00–18.00 | Friday to Saturday 10.00–21.00 | Call +44 (0)20 7887 8888 – option 1 (daily 10.00–17.00)",
+    "price": 4,
+    "price_text": "£4–£8",
+    "meta_description": "Explore modern and contemporary art from around the world",
+    "title": "Tate Modern | Tate",
+    "source": [
+      "text",
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "tate-britain",
+    "name": "Tate Britain",
+    "url": "https://www.tate.org.uk/visit/tate-britain",
+    "opening_hours": "Monday to Sunday 10.00–18.00 | Call +44 (0)20 7887 8888 - option 1 (daily 10.00–17.00)",
+    "price": 5,
+    "price_text": "£5",
+    "meta_description": "British art from 1500 to the present day",
+    "title": "Tate Britain | Tate",
+    "source": [
+      "text",
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "natural-history-museum",
+    "name": "Natural History Museum",
+    "url": "https://www.nhm.ac.uk/visit.html",
+    "opening_hours": "Open daily 10:00–17:50 | Open daily 10:00-17:50",
+    "price": 0,
+    "price_text": "Free",
+    "meta_description": "Get a free ticket or become a Member to skip the queues.",
+    "title": "Visit | Natural History Museum",
+    "source": [
+      "text",
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "science-museum",
+    "name": "Science Museum",
+    "url": "https://www.sciencemuseum.org.uk/visit-us",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": null,
+    "title": "405 Not allowed",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "victoria-and-albert-museum",
+    "name": "Victoria and Albert Museum",
+    "url": "https://www.vam.ac.uk/info/visit-us",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": null,
+    "title": "The page you were looking for doesn't exist (404)",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "national-portrait-gallery",
+    "name": "National Portrait Gallery",
+    "url": "https://www.npg.org.uk/visit/",
+    "opening_hours": "Open daily: 10.30 – 18.00 | Friday & Saturday: 10.30 – 21.00 | Open daily: 10.30 - 18.00 | Friday & Saturday 10.30 - 21.00",
+    "price": 0,
+    "price_text": "Free",
+    "meta_description": "Plan your visit to the National Portrait Gallery, London: check opening hours, plan your journey and find out more about access and facilities",
+    "title": "Visit - National Portrait Gallery",
+    "source": [
+      "text",
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "wallace-collection",
+    "name": "Wallace Collection",
+    "url": "https://www.wallacecollection.org/visit/",
+    "opening_hours": "We are open daily from 10.00–17.00.",
+    "price": null,
+    "price_text": null,
+    "meta_description": "The Wallace Collection is a free museum in central London, we are open 7 days a week, 10.00–17.00 BST.",
+    "title": "Visit - The Wallace Collection",
+    "source": [
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "imperial-war-museum-london",
+    "name": "Imperial War Museum London",
+    "url": "https://www.iwm.org.uk/visits/iwm-london",
+    "opening_hours": "Open every day except 24 to 26 December",
+    "price": 50,
+    "price_text": "£50",
+    "meta_description": "Our London museum tells the stories of people’s experiences of modern war from WW1 to conflicts today",
+    "title": "IWM London | Imperial War Museums",
+    "source": [
+      "text",
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "national-army-museum",
+    "name": "National Army Museum",
+    "url": "https://www.nam.ac.uk/visit",
+    "opening_hours": "The Museum is open Tuesday to Sunday, from 10.00am to 5.30pm. Entry to all galleries and temporary exhibitions is free. | Tue-Sun: 10.00am to 5.30pm | Tue-Fri: 10.00am to 4.30pm | Tue-Sun: 10.00am to 5.00pm | Tue-Sun: 10.00am to 4.00pm | TUE–SUN: 10.00AM–5.30PM",
+    "price": 30,
+    "price_text": "£30",
+    "meta_description": "Discover a fun and interactive space for all the family, revealing true stories of ordinary people with extraordinary responsibilities.",
+    "title": "Plan a visit | National Army Museum",
+    "source": [
+      "text",
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "national-maritime-museum",
+    "name": "National Maritime Museum",
+    "url": "https://www.rmg.co.uk/national-maritime-museum",
+    "opening_hours": "Open daily until 3 August 2026 | 10am-5pm | Term time Sundays | 11am-1pm | 2pm-4pm | Second Saturday of the month | 11am-12.30pm | Open Tuesday - Saturday until 30 July 2026 | 11am-4pm | Open daily until 4 October 2026 | 10am-5pm | Last Saturday of the month | 12.30pm-2.30pm | Every Friday | 2.30-4.",
+    "price": 4,
+    "price_text": "£4 per child and accompanying adult | Under 6 months free",
+    "meta_description": "Discover epic stories of exploration and endeavour that have shaped our world today. Visit us in Greenwich, or explore our stories and events online",
+    "title": "National Maritime Museum | Visit Royal Museums Greenwich",
+    "source": [
+      "text",
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "queens-house",
+    "name": "Queen's House",
+    "url": "https://www.rmg.co.uk/queens-house",
+    "opening_hours": "Select Wednesdays | 1pm-2pm | Next date 17 June | Wednesday 24 June 2026 | 1-1.30pm | Selected Wednesdays between June – July 2026 | 1pm-1.30pm | Tuesday 30 June 2026 | 6.30-8.30pm | Wednesday 1 July 2026 | 1-1.30pm | Saturday 25 July 2026 | 10am-5pm | Tuesday 6 October 2026 | 11am-12pm | Please arr",
+    "price": 25,
+    "price_text": "Adult: £25 (plus £3 booking fee per booking); Adult Members: £22.50",
+    "meta_description": "See extraordinary art for free inside one of London's most beautiful buildings",
+    "title": "Queen's House | Royal Museums Greenwich",
+    "source": [
+      "text",
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "wellcome-collection",
+    "name": "Wellcome Collection",
+    "url": "https://wellcomecollection.org/visit-us",
+    "opening_hours": "Mon 00:00-00:00; Tue-Sun 10:00-18:00",
+    "price": null,
+    "price_text": null,
+    "meta_description": "We are a free museum and library connecting science, medicine, life and art. You’ll find exhibitions, events and a library in our beautiful building in central London.",
+    "title": "Visit us | Wellcome Collection",
+    "source": [
+      "jsonld"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "british-library",
+    "name": "British Library",
+    "url": "https://www.bl.uk/visit/",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": "Planning your visit to the British Library? Opening hours, facilities, and what you can do in London and Yorkshire.",
+    "title": "Visit us - opening times, facilities, access - British Library",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "sir-john-soanes-museum",
+    "name": "Sir John Soane's Museum",
+    "url": "https://www.soane.org/visit",
+    "opening_hours": "open Wednesday to Sunday, 10am to 5pm",
+    "price": 0,
+    "price_text": "Free",
+    "meta_description": "Opening Times and Ticketed Tours We are normally open Wednesday to Sunday, 10am to 5pm (last admission is usually 4:30pm, however if the Museum is at capacity we may have to close admissions earlier). We are closed Monday and Tuesday, but remain open for bank holidays. Entry is free. There is no need to pre-book – you can walk in on the day. The Museum has limited space and is very popular, so you may need to wait for admission which can lead to delayed entry. If you wish to visit as a group of eight or more, you will need to get in touch with us. The opening times for the panels in the Picture Room are as follows: 2pm: A Rake’s Progress (north wall)11am, 3pm and 4pm: Picture Room Recess (south wall) Sir John Soane’s Museum is one of the world’s great architectural masterpieces housing an astonishing collection of art, sculpture, artefacts, and architectural fragments, all of which are displayed in Soane’s remarkable historic interiors. We do not currently operate a pre-booked system, but if you would like to guarantee entry at a certain time you are welcome to book one of our ticketed Highlights Tours Tours which take place daily at midday, with an additional tour at 10am on Fridays, and 11am on Saturdays and Sundays.",
+    "title": "Plan Your Visit | Sir John Soane's Museum",
+    "source": [
+      "text",
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "young-va",
+    "name": "Young V&A",
+    "url": "https://vam.ac.uk/young",
+    "opening_hours": "Daily: 10.00 – 17.45 | Friday: 10.00 – 22.00 | Daily: 10.00 – 17.00 | Daily: 10.00 – 18.00 | Thu and Sat: 10.00 – 22.00",
+    "price": 5,
+    "price_text": "£5–£37",
+    "meta_description": "Sparking creativity now and for the future with a space to imagine, play and design",
+    "title": "Young V&A",
+    "source": [
+      "text",
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "horniman-museum-gardens",
+    "name": "Horniman Museum & Gardens",
+    "url": "https://www.horniman.ac.uk/visit/",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": null,
+    "title": "401 Authorization Required",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "guildhall-art-gallery",
+    "name": "Guildhall Art Gallery",
+    "url": "https://cityoflondon.gov.uk",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": "Visit the City of London - Things to see and do from iconic attractions to hidden gems and explore green spaces both inside of and outside the Square Mile.",
+    "title": "Things to do - City of London",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "museum-of-the-home",
+    "name": "Museum of the Home",
+    "url": "https://www.museumofthehome.org.uk/visit/",
+    "opening_hours": "10am-5pm | Tuesday to Sunday",
+    "price": 0,
+    "price_text": "Free",
+    "meta_description": null,
+    "title": "Page not found - Museum of the Home",
+    "source": [
+      "text",
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "bank-of-england-museum",
+    "name": "Bank of England Museum",
+    "url": "https://www.bankofengland.co.uk/museum",
+    "opening_hours": "Open Monday to Friday, 10am to 5pm (last entry 4.30pm)",
+    "price": 0,
+    "price_text": "Free",
+    "meta_description": "The Bank of England Museum has a unique selection of displays and exhibits, covering our role in maintaining monetary and financial stability through to our banknote gallery and gold vaults. Discover the history of the Bank, its buildings, and the people who have shaped it over more than 300 years.",
+    "title": "Museum | Bank of England",
+    "source": [
+      "text",
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "london-museum-docklands",
+    "name": "London Museum Docklands",
+    "url": "https://londonmuseum.org.uk/docklands",
+    "opening_hours": null,
+    "price": 0,
+    "price_text": "Free",
+    "meta_description": "Pop along to our beautiful riverside setting and step into 400 years of London Docklands history – free and open to all.",
+    "title": "London Museum Docklands | London Museum",
+    "source": [
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "va-east-museum",
+    "name": "V&A East Museum",
+    "url": "https://vam.ac.uk/east",
+    "opening_hours": "Daily: 10.00 – 18.00 | Thursday and Saturday: 10.00 – 22.00 | Daily: 10.00 – 17.45 | Friday: 10.00 – 22.00 | Daily: 10.00 – 17.00",
+    "price": 32,
+    "price_text": "£32–£55",
+    "meta_description": "Dedicated to creative opportunity and its power to bring change. Two free cultural destinations – V&A East Storehouse and Museum – will open up the V&A collection for all, celebrate making in all its forms and create new possibilities for everyone.",
+    "title": "V&A East",
+    "source": [
+      "text",
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "va-east-storehouse",
+    "name": "V&A East Storehouse",
+    "url": "https://vam.ac.uk/east",
+    "opening_hours": "Daily: 10.00 – 18.00 | Thursday and Saturday: 10.00 – 22.00 | Daily: 10.00 – 17.45 | Friday: 10.00 – 22.00 | Daily: 10.00 – 17.00",
+    "price": 32,
+    "price_text": "£32–£55",
+    "meta_description": "Dedicated to creative opportunity and its power to bring change. Two free cultural destinations – V&A East Storehouse and Museum – will open up the V&A collection for all, celebrate making in all its forms and create new possibilities for everyone.",
+    "title": "V&A East",
+    "source": [
+      "text",
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "tower-of-london",
+    "name": "Tower of London",
+    "url": "https://www.hrp.org.uk/tower-of-london/prices-and-opening-times/",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": null,
+    "title": "Just a moment...",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "hampton-court-palace",
+    "name": "Hampton Court Palace",
+    "url": "https://www.hrp.org.uk/hampton-court-palace/prices-and-opening-times/",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": "We're sorry. The page you requested could not be found.",
+    "title": "Page lost! | Historic Royal Palaces",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "kensington-palace",
+    "name": "Kensington Palace",
+    "url": "https://www.hrp.org.uk/kensington-palace/prices-and-opening-times/",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": null,
+    "title": "Just a moment...",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "churchill-war-rooms",
+    "name": "Churchill War Rooms",
+    "url": "https://www.iwm.org.uk/visits/churchill-war-rooms",
+    "opening_hours": null,
+    "price": 34,
+    "price_text": "Adults £34 – members and under fives free",
+    "meta_description": "Rain or shine, visit Churchill War Rooms—one of the top things to do in London! Check opening times & book tickets for the Winston Churchill Museum today",
+    "title": "Visit Churchill War Rooms - Plan Your Visit | Imperial War Museums",
+    "source": [
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "hms-belfast",
+    "name": "HMS Belfast",
+    "url": "https://www.iwm.org.uk/visits/hms-belfast",
+    "opening_hours": "Open every day except 24 to 26 December",
+    "price": 26.8,
+    "price_text": "Adults from £26.80 – members and under fives free",
+    "meta_description": "Step on board this iconic London landmark. Navigate your way around the rooms of this floating city, climbing up and down ladders to visit all nine decks.",
+    "title": "HMS Belfast | Imperial War Museums",
+    "source": [
+      "text",
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "cutty-sark",
+    "name": "Cutty Sark",
+    "url": "https://www.rmg.co.uk/cutty-sark",
+    "opening_hours": "Open daily | 10am-5pm | Second Wednesday of every month - see page for details | 11am-3pm | Drop-in | Saturday 13 and Sunday 14 June 2026 | 11am-4pm | Wednesday 19 August 2026 | 10am-11am | Saturday 21 November 2026 | 10am-4.30pm | Friday 26 February 2027 | 2-3pm",
+    "price": 22,
+    "price_text": "Adult £22",
+    "meta_description": "Step aboard the historic tea clipper Cutty Sark, the fastest ship of its time and now a famous sight in the heart of Greenwich's UNESCO World Heritage Site",
+    "title": "Cutty Sark | Royal Museums Greenwich",
+    "source": [
+      "text",
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "royal-observatory-greenwich",
+    "name": "Royal Observatory Greenwich",
+    "url": "https://www.rmg.co.uk/royal-observatory",
+    "opening_hours": "10am-5pm (last entry 4.15pm) daily*",
+    "price": 24,
+    "price_text": "Adult: £24",
+    "meta_description": "Visit the home of Greenwich Mean Time (GMT) and the Prime Meridian of the world",
+    "title": "Royal Observatory | Royal Museums Greenwich",
+    "source": [
+      "text",
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "westminster-abbey",
+    "name": "Westminster Abbey",
+    "url": "https://www.westminster-abbey.org/visit-us/opening-times-prices",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": "We're sorry, that page could not be found.",
+    "title": "Error 404 | Westminster Abbey",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "apsley-house-wellington-museum",
+    "name": "Apsley House (Wellington Museum)",
+    "url": "https://english-heritage.org.uk",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": "English Heritage cares for over 400 historic places, bringing the story of England to life for millions of visitors each year.",
+    "title": "English Heritage | English Heritage",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "kenwood-house",
+    "name": "Kenwood House",
+    "url": "https://english-heritage.org.uk",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": "English Heritage cares for over 400 historic places, bringing the story of England to life for millions of visitors each year.",
+    "title": "English Heritage | English Heritage",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "eltham-palace",
+    "name": "Eltham Palace",
+    "url": "https://english-heritage.org.uk",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": "English Heritage cares for over 400 historic places, bringing the story of England to life for millions of visitors each year.",
+    "title": "English Heritage | English Heritage",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "down-house",
+    "name": "Down House",
+    "url": "https://english-heritage.org.uk",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": "English Heritage cares for over 400 historic places, bringing the story of England to life for millions of visitors each year.",
+    "title": "English Heritage | English Heritage",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "marble-hill-house",
+    "name": "Marble Hill House",
+    "url": "https://english-heritage.org.uk",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": "English Heritage cares for over 400 historic places, bringing the story of England to life for millions of visitors each year.",
+    "title": "English Heritage | English Heritage",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "rangers-house-wernher-collection",
+    "name": "Ranger's House (Wernher Collection)",
+    "url": "https://english-heritage.org.uk",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": "English Heritage cares for over 400 historic places, bringing the story of England to life for millions of visitors each year.",
+    "title": "English Heritage | English Heritage",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "jewel-tower",
+    "name": "Jewel Tower",
+    "url": "https://english-heritage.org.uk",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": "English Heritage cares for over 400 historic places, bringing the story of England to life for millions of visitors each year.",
+    "title": "English Heritage | English Heritage",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "wellington-arch",
+    "name": "Wellington Arch",
+    "url": "https://english-heritage.org.uk",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": "English Heritage cares for over 400 historic places, bringing the story of England to life for millions of visitors each year.",
+    "title": "English Heritage | English Heritage",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "2-willow-road",
+    "name": "2 Willow Road",
+    "url": "https://nationaltrust.org.uk",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": "We look after the places you love, from houses, buildings and gardens to coast and countryside. Join us and help protect them.",
+    "title": "Home | National Trust",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "carlyles-house",
+    "name": "Carlyle's House",
+    "url": "https://nationaltrust.org.uk",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": "Loader page.",
+    "title": "Radware Page",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "fenton-house",
+    "name": "Fenton House",
+    "url": "https://nationaltrust.org.uk",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": "We look after the places you love, from houses, buildings and gardens to coast and countryside. Join us and help protect them.",
+    "title": "Home | National Trust",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "ham-house",
+    "name": "Ham House",
+    "url": "https://nationaltrust.org.uk",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": "We look after the places you love, from houses, buildings and gardens to coast and countryside. Join us and help protect them.",
+    "title": "Home | National Trust",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "osterley-park-and-house",
+    "name": "Osterley Park and House",
+    "url": "https://nationaltrust.org.uk",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": "We look after the places you love, from houses, buildings and gardens to coast and countryside. Join us and help protect them.",
+    "title": "Home | National Trust",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "sutton-house",
+    "name": "Sutton House",
+    "url": "https://nationaltrust.org.uk",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": "We look after the places you love, from houses, buildings and gardens to coast and countryside. Join us and help protect them.",
+    "title": "Home | National Trust",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "red-house",
+    "name": "Red House",
+    "url": "https://nationaltrust.org.uk",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": "We look after the places you love, from houses, buildings and gardens to coast and countryside. Join us and help protect them.",
+    "title": "Home | National Trust",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "eastbury-manor-house",
+    "name": "Eastbury Manor House",
+    "url": "https://nationaltrust.org.uk",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": "We look after the places you love, from houses, buildings and gardens to coast and countryside. Join us and help protect them.",
+    "title": "Home | National Trust",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "rainham-hall",
+    "name": "Rainham Hall",
+    "url": "https://nationaltrust.org.uk",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": "We look after the places you love, from houses, buildings and gardens to coast and countryside. Join us and help protect them.",
+    "title": "Home | National Trust",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "charles-dickens-museum",
+    "name": "Charles Dickens Museum",
+    "url": "https://dickensmuseum.com/pages/plan-your-visit",
+    "opening_hours": "Open Wednesday to Sunday 10am - 5pm (last entry 4pm).",
+    "price": null,
+    "price_text": null,
+    "meta_description": null,
+    "title": "404 Not Found – Charles Dickens Museum",
+    "source": [
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "freud-museum",
+    "name": "Freud Museum",
+    "url": "https://www.freud.org.uk/visit/",
+    "opening_hours": "Wednesday: 10:30 – 17:00 | Thursday: 10:30 – 17:00 | Friday: 10:30 – 17:00 | Saturday: 10:30 – 17:00 | Sunday: 10:30 – 17:00 | Wednesday 10:30 – 17:00 | Thursday 10:30 – 17:00",
+    "price": 16.9,
+    "price_text": "Adults: with Donation £16.90/without £14.90",
+    "meta_description": "Visit us at the Freud Museum. Plan your visit: opening times, directions and admission fees.",
+    "title": "Visit Us - Freud Museum London",
+    "source": [
+      "text",
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "keats-house",
+    "name": "Keats House",
+    "url": "https://cityoflondon.gov.uk",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": "Visit the City of London - Things to see and do from iconic attractions to hidden gems and explore green spaces both inside of and outside the Square Mile.",
+    "title": "Things to do - City of London",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "dr-johnsons-house",
+    "name": "Dr Johnson's House",
+    "url": "https://drjohnsonshouse.org/visit/",
+    "opening_hours": "Friday Afternoon Special 2pm - 5pm",
+    "price": 10,
+    "price_text": "Adult: £10.00",
+    "meta_description": "Visit the home of Dr Samuel Johnson. Opening times and admission. Directions.",
+    "title": "Visit Us | Dr Johnson's House",
+    "source": [
+      "text",
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "handel-hendrix-house",
+    "name": "Handel Hendrix House",
+    "url": "https://handelhendrix.org/visit/",
+    "opening_hours": "Wednesday - Sunday: 10:00 - 17:00",
+    "price": 14.5,
+    "price_text": "Adult Full price: £14.50",
+    "meta_description": null,
+    "title": "Handel & Hendrix in London | Visit Us",
+    "source": [
+      "text",
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "leighton-house-museum",
+    "name": "Leighton House Museum",
+    "url": "https://www.rbkc.gov.uk/subsites/museums/leightonhousemuseum/yourvisit.aspx",
+    "opening_hours": "Open Wednesdays to Mondays, 10am to 5:30pm (last entry 4:30pm) | Open Wednesdays to Sundays, 10am to 5:30pm (last entry 4:30pm)",
+    "price": 6,
+    "price_text": "4 July 2026 £6; FREE museum entry for accompanying adult",
+    "meta_description": "Discover the historical artist studio-homes of celebrated painter Frederic Leighton, and Punch magazine illustrator Edward Linley Sambourne",
+    "title": "Leighton House and Sambourne House | RBKC Museums",
+    "source": [
+      "text",
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "18-stafford-terrace-linley-sambourne-house",
+    "name": "18 Stafford Terrace (Linley Sambourne House)",
+    "url": "https://rbkc.gov.uk",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": null,
+    "title": null,
+    "source": [],
+    "ok": false,
+    "error": "page.goto: Timeout 30000ms exceeded."
+  },
+  {
+    "id": "hogarths-house",
+    "name": "Hogarth's House",
+    "url": "https://hogarthshouse.org",
+    "opening_hours": null,
+    "price": 3,
+    "price_text": "£3",
+    "meta_description": "Visit the Chiswick home in which painter and engraver William Hogarth lived from 1749 until his death in 1764 and discover a large collection of his work.",
+    "title": "Home - Hogarth's House | London Borough of Hounslow",
+    "source": [
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "dennis-severs-house",
+    "name": "Dennis Severs' House",
+    "url": "https://www.dennissevershouse.co.uk/visit",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": "Dennis Severs’ House is an amazing survival – and a total fantasy",
+    "title": null,
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "benjamin-franklin-house",
+    "name": "Benjamin Franklin House",
+    "url": "https://benjaminfranklinhouse.org",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": null,
+    "title": "Benjamin Franklin House – The world's only remaining Franklin home",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "spencer-house",
+    "name": "Spencer House",
+    "url": "https://spencerhouse.co.uk",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": "Exclusive events venue within a magnificent eighteenth-century mansion overlooking Green Park, also open to the public for guided tours",
+    "title": "Spencer House | Historic Houses to Visit in London",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "strawberry-hill-house",
+    "name": "Strawberry Hill House",
+    "url": "https://www.strawberryhillhouse.org.uk/your-visit/",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": null,
+    "title": "Page not found - Strawberry Hill House & Garden",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "chiswick-house",
+    "name": "Chiswick House",
+    "url": "https://chiswickhouseandgardens.org.uk/visit/",
+    "opening_hours": "Thursday to Sunday 10.30am – 3.30pm.",
+    "price": 0,
+    "price_text": "Free",
+    "meta_description": "Our beautiful 65-acre gardens are open every day, along with our Café. The House and Kitchen Garden are open at select times of the year. The Gardens and the café are open to the public for free everyday.",
+    "title": "Opening times and tickets - Chiswick House & Gardens",
+    "source": [
+      "text",
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "pitzhanger-manor",
+    "name": "Pitzhanger Manor",
+    "url": "https://www.pitzhanger.org.uk/visit/",
+    "opening_hours": "Wednesday - Sunday: 10:00 - 17:00 | First Thursday of the month: 10:00 - 20:00",
+    "price": null,
+    "price_text": null,
+    "meta_description": "Check out all the events and exhibitions we have coming up at Pitzhanger.",
+    "title": "Pitzhanger » Visit Us",
+    "source": [
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "fulham-palace",
+    "name": "Fulham Palace",
+    "url": "https://fulhampalace.org",
+    "opening_hours": "Market barrow: Tue - Sun, 10.30 - 15.30 | Our museum and historic rooms are open daily from 10.30 – 17.00. Book your free visiting timeslot here. | Feeling a bit peckish? Our café is open from 9.30 – 16.00 daily.",
+    "price": 35,
+    "price_text": "£35",
+    "meta_description": "Discover the home of the Bishops of London - a historic house and botanic garden in west London. Open daily all year round. Free admission.",
+    "title": "Fulham Palace House & Garden • Open Daily • Free admission",
+    "source": [
+      "text",
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "valentines-mansion",
+    "name": "Valentines Mansion",
+    "url": "https://redbridge.gov.uk",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": null,
+    "title": "Currently unavailable - Redbridge",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "southside-house",
+    "name": "Southside House",
+    "url": "https://southsidehouse.com",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": null,
+    "title": null,
+    "source": [],
+    "ok": false,
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://southsidehouse.com/"
+  },
+  {
+    "id": "postal-museum",
+    "name": "Postal Museum",
+    "url": "https://www.postalmuseum.org/visit/",
+    "opening_hours": "The Archive is open Wednesday to Friday and the 2nd Saturday of each month 10:00 – 16:30. | Tuesday to Sunday 10:00 - 17:00",
+    "price": null,
+    "price_text": null,
+    "meta_description": "All the practical information you'll need to help plan your visit.",
+    "title": "Visit us - The Postal Museum",
+    "source": [
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "london-transport-museum",
+    "name": "London Transport Museum",
+    "url": "https://www.ltmuseum.co.uk/visit/museum",
+    "opening_hours": "Every day 10:00 - 18:00",
+    "price": null,
+    "price_text": null,
+    "meta_description": null,
+    "title": "Page not found | London Transport Museum",
+    "source": [
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "design-museum",
+    "name": "Design Museum",
+    "url": "https://designmuseum.org/visit-us",
+    "opening_hours": "10:00 – 17:00 Monday to Thursday | 10:00 – 18:00 Friday to Sunday*",
+    "price": 1,
+    "price_text": "£1",
+    "meta_description": "All the information you need for your visit to the Design Museum. Includes directions, group visits, museum shops, café, access and more.",
+    "title": "Plan your visit - Design Museum",
+    "source": [
+      "text",
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "fashion-and-textile-museum",
+    "name": "Fashion and Textile Museum",
+    "url": "https://fashiontextilemuseum.org/",
+    "opening_hours": "Tuesdays – Saturdays, 11:00 – 18:00 (last entry 17:15)",
+    "price": 12.65,
+    "price_text": "£12.65",
+    "meta_description": "The Fashion and Textile Museum presents varied, creative, and engaging exhibitions, alongside workshops, talks and events.",
+    "title": "Home - Fashion and Textile Museum",
+    "source": [
+      "text",
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "cartoon-museum",
+    "name": "Cartoon Museum",
+    "url": "https://www.cartoonmuseum.org/visit",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": null,
+    "title": "The Cartoon Museum",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "foundling-museum",
+    "name": "Foundling Museum",
+    "url": "https://foundlingmuseum.org.uk/visit-us/",
+    "opening_hours": null,
+    "price": 1,
+    "price_text": "£1–£14.5",
+    "meta_description": "Find out how to visit the Foundling Museum, one of London's most unique museums and tourist attractions near King's Cross",
+    "title": "Visit Us - Foundling Museum",
+    "source": [
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "garden-museum",
+    "name": "Garden Museum",
+    "url": "https://gardenmuseum.org.uk/visit/",
+    "opening_hours": "Sunday 12th July – Open from 11am-4pm",
+    "price": 8,
+    "price_text": "£8–£40",
+    "meta_description": null,
+    "title": "Visit - Garden Museum",
+    "source": [
+      "text",
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "estorick-collection-of-modern-italian-art",
+    "name": "Estorick Collection of Modern Italian Art",
+    "url": "https://www.estorickcollection.com/visit",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": null,
+    "title": "Estorick Collection",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "dulwich-picture-gallery",
+    "name": "Dulwich Picture Gallery",
+    "url": "https://www.dulwichpicturegallery.org.uk/visit/",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": null,
+    "title": null,
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "fan-museum",
+    "name": "Fan Museum",
+    "url": "https://www.thefanmuseum.org.uk/visit",
+    "opening_hours": "Tuesday to Saturday 11h00–17h00 | Tuesday to Saturday, 11am - 5pm. | SATURDAY 18TH JULY 12-4:30PM (WITH A HALF HOUR BREAK)",
+    "price": 5,
+    "price_text": "£5",
+    "meta_description": "Plan your visit to the only museum in the UK devoted to the history of fans. Key information for visitors to The Fan Museum, Greenwich.",
+    "title": "Visit The Fan Museum | The Fan Museum, Greenwich",
+    "source": [
+      "text",
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "brunel-museum",
+    "name": "Brunel Museum",
+    "url": "https://thebrunelmuseum.com/plan-your-visit/",
+    "opening_hours": null,
+    "price": 10,
+    "price_text": "Adult: £10",
+    "meta_description": null,
+    "title": "Page not found - Brunel Museum",
+    "source": [
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "florence-nightingale-museum",
+    "name": "Florence Nightingale Museum",
+    "url": "https://www.florence-nightingale.co.uk/visit-us/",
+    "opening_hours": "Tuesday – Sunday 10am – 5pm (Last Entry 4:30pm) Extended Openings Every Last Thursday of the Month 10:00am – 8:00pm",
+    "price": null,
+    "price_text": null,
+    "meta_description": null,
+    "title": "Page not found – Florence Nightingale Museum London",
+    "source": [
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "sherlock-holmes-museum",
+    "name": "Sherlock Holmes Museum",
+    "url": "https://www.sherlock-holmes.co.uk/",
+    "opening_hours": null,
+    "price": 19,
+    "price_text": "Adults – £19",
+    "meta_description": "Test your knowledge. Are you a Sherlock super sleuth? Take our fun quiz to test your knowledge about Sherlock Holmes, his adversaries and adventures",
+    "title": "Sherlock Holmes Museum - The official home of Sherlock Holmes",
+    "source": [
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "pollocks-toy-museum",
+    "name": "Pollock's Toy Museum",
+    "url": "https://pollockstoymuseum.co.uk",
+    "opening_hours": "A magical mini museum with museum shop in a beautiful historic market. Open Thursday and Friday 11.00am-3.00pm.",
+    "price": null,
+    "price_text": null,
+    "meta_description": "The official site of Pollock’s Toy Museum, home to London’s much loved collection of bears, dolls, toy theatres, games and more.",
+    "title": "Pollock's Toy Museum - The oldest Toy Museum in the UK",
+    "source": [
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "vagina-museum",
+    "name": "Vagina Museum",
+    "url": "https://www.vaginamuseum.co.uk/visit",
+    "opening_hours": ", , We 10:00-18:00, Th 10:00-18:00, Fr 10:00-18:00, Sa 10:00-18:00, Su 10:00-18:00",
+    "price": 0,
+    "price_text": "Free",
+    "meta_description": "The Vagina Museum is open! Visit the Vagina Museum at Arches 275-276 Poyser Street, London. Wed - Sun 10am - 6pm.",
+    "title": "Visit — Vagina Museum",
+    "source": [
+      "jsonld",
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "museum-of-brands",
+    "name": "Museum of Brands",
+    "url": "https://museumofbrands.com/your-visit/",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": null,
+    "title": "Page not found – Museum of Brands",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "hunterian-museum",
+    "name": "Hunterian Museum",
+    "url": "https://hunterianmuseum.org/visit",
+    "opening_hours": "Tuesday to Saturday: 10am–5pm",
+    "price": null,
+    "price_text": null,
+    "meta_description": null,
+    "title": "Hunterian Museum | Visit",
+    "source": [
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "old-operating-theatre-museum-herb-garret",
+    "name": "Old Operating Theatre Museum & Herb Garret",
+    "url": "https://oldoperatingtheatre.com/visit/",
+    "opening_hours": "We are open Thursday-Sunday, 10:30am-5pm. Last admission is always at 4:15pm. | Thursday-Sunday: 10.30am-5pm",
+    "price": 10,
+    "price_text": "Adult: £10",
+    "meta_description": "Visiting the Museum We are open Thursday-Sunday, 10:30am-5pm. Last admission is always at 4:15pm.Average length of a visit is usually ~45 minutes, although visitors are welcome to stay for longer!When you visit, you will see that at our entrance we use a traffic-light system to manage visitor flow up and…",
+    "title": "Visit | The Old Operating Theatre Museum",
+    "source": [
+      "text",
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "clink-prison-museum",
+    "name": "Clink Prison Museum",
+    "url": "https://clink.co.uk",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": "The Clink Prison Museum is built upon the original site of the Clink Prison which dates back to 1144 making it probably the oldest prison of England.",
+    "title": "Clink Prison Museum",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "london-canal-museum",
+    "name": "London Canal Museum",
+    "url": "https://www.canalmuseum.org.uk/visit/",
+    "opening_hours": "We are open from 1000-1630 Tuesdays to Sundays, and also on bank holiday Mondays.",
+    "price": null,
+    "price_text": null,
+    "meta_description": "Information for Visitors to London Canal Museum",
+    "title": "Visiting the London Canal Museum",
+    "source": [
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "magic-circle-museum",
+    "name": "Magic Circle Museum",
+    "url": "https://themagiccircle.co.uk",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": null,
+    "title": null,
+    "source": [],
+    "ok": false,
+    "error": "skipped (config)"
+  },
+  {
+    "id": "twinings-museum",
+    "name": "Twinings Museum",
+    "url": "https://twinings.co.uk",
+    "opening_hours": null,
+    "price": 2.79,
+    "price_text": "£2.79–£3.79",
+    "meta_description": "Shop over 200 teas from around the world. Find gifts for all occasions, teaware, accessories and confectionery, as well as recipes, expert advice and more.",
+    "title": "Buy Twinings Tea, Wellbeing Drinks, Gifts and Teaware Today",
+    "source": [
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "viktor-wynd-museum-of-curiosities",
+    "name": "Viktor Wynd Museum of Curiosities",
+    "url": "https://www.thelasttuesdaysociety.org/pages/the-viktor-wynd-museum",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": null,
+    "title": "Checking your browser...",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "bow-street-police-museum",
+    "name": "Bow Street Police Museum",
+    "url": "https://bowstreetpolicemuseum.org.uk",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": "Welcome to Bow Street Museum of Crime and Justice",
+    "title": "Home - Bow Street Police Museum",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "city-of-london-police-museum",
+    "name": "City of London Police Museum",
+    "url": "https://cityoflondon.gov.uk",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": "Visit the City of London - Things to see and do from iconic attractions to hidden gems and explore green spaces both inside of and outside the Square Mile.",
+    "title": "Things to do - City of London",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "london-museum-of-water-steam",
+    "name": "London Museum of Water & Steam",
+    "url": "https://waterandsteam.org.uk/plan-your-visit/",
+    "opening_hours": "Thursday: 10:00 - 16:00 | Friday: 10:00 - 16:00 | Saturday: 10:00 - 16:00 | Sunday: 10:00 - 16:00 | Monday 04 May: 10:00-16:00 | Monday 25 May: 10:00-16:00 | Tuesday 26 May: 10:00-16:00 | Wednesday 27 May: 10:00-16:00",
+    "price": 12,
+    "price_text": "Adult Day Ticket: £12.00",
+    "meta_description": null,
+    "title": "Plan Your Visit - London Museum of Water and Steam",
+    "source": [
+      "text",
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "crossness-pumping-station",
+    "name": "Crossness Pumping Station",
+    "url": "https://crossness.org.uk",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": null,
+    "title": "403 - Forbidden",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "musical-museum",
+    "name": "Musical Museum",
+    "url": "https://musicalmuseum.co.uk",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": null,
+    "title": null,
+    "source": [],
+    "ok": false,
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://musicalmuseum.co.uk/"
+  },
+  {
+    "id": "jewish-museum-london",
+    "name": "Jewish Museum London",
+    "url": "https://jewishmuseum.org.uk",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": null,
+    "title": "Home - The Jewish Museum London",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "black-cultural-archives",
+    "name": "Black Cultural Archives",
+    "url": "https://blackculturalarchives.org/visit",
+    "opening_hours": "Wednesday: 12.00 - 17.00 | Thursday: 11.00 – 17.00 | Friday: 11.00 – 17.00",
+    "price": null,
+    "price_text": null,
+    "meta_description": null,
+    "title": "EVENTS — Black Cultural Archives",
+    "source": [
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "wiener-holocaust-library",
+    "name": "Wiener Holocaust Library",
+    "url": "https://wienerholocaustlibrary.org/visit-us/",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": null,
+    "title": "Page not found - The Wiener Holocaust Library",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "cinema-museum",
+    "name": "Cinema Museum",
+    "url": "https://cinemamuseum.org.uk",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": null,
+    "title": "403 - Forbidden",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "petrie-museum-of-egyptian-sudanese-archaeology",
+    "name": "Petrie Museum of Egyptian & Sudanese Archaeology",
+    "url": "https://ucl.ac.uk/museums-collections/petrie-museum",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": null,
+    "title": "Just a moment...",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "grant-museum-of-zoology",
+    "name": "Grant Museum of Zoology",
+    "url": "https://ucl.ac.uk/museums-collections/ucl-grant-museum-zoology",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": null,
+    "title": "Just a moment...",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "ucl-art-museum",
+    "name": "UCL Art Museum",
+    "url": "https://ucl.ac.uk/culture",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": null,
+    "title": "Just a moment...",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "courtauld-gallery",
+    "name": "Courtauld Gallery",
+    "url": "https://courtauld.ac.uk/gallery/visit/",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": null,
+    "title": "Visit of documenta 14, Kassel - Courtauld",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "rcm-museum-of-music",
+    "name": "RCM Museum of Music",
+    "url": "https://rcm.ac.uk",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": "The RCM is a world-leading music conservatoire based in one of London's most desirable neighbourhoods with a prestigious history, contemporary outlook and distinguished alumni.",
+    "title": "Home | Royal College of Music",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "royal-academy-of-music-museum",
+    "name": "Royal Academy of Music Museum",
+    "url": "https://ram.ac.uk",
+    "opening_hours": null,
+    "price": 5,
+    "price_text": "£5",
+    "meta_description": "There has to be a place for new musicians to connect, collaborate and create. We are that place. A risk-taking conservatoire, based in the heart of London, where the traditions of the past meet the talent of the future.",
+    "title": "Home | Royal Academy of Music",
+    "source": [
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "gordon-museum-of-pathology",
+    "name": "Gordon Museum of Pathology",
+    "url": "https://kcl.ac.uk",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": null,
+    "title": null,
+    "source": [],
+    "ok": false,
+    "error": "skipped (config)"
+  },
+  {
+    "id": "royal-college-of-physicians-museum",
+    "name": "Royal College of Physicians Museum",
+    "url": "https://rcp.ac.uk",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": "The Royal College of Physicians is a British professional membership body dedicated to improving the practice of medicine, chiefly through the accreditation of physicians by examination.",
+    "title": "Home | RCP",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "old-speech-room-gallery-harrow-school",
+    "name": "Old Speech Room Gallery (Harrow School)",
+    "url": "https://harrowschool.org.uk",
+    "opening_hours": "Open Mornings run from 9am until 1pm",
+    "price": null,
+    "price_text": null,
+    "meta_description": "Home - Harrow School is an all-boys boarding school in London founded in 1572 under a Royal Charter granted by Queen Elizabeth I.",
+    "title": "Home - Harrow School",
+    "source": [
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "royal-air-force-museum-london",
+    "name": "Royal Air Force Museum London",
+    "url": "https://www.rafmuseum.org.uk/london/",
+    "opening_hours": "Open daily 10.00am - 5.00pm",
+    "price": 0,
+    "price_text": "Free",
+    "meta_description": "Explore the RAF Museum London! With free entry and ample parking, see iconic aircrafts and take part in family-friendly activities. Plan your visit today!",
+    "title": "RAF Museum London | Free Entry Aviation Museum in Colindale",
+    "source": [
+      "text",
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "household-cavalry-museum",
+    "name": "Household Cavalry Museum",
+    "url": "https://householdcavalrymuseum.co.uk",
+    "opening_hours": "Mon-Sun 10:00-18:00",
+    "price": null,
+    "price_text": null,
+    "meta_description": "Visit London’s living museum",
+    "title": "Household Cavalry Museum",
+    "source": [
+      "jsonld"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "guards-museum",
+    "name": "Guards Museum",
+    "url": "https://theguardsmuseum.com",
+    "opening_hours": "Open daily, 10:00am to 4:00pm",
+    "price": 11,
+    "price_text": "Adults £11, concessions from £5, children 6 to 15 £3, children 5 and under free.",
+    "meta_description": "You may know them as the soldiers who guard Buckingham Palace, but they are much more. 5 regiments. 380 years of history. We tell their story.",
+    "title": "The Guards Museum | Explore British Guards History",
+    "source": [
+      "text",
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "fusilier-museum-london",
+    "name": "Fusilier Museum London",
+    "url": "https://fusiliermuseumlondon.org",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": null,
+    "title": null,
+    "source": [],
+    "ok": false,
+    "error": "page.goto: Timeout 30000ms exceeded."
+  },
+  {
+    "id": "royal-hospital-chelsea-museum",
+    "name": "Royal Hospital Chelsea Museum",
+    "url": "https://chelsea-pensioners.co.uk",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": null,
+    "title": "Home page | Royal Hospital Chelsea",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "polish-institute-sikorski-museum",
+    "name": "Polish Institute & Sikorski Museum",
+    "url": "https://pism.co.uk",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": null,
+    "title": null,
+    "source": [],
+    "ok": false,
+    "error": "page.goto: net::ERR_SSL_VERSION_OR_CIPHER_MISMATCH at https://pism.co.uk/"
+  },
+  {
+    "id": "royal-mews",
+    "name": "Royal Mews",
+    "url": "https://rct.uk",
+    "opening_hours": null,
+    "price": 1,
+    "price_text": "£1–£180",
+    "meta_description": " Royal Palaces, Residences and Art Collection",
+    "title": "Royal Collection Trust",
+    "source": [
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "the-kings-gallery-buckingham-palace",
+    "name": "The King's Gallery (Buckingham Palace)",
+    "url": "https://rct.uk",
+    "opening_hours": null,
+    "price": 1,
+    "price_text": "£1–£180",
+    "meta_description": " Royal Palaces, Residences and Art Collection",
+    "title": "Royal Collection Trust",
+    "source": [
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "honourable-artillery-company-museum",
+    "name": "Honourable Artillery Company Museum",
+    "url": "https://hac.org.uk",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": null,
+    "title": null,
+    "source": [],
+    "ok": false,
+    "error": "skipped (config)"
+  },
+  {
+    "id": "bentley-priory-museum",
+    "name": "Bentley Priory Museum",
+    "url": "https://bentleypriorymuseum.org.uk",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": "Bentley Priory Museum tells the fascinating story of the beautiful Grade II* listed country house, focusing on its role as Headquarters Fighter Command during the Battle of Britain. Explore the important stories of ‘The One’– Air Chief Marshal Sir Hugh Dowding, ‘The Few’ who took to the air to defend our skies and ‘The Many’",
+    "title": "Battle of Britain | Bentley Priory Museum",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "battle-of-britain-bunker",
+    "name": "Battle of Britain Bunker",
+    "url": "https://hillingdon.gov.uk",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": "Homepage",
+    "title": "Main homepage – Hillingdon Council",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "bruce-castle-museum",
+    "name": "Bruce Castle Museum",
+    "url": "https://brucecastle.org",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": "Bruce Castle has been collecting and caring for the history of area and the people of Haringey for over 115 years. Housed in a magnificent 16th century manor house, the museum and archive is the borough’s key heritage resource telling stories of innovation, migration, radicalism and resilience.",
+    "title": "Home | Bruce Castle",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "barnet-museum",
+    "name": "Barnet Museum",
+    "url": "https://barnetmuseum.co.uk",
+    "opening_hours": "Tue 14:30 - 16:30 | Wed 14:30 - 16:30 | Thurs 14:30 - 16:30 | Sat 10.30 - 16:00 | Sun 14:30 - 16:30 | The Well will be open from 2pm-4pm on the third Saturday of the month from February 2025.",
+    "price": 3,
+    "price_text": "£3",
+    "meta_description": "Barnet Museum",
+    "title": "BARNET MUSEUM - Home",
+    "source": [
+      "text",
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "hackney-museum",
+    "name": "Hackney Museum",
+    "url": "https://hackney-museum.hackney.gov.uk",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": "Visit Hackney Museum and discover the stories of some of the amazing people that have made the area their home over the last 1,500 years,",
+    "title": "Home - Hackney Museum - Hackney Museum",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "museum-of-croydon",
+    "name": "Museum of Croydon",
+    "url": "https://museumofcroydon.com",
+    "opening_hours": ", Tu 13:00-17:00, We 10:00-17:00, Th 10:00-17:00, Fr 10:00-17:00, Sa 10:00-17:00, ",
+    "price": null,
+    "price_text": null,
+    "meta_description": "A local museum dedicated to sharing the stories of Croydon's people past and present.",
+    "title": "Museum of Croydon",
+    "source": [
+      "jsonld"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "honeywood-museum",
+    "name": "Honeywood Museum",
+    "url": "https://libraries.sutton.gov.uk",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": null,
+    "title": null,
+    "source": [],
+    "ok": false,
+    "error": "page.evaluate: Execution context was destroyed, most likely because of a navigation"
+  },
+  {
+    "id": "little-holland-house",
+    "name": "Little Holland House",
+    "url": "https://libraries.sutton.gov.uk",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": "bookshelf",
+    "title": "Bookshelf | Sutton Council's Cultural Services",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "vestry-house-museum",
+    "name": "Vestry House Museum",
+    "url": "https://walthamforest.gov.uk",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": null,
+    "title": "Home | London Borough of Waltham Forest",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "valence-house-museum",
+    "name": "Valence House Museum",
+    "url": "https://lbbd.gov.uk",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": null,
+    "title": "Welcome to Barking and Dagenham | London Borough of Barking and Dagenham",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "william-morris-gallery",
+    "name": "William Morris Gallery",
+    "url": "https://wmgallery.org.uk",
+    "opening_hours": "The Gallery is free and open to all. Tuesday to Sunday, from 10am to 5pm.",
+    "price": 0,
+    "price_text": "Free",
+    "meta_description": "Home to the world’s largest collection of William Morris’ work. Sharing the rich artistic and social legacy of Morris. Free.",
+    "title": "Home - William Morris Gallery",
+    "source": [
+      "text",
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "forty-hall-estate",
+    "name": "Forty Hall & Estate",
+    "url": "https://fortyhallestate.co.uk",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": "Forty Hall is a Grade 1 Listed Jacobean Manor House, nestled in leafy Enfield and set amidst an idyllic landscape with beautiful gardens, historic…",
+    "title": "Homepage | Forty Hall Estate",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "museum-of-enfield",
+    "name": "Museum of Enfield",
+    "url": "https://dugdaleartscentre.co.uk/museum",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": null,
+    "title": "Museum | Dugdale Arts Centre",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "gunnersbury-park-museum",
+    "name": "Gunnersbury Park Museum",
+    "url": "https://visitgunnersbury.org",
+    "opening_hours": "Tuesday to Sunday: 10am to 4:30pm | Monday to Friday: 7am to 5pm | Tuesday - Sunday: 10am to 4:30pm",
+    "price": null,
+    "price_text": null,
+    "meta_description": null,
+    "title": "Gunnersbury",
+    "source": [
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "wandsworth-museum",
+    "name": "Wandsworth Museum",
+    "url": "https://wandsworth.gov.uk",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": "Welcome to the London Borough of Wandsworth.",
+    "title": "Home - Wandsworth Borough Council",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "kingston-museum",
+    "name": "Kingston Museum",
+    "url": "https://kingston.gov.uk",
+    "opening_hours": "Saturday 13 June 2026, 11.30am to 2.30pm",
+    "price": null,
+    "price_text": null,
+    "meta_description": "Access council services. Pay Council Tax, check bin days, get housing support, view planning applications. Book a ceremony or find an adult education course.",
+    "title": "Homepage | Royal Borough of Kingston upon Thames",
+    "source": [
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "headstone-manor-museum",
+    "name": "Headstone Manor & Museum",
+    "url": "https://headstonemanor.org",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": "\nDiscover the intriguing tales and fascinating facts of Harrow's history with free museum entry and host of exhibitions, family activities and community eve",
+    "title": "Home - HMM | Headstone Manor & Museum",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "redbridge-museum",
+    "name": "Redbridge Museum",
+    "url": "https://redbridge.gov.uk",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": null,
+    "title": "Currently unavailable - Redbridge",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "museum-of-wimbledon",
+    "name": "Museum of Wimbledon",
+    "url": "https://wimbledonmuseum.org.uk",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": null,
+    "title": null,
+    "source": [],
+    "ok": false,
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://wimbledonmuseum.org.uk/"
+  },
+  {
+    "id": "crystal-palace-museum",
+    "name": "Crystal Palace Museum",
+    "url": "https://crystalpalacemuseum.org.uk",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": "Discover rich history and culture at The Crystal Palace Museum. Explore artefacts, attend exhibitions and support heritage preservation.",
+    "title": "The Crystal Palace Museum - Historical Exhibitions & Tours",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "wandle-industrial-museum",
+    "name": "Wandle Industrial Museum",
+    "url": "https://wandle.org",
+    "opening_hours": "Opening Times: Wednesday 1-4pm and Sundays 2-5pm. Closed Bank Holiday Weekends.",
+    "price": null,
+    "price_text": null,
+    "meta_description": null,
+    "title": "Home",
+    "source": [
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "twickenham-museum",
+    "name": "Twickenham Museum",
+    "url": "https://twickenham-museum.org.uk",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": null,
+    "title": "403 - Forbidden",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "wimbledon-lawn-tennis-museum",
+    "name": "Wimbledon Lawn Tennis Museum",
+    "url": "https://wimbledon.com",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": null,
+    "title": null,
+    "source": [],
+    "ok": false,
+    "error": "page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://wimbledon.com/"
+  },
+  {
+    "id": "world-rugby-museum",
+    "name": "World Rugby Museum",
+    "url": "https://englandrugby.com",
+    "opening_hours": null,
+    "price": 42,
+    "price_text": "£42–£125",
+    "meta_description": "Fan hub for all things England Rugby",
+    "title": "Follow | Rugby Football Union",
+    "source": [
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "mcc-museum-lords",
+    "name": "MCC Museum (Lord's)",
+    "url": "https://lords.org",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": "Lord's cricket ground, the Home of Cricket, is owned by Marylebone Cricket Club. Buy cricket tickets, view fixtures, plan your day at Lord's.",
+    "title": "Lord's Cricket Ground | The Home of Cricket",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "arsenal-football-club-museum",
+    "name": "Arsenal Football Club Museum",
+    "url": "https://arsenal.com",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": null,
+    "title": "Access Denied",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "chelsea-fc-museum",
+    "name": "Chelsea FC Museum",
+    "url": "https://chelseafc.com",
+    "opening_hours": null,
+    "price": 89.99,
+    "price_text": "£89.99–£134.99",
+    "meta_description": "Welcome to the official Chelsea FC website. All the latest news, videos and ticket information as well as player profiles and information about Stamford Bridge, the home of the Blues. Browse the online shop for Chelsea FC products and merchandise.",
+    "title": "Homepage | Official Site | Chelsea Football Club",
+    "source": [
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "wimbledon-windmill-museum",
+    "name": "Wimbledon Windmill Museum",
+    "url": "https://wimbledonwindmill.org.uk",
+    "opening_hours": "Saturday: 2pm - 5pm | Sunday: 11am - 5pm",
+    "price": 0,
+    "price_text": "Free",
+    "meta_description": null,
+    "title": "Home | Wimbledon Windmill",
+    "source": [
+      "text",
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "royal-academy-of-arts",
+    "name": "Royal Academy of Arts",
+    "url": "https://www.royalacademy.org.uk/visit",
+    "opening_hours": "Tuesday–Sunday: 10am–6pm | Friday: 10am–9pm",
+    "price": null,
+    "price_text": null,
+    "meta_description": "Monday: closed Tuesday–Sunday: 10am–6pm Friday: 10am–9pmFind out more about how we make our galleries accessible to everyone.",
+    "title": "Plan your visit | Royal Academy of Arts",
+    "source": [
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "saatchi-gallery",
+    "name": "Saatchi Gallery",
+    "url": "https://saatchigallery.com",
+    "opening_hours": null,
+    "price": 13,
+    "price_text": "£13",
+    "meta_description": "Since 1985, Saatchi Gallery has presented contemporary art exhibitions showcasing the work of emerging artists.",
+    "title": "Welcome to Saatchi Gallery London",
+    "source": [
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "whitechapel-gallery",
+    "name": "Whitechapel Gallery",
+    "url": "https://whitechapelgallery.org",
+    "opening_hours": null,
+    "price": 25,
+    "price_text": "£25",
+    "meta_description": "Exhibitions, Talks & Events, Whitechapel Gallery Archives, Education, Limited Edition Prints, Films, Publications",
+    "title": "Whitechapel Gallery -",
+    "source": [
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "serpentine-galleries",
+    "name": "Serpentine Galleries",
+    "url": "https://serpentinegalleries.org",
+    "opening_hours": "Select Sundays from June to August 2026, 11am-3pm | Monday 12-6pm, Tuesday-Friday 10am-6pm, Saturday-Sunday 10am-7pm",
+    "price": null,
+    "price_text": null,
+    "meta_description": "Free contemporary art gallery in London's Kensington gardens with a year-round programme taking place across two galleries, in the park and online.",
+    "title": "Serpentine Galleries",
+    "source": [
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "hayward-gallery",
+    "name": "Hayward Gallery",
+    "url": "https://southbankcentre.co.uk",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": "We're London's biggest arts centre and home to the Royal Festival Hall and Hayward Gallery. Browse our live events and book your tickets today.",
+    "title": "Welcome to the Southbank Centre – an engine of creativity",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "institute-of-contemporary-arts",
+    "name": "Institute of Contemporary Arts (ICA)",
+    "url": "https://ica.art",
+    "opening_hours": "OPEN today 12:00pm to 11:00pm",
+    "price": null,
+    "price_text": null,
+    "meta_description": "The Institute of Contemporary Arts (ICA) is London’s leading space for contemporary culture. We commission, produce and present new work in film, music, performance and the visual arts by today’s most progressive artists. In our landmark home on The Mall in central London, we invite artists and audiences to interrogate what it means to live in our world today, with a genre-fluid programme that challenges the past, questions the present and confronts the future.",
+    "title": "ICA | Institute of Contemporary Arts",
+    "source": [
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "barbican-art-gallery",
+    "name": "Barbican Art Gallery",
+    "url": "https://barbican.org.uk",
+    "opening_hours": null,
+    "price": 3,
+    "price_text": "£3–£10",
+    "meta_description": null,
+    "title": "Welcome to the Barbican | Barbican",
+    "source": [
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "the-photographers-gallery",
+    "name": "The Photographers' Gallery",
+    "url": "https://thephotographersgallery.org.uk",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": null,
+    "title": "Homepage | The Photographers Gallery",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "camden-art-centre",
+    "name": "Camden Art Centre",
+    "url": "https://camdenartcentre.org",
+    "opening_hours": "Wed-Sun 11:00 am-6:00 pm",
+    "price": null,
+    "price_text": null,
+    "meta_description": "Free contemporary art gallery, cafe, garden and shop in Hampstead offering a programme of temporary exhibitions, residencies and courses.",
+    "title": "Home - Camden Art Centre",
+    "source": [
+      "jsonld"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "newport-street-gallery",
+    "name": "Newport Street Gallery",
+    "url": "https://newportstreetgallery.com",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": null,
+    "title": "Newport Street Gallery – Located in Vauxhall, south London, Newport Street Gallery presents exhibitions of work from Damien Hirst’s art collection.",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "two-temple-place",
+    "name": "Two Temple Place",
+    "url": "https://twotempleplace.org",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": "Two Temple Place is one of London’s hidden architectural gems. Completed in 1895, this stunning neo-Gothic mansion was built for William Waldorf Astor as his London Estate Office. It hosts exhibitions and is available for exclusive hire. The building is owned by the charity The Bulldog Trust.",
+    "title": "Two Temple Place",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "london-mithraeum",
+    "name": "London Mithraeum Bloomberg SPACE",
+    "url": "https://www.londonmithraeum.com/visit/",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": "px-captcha",
+    "title": "Access to this page has been denied",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "the-charterhouse",
+    "name": "The Charterhouse",
+    "url": "https://www.thecharterhouse.org/visit-us/",
+    "opening_hours": "Tuesday to Saturday 10.30am to 4.30pm FREE, no booking required | Friday mornings 10am – 12pm",
+    "price": 0,
+    "price_text": "Free",
+    "meta_description": "We look forward to welcoming you at the Charterhouse - where there are seven centuries of history to discover",
+    "title": "Plan Your Visit - The Charterhouse",
+    "source": [
+      "text",
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "banqueting-house",
+    "name": "Banqueting House",
+    "url": "https://hrp.org.uk",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": null,
+    "title": "Just a moment...",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "tower-bridge",
+    "name": "Tower Bridge Exhibition",
+    "url": "https://www.towerbridge.org.uk/your-visit",
+    "opening_hours": "Mon-Sun 09:30:00-18:00:00",
+    "price": 6,
+    "price_text": "£6–£22",
+    "meta_description": "From opening times, to transport and accessibility, here are all you need to know for your visit to Tower Bridge.",
+    "title": "Tower Bridge visitor information - Tower Bridge",
+    "source": [
+      "jsonld",
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "golden-hinde",
+    "name": "Golden Hinde",
+    "url": "https://goldenhinde.co.uk",
+    "opening_hours": "Monday to Sunday 10:00 - 17:00 | Monday to Sunday 10:00 - 18:00",
+    "price": 6,
+    "price_text": "Adults £6",
+    "meta_description": "Explore the fascinating stories behind Sir Francis Drake's historic circumnavigation of the globe aboard The Golden Hinde in central London. ",
+    "title": "The Golden Hinde - The Golden Hinde | The Golden Hinde | Explore Sir Francis Drake's world-famous ship",
+    "source": [
+      "text",
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "migration-museum",
+    "name": "Migration Museum",
+    "url": "https://www.migrationmuseum.org/visit/",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": "The story of movement into and out of the UK",
+    "title": "Migration MuseumPage not found - Migration Museum",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "burgh-house",
+    "name": "Burgh House & Hampstead Museum",
+    "url": "https://burghhouse.org.uk",
+    "opening_hours": "WED: 10AM - 4PM | THU: 10AM - 4PM | FRI: 10AM - 4PM* | SUN: 10AM - 4PM | WED: 10AM - 5PM | THU: 10AM - 5PM | FRI: 10AM - 5PM | SAT: 9:30AM - 5:30PM",
+    "price": 0,
+    "price_text": "Free",
+    "meta_description": "Burgh House is a beautiful, Grade 1 listed, Queen Anne building in the heart of Hampstead Village. Free entry and available for hire.",
+    "title": "Home | Home page | Burgh House",
+    "source": [
+      "text",
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "bethlem-museum-of-the-mind",
+    "name": "Bethlem Museum of the Mind",
+    "url": "https://museumofthemind.org.uk",
+    "opening_hours": "Wed - Sat: Open to the public from 09:30 – 17:00.",
+    "price": null,
+    "price_text": null,
+    "meta_description": "Bethlem Museum of the Mind records the lives and experience and celebrates the achievements of people with mental health problems.",
+    "title": "Bethlem Museum of the Mind",
+    "source": [
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "alexander-fleming-laboratory-museum",
+    "name": "Alexander Fleming Laboratory Museum",
+    "url": "https://imperial.nhs.uk",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": "Imperial College Healthcare NHS Trust provides acute and specialist healthcare in north west London for around a million and a half people every year.",
+    "title": "Imperial College Healthcare NHS Trust",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "heath-robinson-museum",
+    "name": "Heath Robinson Museum",
+    "url": "https://heathrobinsonmuseum.org",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": null,
+    "title": "403 - Forbidden",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "ben-uri-gallery",
+    "name": "Ben Uri Gallery and Museum",
+    "url": "https://benuri.org",
+    "opening_hours": "Now open Wednesday to Friday 10 am - 5.30 pm",
+    "price": null,
+    "price_text": null,
+    "meta_description": "Jewish Art",
+    "title": "Ben Uri",
+    "source": [
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "dorich-house-museum",
+    "name": "Dorich House Museum",
+    "url": "https://dorichhousemuseum.org.uk",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": null,
+    "title": null,
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "emery-walkers-house",
+    "name": "Emery Walker's House",
+    "url": "https://emerywalker.org.uk",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": "Emery Walker's House at 7 Hammersmith Terrace. Discover the Art and Crafts home, London. ",
+    "title": "Emery Walker's House",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "all-hallows-by-the-tower-crypt-museum",
+    "name": "All Hallows by the Tower Crypt Museum",
+    "url": "https://ahbtt.org.uk",
+    "opening_hours": "Monday - Friday: 8am - 5pm | Saturday: 10am - 5pm | Sunday: 12.30pm - 5pm",
+    "price": null,
+    "price_text": null,
+    "meta_description": "All Hallows by the Tower is the oldest church in the City of London and a living church serving today's City community.",
+    "title": "All Hallows by the Tower",
+    "source": [
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "ragged-school-museum",
+    "name": "Ragged School Museum",
+    "url": "https://raggedschoolmuseum.org.uk",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": null,
+    "title": "403 - Forbidden",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "museum-of-the-order-of-st-john",
+    "name": "Museum of the Order of St John",
+    "url": "https://museumstjohn.org.uk",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": null,
+    "title": "Checking your browser...",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "kirkaldy-testing-museum",
+    "name": "Kirkaldy Testing Museum",
+    "url": "https://testingmuseum.org.uk",
+    "opening_hours": "Sat 27th June Kirkaldy on tour 1 - 5pm at The UCL Institute of Making East London campus \"Festival of Stuff\"",
+    "price": 15,
+    "price_text": "£15–£23",
+    "meta_description": null,
+    "title": "Kirkaldy Testing Museum",
+    "source": [
+      "text",
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "charlton-house",
+    "name": "Charlton House",
+    "url": "https://charltonhouselondon.org",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": null,
+    "title": null,
+    "source": [],
+    "ok": false,
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://charltonhouselondon.org/"
+  },
+  {
+    "id": "boston-manor-house",
+    "name": "Boston Manor House",
+    "url": "https://bostonmanorhouse.org.uk",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": null,
+    "title": null,
+    "source": [],
+    "ok": false,
+    "error": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://bostonmanorhouse.org.uk/"
+  },
+  {
+    "id": "hall-place-and-gardens",
+    "name": "Hall Place & Gardens",
+    "url": "https://hallplace.org.uk",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": null,
+    "title": "403 - Forbidden",
+    "source": [],
+    "ok": false,
+    "error": null
+  },
+  {
+    "id": "eel-pie-island-museum",
+    "name": "Eel Pie Island Museum",
+    "url": "https://eelpiemuseum.co.uk",
+    "opening_hours": "Open Thu to Sun 12 to 5.30pm (last entry time 5pm) | WE ARE OPEN THURSDAY - SUNDAY 12 - 5.30PM. | Open Thu to Sun 12pm to 5.30pm",
+    "price": 5,
+    "price_text": "£5–£10",
+    "meta_description": "MUSIC HERITAGE ★ HISTORIC BOATYARDS ★ INVENTION & CREATIVITY. The Eel Pie Island Museum is a celebration of all that has made this unique Thames isle so special to so many.",
+    "title": "EEL PIE MUSEUM",
+    "source": [
+      "text",
+      "text"
+    ],
+    "ok": true,
+    "error": null
+  },
+  {
+    "id": "brent-museum",
+    "name": "Brent Museum and Archives",
+    "url": "https://brent.gov.uk",
+    "opening_hours": null,
+    "price": null,
+    "price_text": null,
+    "meta_description": "Welcome to the Brent Council website. It includes information on the services we provide including, Council Tax, bins, housing, benefits, libraries and schools.",
+    "title": "Brent Council",
+    "source": [],
+    "ok": false,
+    "error": null
+  }
+]

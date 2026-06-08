@@ -1,0 +1,87 @@
+[
+  {
+    "id": "art",
+    "name": "Art",
+    "description": "Painting, sculpture, and fine art collections and galleries."
+  },
+  {
+    "id": "world-cultures",
+    "name": "World Cultures & Antiquities",
+    "description": "Archaeology, ancient civilisations, and world cultures."
+  },
+  {
+    "id": "history",
+    "name": "History",
+    "description": "General, social, and political history."
+  },
+  {
+    "id": "local-history",
+    "name": "Local History",
+    "description": "Borough and community history museums."
+  },
+  {
+    "id": "natural-history",
+    "name": "Natural History",
+    "description": "Zoology, geology, and the natural world."
+  },
+  {
+    "id": "science",
+    "name": "Science & Technology",
+    "description": "Science, engineering, industry, and technology."
+  },
+  {
+    "id": "medical",
+    "name": "Medical",
+    "description": "Medicine, anatomy, surgery, and health."
+  },
+  {
+    "id": "military",
+    "name": "Military",
+    "description": "Armed forces, regimental, and conflict history."
+  },
+  {
+    "id": "maritime",
+    "name": "Maritime",
+    "description": "Ships, the sea, and naval history."
+  },
+  {
+    "id": "transport",
+    "name": "Transport",
+    "description": "Public transport, canals, postal, and vehicles."
+  },
+  {
+    "id": "design",
+    "name": "Design",
+    "description": "Industrial, product, and graphic design."
+  },
+  {
+    "id": "decorative-arts",
+    "name": "Decorative Arts",
+    "description": "Furniture, ceramics, fashion, textiles, and historic interiors."
+  },
+  {
+    "id": "house",
+    "name": "House Museum",
+    "description": "Historic houses, artists' homes, and preserved residences."
+  },
+  {
+    "id": "music",
+    "name": "Music",
+    "description": "Musical instruments, recordings, and music history."
+  },
+  {
+    "id": "sport",
+    "name": "Sport",
+    "description": "Sporting history and club museums."
+  },
+  {
+    "id": "library",
+    "name": "Library & Archive",
+    "description": "Libraries, archives, and document collections."
+  },
+  {
+    "id": "specialist",
+    "name": "Specialist & Niche",
+    "description": "Single-subject and unusual specialist collections."
+  }
+]

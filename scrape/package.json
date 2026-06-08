@@ -1,0 +1,16 @@
+{
+  "name": "london-museums-scraper",
+  "private": true,
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Config-driven Playwright scraper that collects opening hours and admission prices for the museums in src/data/museums.json.",
+  "scripts": {
+    "scrape": "node scrape.mjs",
+    "scrape:report": "node scrape.mjs --report-only",
+    "scrape:merge": "node scrape.mjs --merge",
+    "postinstall": "playwright install chromium"
+  },
+  "dependencies": {
+    "playwright": "^1.49.0"
+  }
+}
