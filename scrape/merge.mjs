@@ -187,7 +187,7 @@ const EDITORIAL = {
   'national-maritime-museum': { h: 'Daily 10:00–17:00', p: 0, pt: 'Free; some exhibitions ticketed' },
   'queens-house': { h: 'Daily 10:00–17:00', p: 0, pt: 'Free' },
   'wellcome-collection': { h: 'Tue–Sun 10:00–18:00 (Thu until 20:00)', p: 0, pt: 'Free' },
-  'british-library': { h: 'Mon–Thu 09:30–20:00; Fri until 18:00; Sat until 17:00; Sun 11:00–17:00', p: 0, pt: 'Free; some exhibitions ticketed' },
+  'british-library': { h: 'Mon–Thu 09:30–20:00; Fri 09:30–18:00; Sat 09:30–17:00; Sun 11:00–17:00', p: 0, pt: 'Free; some exhibitions ticketed' },
   'young-va': { h: 'Daily 10:00–17:45', p: 0, pt: 'Free' },
   'guildhall-art-gallery': { h: 'Daily 10:30–16:00', p: 0, pt: 'Free' },
   'london-museum-docklands': { h: 'Daily 10:00–17:00', p: 0, pt: 'Free' },
@@ -307,10 +307,79 @@ const ADDITIONS = [
   { id: 'brent-museum', name: 'Brent Museum and Archives', website: 'https://brent.gov.uk', address: 'Willesden Green Library', borough: 'Brent', admission: 'free', category: 'local-history', h: 'Mon–Sat (check site)', p: 0, pt: 'Free', d: 'The local history of the London Borough of Brent.' },
 ]
 
-// --- merge ----------------------------------------------------------------
-function categoryNote(adm) {
-  return adm
+// --- UK postcodes (for geocoding / mapping) -------------------------------
+// Best-effort from the building address. A few uncertain ones are left null.
+const POSTCODES = {
+  'british-museum': 'WC1B 3DG', 'national-gallery': 'WC2N 5DN', 'tate-modern': 'SE1 9TG',
+  'tate-britain': 'SW1P 4RG', 'natural-history-museum': 'SW7 5BD', 'science-museum': 'SW7 2DD',
+  'victoria-and-albert-museum': 'SW7 2RL', 'national-portrait-gallery': 'WC2H 0HE',
+  'wallace-collection': 'W1U 3BN', 'imperial-war-museum-london': 'SE1 6HZ',
+  'national-army-museum': 'SW3 4HT', 'national-maritime-museum': 'SE10 9NF', 'queens-house': 'SE10 9NF',
+  'wellcome-collection': 'NW1 2BE', 'british-library': 'NW1 2DB', 'sir-john-soanes-museum': 'WC2A 3BP',
+  'young-va': 'E2 9PA', 'horniman-museum-gardens': 'SE23 3PQ', 'guildhall-art-gallery': 'EC2V 5AE',
+  'museum-of-the-home': 'E2 8EA', 'bank-of-england-museum': 'EC2R 8AH', 'london-museum-docklands': 'E14 4AL',
+  'va-east-museum': 'E20 3BS', 'va-east-storehouse': 'E20 3BS', 'tower-of-london': 'EC3N 4AB',
+  'hampton-court-palace': 'KT8 9AU', 'kensington-palace': 'W8 4PX', 'churchill-war-rooms': 'SW1A 2AQ',
+  'hms-belfast': 'SE1 2JH', 'cutty-sark': 'SE10 9HT', 'royal-observatory-greenwich': 'SE10 8XJ',
+  'westminster-abbey': 'SW1P 3PA', 'apsley-house-wellington-museum': 'W1J 7NT', 'kenwood-house': 'NW3 7JR',
+  'eltham-palace': 'SE9 5QE', 'down-house': 'BR6 7JT', 'marble-hill-house': 'TW1 2NL',
+  'rangers-house-wernher-collection': 'SE10 8QX', 'jewel-tower': 'SW1P 3JX', 'wellington-arch': 'W1J 7JZ',
+  '2-willow-road': 'NW3 1TH', 'carlyles-house': 'SW3 5HL', 'fenton-house': 'NW3 6SP',
+  'ham-house': 'TW10 7RS', 'osterley-park-and-house': 'TW7 4RB', 'sutton-house': 'E9 6JQ',
+  'red-house': 'DA6 8JF', 'eastbury-manor-house': 'IG11 9SN', 'rainham-hall': 'RM13 9YN',
+  'charles-dickens-museum': 'WC1N 2LX', 'freud-museum': 'NW3 5SX', 'keats-house': 'NW3 2RR',
+  'dr-johnsons-house': 'EC4A 3DE', 'handel-hendrix-house': 'W1K 4HB', 'leighton-house-museum': 'W14 8LZ',
+  '18-stafford-terrace-linley-sambourne-house': 'W8 7BH', 'hogarths-house': 'W4 2QN',
+  'dennis-severs-house': 'E1 6BX', 'benjamin-franklin-house': 'WC2N 5NF', 'spencer-house': 'SW1A 1NR',
+  'strawberry-hill-house': 'TW1 4ST', 'chiswick-house': 'W4 2RP', 'pitzhanger-manor': 'W5 5EQ',
+  'fulham-palace': 'SW6 6EA', 'valentines-mansion': 'IG1 4XA', 'southside-house': 'SW19 4RJ',
+  'postal-museum': 'WC1X 0DA', 'london-transport-museum': 'WC2E 7BB', 'design-museum': 'W8 6AG',
+  'fashion-and-textile-museum': 'SE1 3XF', 'cartoon-museum': 'W1T 3PA', 'foundling-museum': 'WC1N 1AZ',
+  'garden-museum': 'SE1 7LB', 'estorick-collection-of-modern-italian-art': 'N1 2AN',
+  'dulwich-picture-gallery': 'SE21 7AD', 'fan-museum': 'SE10 8ER', 'brunel-museum': 'SE16 4LF',
+  'florence-nightingale-museum': 'SE1 7EW', 'sherlock-holmes-museum': 'NW1 6XE',
+  'pollocks-toy-museum': null, 'vagina-museum': 'E2 9DA', 'museum-of-brands': 'W11 1QT',
+  'hunterian-museum': 'WC2A 3PE', 'old-operating-theatre-museum-herb-garret': 'SE1 9RY',
+  'clink-prison-museum': 'SE1 9DG', 'london-canal-museum': 'N1 9RT', 'magic-circle-museum': 'NW1 2HD',
+  'twinings-museum': 'WC2R 1AP', 'viktor-wynd-museum-of-curiosities': 'E8 4RP',
+  'bow-street-police-museum': 'WC2E 7AS', 'city-of-london-police-museum': 'EC2V 7HH',
+  'london-museum-of-water-steam': 'TW8 0EN', 'crossness-pumping-station': 'SE2 9AQ',
+  'musical-museum': 'TW8 0DU', 'jewish-museum-london': 'NW1 7NB', 'black-cultural-archives': 'SW9 8EN',
+  'wiener-holocaust-library': 'WC1B 5DP', 'cinema-museum': 'SE11 4TH',
+  'petrie-museum-of-egyptian-sudanese-archaeology': 'WC1E 6BT', 'grant-museum-of-zoology': 'WC1E 6DE',
+  'ucl-art-museum': 'WC1E 6BT', 'courtauld-gallery': 'WC2R 0RN', 'rcm-museum-of-music': 'SW7 2BS',
+  'royal-academy-of-music-museum': 'NW1 5HT', 'gordon-museum-of-pathology': 'SE1 1UL',
+  'royal-college-of-physicians-museum': 'NW1 4LE', 'old-speech-room-gallery-harrow-school': 'HA1 3HP',
+  'royal-air-force-museum-london': 'NW9 5LL', 'household-cavalry-museum': 'SW1A 2AX',
+  'guards-museum': 'SW1E 6HQ', 'fusilier-museum-london': 'EC3N 4AB', 'royal-hospital-chelsea-museum': 'SW3 4SR',
+  'polish-institute-sikorski-museum': 'SW7 2PN', 'royal-mews': 'SW1W 0QH',
+  'the-kings-gallery-buckingham-palace': 'SW1A 1AA', 'honourable-artillery-company-museum': 'EC1Y 2BQ',
+  'bentley-priory-museum': 'HA7 3FB', 'battle-of-britain-bunker': 'UB10 0GG', 'bruce-castle-museum': 'N17 8NU',
+  'barnet-museum': 'EN5 4BE', 'hackney-museum': 'E8 1GQ', 'museum-of-croydon': 'CR9 1ET',
+  'honeywood-museum': 'SM5 3NX', 'little-holland-house': 'SM5 3LW', 'vestry-house-museum': 'E17 9NH',
+  'valence-house-museum': 'RM8 3HT', 'william-morris-gallery': 'E17 4PP', 'forty-hall-estate': 'EN2 9HA',
+  'museum-of-enfield': 'EN2 6DS', 'gunnersbury-park-museum': 'W3 8LQ', 'wandsworth-museum': null,
+  'kingston-museum': 'KT1 2PS', 'headstone-manor-museum': 'HA2 6PX', 'redbridge-museum': 'IG1 1EA',
+  'museum-of-wimbledon': 'SW19 4QN', 'crystal-palace-museum': 'SE19 2BA', 'wandle-industrial-museum': 'CR4 3UD',
+  'twickenham-museum': 'TW1 3DU', 'wimbledon-lawn-tennis-museum': 'SW19 5AE', 'world-rugby-museum': 'TW2 7BA',
+  'mcc-museum-lords': 'NW8 8QN', 'arsenal-football-club-museum': 'N7 7AJ', 'chelsea-fc-museum': 'SW6 1HS',
+  'wimbledon-windmill-museum': 'SW19 5NR',
+  // additions
+  'royal-academy-of-arts': 'W1J 0BD', 'saatchi-gallery': 'SW3 4LY', 'whitechapel-gallery': 'E1 7QX',
+  'serpentine-galleries': 'W2 3XA', 'hayward-gallery': 'SE1 8XX', 'institute-of-contemporary-arts': 'SW1Y 5AH',
+  'barbican-art-gallery': 'EC2Y 8DS', 'the-photographers-gallery': 'W1F 7LW', 'camden-art-centre': 'NW3 6DG',
+  'newport-street-gallery': 'SE11 6AJ', 'two-temple-place': 'WC2R 3BD', 'london-mithraeum': 'EC4N 8AR',
+  'the-charterhouse': 'EC1M 6AN', 'banqueting-house': 'SW1A 2ER', 'tower-bridge': 'SE1 2UP',
+  'golden-hinde': 'SE1 9DE', 'migration-museum': 'SE13 7EP', 'burgh-house': 'NW3 1LT',
+  'bethlem-museum-of-the-mind': 'BR3 3BX', 'alexander-fleming-laboratory-museum': 'W2 1NY',
+  'heath-robinson-museum': 'HA5 1AE', 'ben-uri-gallery': 'NW8 0RH', 'dorich-house-museum': 'SW15 3RN',
+  'emery-walkers-house': 'W6 9TS', 'all-hallows-by-the-tower-crypt-museum': 'EC3R 5BJ',
+  'ragged-school-museum': 'E3 4RR', 'museum-of-the-order-of-st-john': 'EC1M 4DA',
+  'kirkaldy-testing-museum': 'SE1 0JF', 'charlton-house': 'SE7 8RE', 'boston-manor-house': 'TW8 9JX',
+  'hall-place-and-gardens': 'DA5 1PQ', 'eel-pie-island-museum': 'TW1 3DY', 'brent-museum': 'NW10 2SF',
 }
+
+// --- merge ----------------------------------------------------------------
 
 const museums = JSON.parse(await readFile(MUSEUMS, 'utf8'))
 
@@ -330,6 +399,8 @@ let editorialCount = 0
 for (const m of museums) {
   // description
   if (DESC[m.id]) m.description = DESC[m.id]
+  // postcode
+  if (m.id in POSTCODES && POSTCODES[m.id]) m.postcode = POSTCODES[m.id]
   // hours / price
   const s = scraped[m.id]
   if (s && (s.h || s.p != null)) {
@@ -364,6 +435,7 @@ for (const a of ADDITIONS) {
     name: a.name,
     website: a.website,
     address: a.address,
+    postcode: POSTCODES[a.id] ?? null,
     borough: a.borough,
     admission: a.admission,
     price: a.p ?? null,
@@ -379,7 +451,7 @@ for (const a of ADDITIONS) {
 
 // reorder keys for consistency
 const ORDER = [
-  'id', 'name', 'website', 'address', 'borough', 'admission', 'price',
+  'id', 'name', 'website', 'address', 'postcode', 'borough', 'admission', 'price',
   'price_text', 'category', 'description', 'opening_hours', 'hours_source',
   'note', 'last_verified', 'source_url',
 ]

@@ -32,6 +32,7 @@ import {
   hoursFromText,
   priceFromText,
 } from './extract.mjs'
+import { parseOpeningHours } from './parse-hours.mjs'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
 const MUSEUMS_PATH = join(__dirname, '..', 'src', 'data', 'museums.json')
@@ -255,7 +256,10 @@ async function main() {
     for (const m of museums) {
       const r = byId.get(m.id)
       if (!r || !r.ok) continue
-      if (r.opening_hours) m.opening_hours = r.opening_hours
+      if (r.opening_hours) {
+        m.opening_hours = r.opening_hours
+        m.hours = parseOpeningHours(r.opening_hours)
+      }
       if (r.price != null) {
         m.price = r.price
         m.price_text = r.price_text

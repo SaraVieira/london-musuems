@@ -59,10 +59,25 @@ needed, add `selectors`. No code changes required.
 ## Data fields added to `museums.json`
 
 - `description` — short factual summary of the museum.
+- `postcode` — UK postcode for the building (for geocoding / mapping). A couple
+  of venues with no fixed address (e.g. a pop-up) are `null`.
+- `latitude` / `longitude` — coordinates geocoded from the postcode via
+  postcodes.io (`scrape/geo.json` holds the postcode→coords map). Drop straight
+  onto a map as pins. `null` only where there is no postcode.
 - `opening_hours` — human-readable hours string.
+- `hours` — structured opening hours: an object keyed `0`–`6` (`0` = Monday …
+  `6` = Sunday) where each value is `[open, close]` in 24-hour decimal hours
+  (`10.5` = 10:30, `20.5` = 20:30, `17.75` = 17:45). Closed days are omitted.
+  It is `null` when the hours can't be expressed numerically (e.g. "By
+  appointment", "Guided tours", seasonal day-only entries) — `opening_hours`
+  still holds the human text in those cases.
 - `price` — adult admission as a number (`0` = free).
 - `price_text` — fuller pricing detail.
 - `hours_source` — `"scraped"` (read live from the site) or `"editorial"`
   (filled from authoritative knowledge where the site blocked automation; the
   scraper will overwrite these on its next run).
 - `last_verified` — date the hours/price were last set.
+
+`parse-hours.mjs` converts an `opening_hours` string into the `hours` object;
+`apply-hours.mjs` (re)builds `hours` for the whole file, and `scrape.mjs`
+populates it automatically when it merges live data.

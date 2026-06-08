@@ -4,6 +4,9 @@
     "name": "British Museum",
     "website": "https://britishmuseum.org",
     "address": "Great Russell St, Bloomsbury",
+    "postcode": "WC1B 3DG",
+    "latitude": 51.519364,
+    "longitude": -0.126848,
     "borough": "Camden",
     "admission": "free_with_paid_exhibitions",
     "price": 0,
@@ -11,6 +14,36 @@
     "category": "world-cultures",
     "description": "World-famous collection of human history and culture, from the Rosetta Stone to the Parthenon sculptures.",
     "opening_hours": "Daily: 10.00–17.00 (Fridays: 20.30)",
+    "hours": {
+      "0": [
+        10,
+        17
+      ],
+      "1": [
+        10,
+        17
+      ],
+      "2": [
+        10,
+        17
+      ],
+      "3": [
+        10,
+        17
+      ],
+      "4": [
+        10,
+        20.5
+      ],
+      "5": [
+        10,
+        17
+      ],
+      "6": [
+        10,
+        17
+      ]
+    },
     "hours_source": "scraped",
     "last_verified": "2026-06-07"
   },
@@ -19,6 +52,9 @@
     "name": "National Gallery",
     "website": "https://nationalgallery.org.uk",
     "address": "Trafalgar Square",
+    "postcode": "WC2N 5DN",
+    "latitude": 51.509098,
+    "longitude": -0.127658,
     "borough": "Westminster",
     "admission": "free_with_paid_exhibitions",
     "price": 0,
@@ -26,6 +62,36 @@
     "category": "art",
     "description": "National collection of Western European painting from the 13th to the 19th century, on Trafalgar Square.",
     "opening_hours": "Daily 10:00–18:00 (Fri until 21:00)",
+    "hours": {
+      "0": [
+        10,
+        18
+      ],
+      "1": [
+        10,
+        18
+      ],
+      "2": [
+        10,
+        18
+      ],
+      "3": [
+        10,
+        18
+      ],
+      "4": [
+        10,
+        21
+      ],
+      "5": [
+        10,
+        18
+      ],
+      "6": [
+        10,
+        18
+      ]
+    },
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -34,6 +100,9 @@
     "name": "Tate Modern",
     "website": "https://tate.org.uk",
     "address": "Bankside",
+    "postcode": "SE1 9TG",
+    "latitude": 51.507618,
+    "longitude": -0.099374,
     "borough": "Southwark",
     "admission": "free_with_paid_exhibitions",
     "price": 0,
@@ -41,6 +110,36 @@
     "category": "art",
     "description": "Britain's national museum of modern and contemporary art, in a former Bankside power station.",
     "opening_hours": "Daily 10:00–18:00",
+    "hours": {
+      "0": [
+        10,
+        18
+      ],
+      "1": [
+        10,
+        18
+      ],
+      "2": [
+        10,
+        18
+      ],
+      "3": [
+        10,
+        18
+      ],
+      "4": [
+        10,
+        18
+      ],
+      "5": [
+        10,
+        18
+      ],
+      "6": [
+        10,
+        18
+      ]
+    },
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -49,6 +148,9 @@
     "name": "Tate Britain",
     "website": "https://tate.org.uk",
     "address": "Millbank",
+    "postcode": "SW1P 4RG",
+    "latitude": 51.490871,
+    "longitude": -0.127181,
     "borough": "Westminster",
     "admission": "free_with_paid_exhibitions",
     "price": 0,
@@ -56,6 +158,36 @@
     "category": "art",
     "description": "Houses the national collection of British art from 1500 to the present, including the Turner Bequest.",
     "opening_hours": "Daily 10:00–18:00",
+    "hours": {
+      "0": [
+        10,
+        18
+      ],
+      "1": [
+        10,
+        18
+      ],
+      "2": [
+        10,
+        18
+      ],
+      "3": [
+        10,
+        18
+      ],
+      "4": [
+        10,
+        18
+      ],
+      "5": [
+        10,
+        18
+      ],
+      "6": [
+        10,
+        18
+      ]
+    },
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -64,6 +196,9 @@
     "name": "Natural History Museum",
     "website": "https://nhm.ac.uk",
     "address": "Cromwell Rd, South Kensington",
+    "postcode": "SW7 5BD",
+    "latitude": 51.496564,
+    "longitude": -0.176868,
     "borough": "Kensington and Chelsea",
     "admission": "free_with_paid_exhibitions",
     "price": 0,
@@ -71,6 +206,36 @@
     "category": "natural-history",
     "description": "Vast natural-world collection spanning dinosaurs, the blue whale and the wonders of the planet.",
     "opening_hours": "Open daily 10:00–17:50",
+    "hours": {
+      "0": [
+        10,
+        17.83
+      ],
+      "1": [
+        10,
+        17.83
+      ],
+      "2": [
+        10,
+        17.83
+      ],
+      "3": [
+        10,
+        17.83
+      ],
+      "4": [
+        10,
+        17.83
+      ],
+      "5": [
+        10,
+        17.83
+      ],
+      "6": [
+        10,
+        17.83
+      ]
+    },
     "hours_source": "scraped",
     "last_verified": "2026-06-07"
   },
@@ -79,6 +244,9 @@
     "name": "Science Museum",
     "website": "https://sciencemuseum.org.uk",
     "address": "Exhibition Rd, South Kensington",
+    "postcode": "SW7 2DD",
+    "latitude": 51.497296,
+    "longitude": -0.176493,
     "borough": "Kensington and Chelsea",
     "admission": "free_with_paid_exhibitions",
     "price": 0,
@@ -86,6 +254,36 @@
     "category": "science",
     "description": "Science, technology and engineering from the Industrial Revolution to space exploration.",
     "opening_hours": "Open daily 10.00–18.00 (last entry 17.15)",
+    "hours": {
+      "0": [
+        10,
+        18
+      ],
+      "1": [
+        10,
+        18
+      ],
+      "2": [
+        10,
+        18
+      ],
+      "3": [
+        10,
+        18
+      ],
+      "4": [
+        10,
+        18
+      ],
+      "5": [
+        10,
+        18
+      ],
+      "6": [
+        10,
+        18
+      ]
+    },
     "hours_source": "scraped",
     "note": "Free entry (pre-book); Wonderlab/IMAX paid.",
     "last_verified": "2026-06-07"
@@ -95,6 +293,9 @@
     "name": "Victoria and Albert Museum",
     "website": "https://vam.ac.uk",
     "address": "Cromwell Rd, South Kensington",
+    "postcode": "SW7 2RL",
+    "latitude": 51.496941,
+    "longitude": -0.172199,
     "borough": "Kensington and Chelsea",
     "admission": "free_with_paid_exhibitions",
     "price": 0,
@@ -102,6 +303,36 @@
     "category": "decorative-arts",
     "description": "The world's leading museum of art, design and performance.",
     "opening_hours": "Daily 10:00–17:45 (Fri until 22:00)",
+    "hours": {
+      "0": [
+        10,
+        17.75
+      ],
+      "1": [
+        10,
+        17.75
+      ],
+      "2": [
+        10,
+        17.75
+      ],
+      "3": [
+        10,
+        17.75
+      ],
+      "4": [
+        10,
+        22
+      ],
+      "5": [
+        10,
+        17.75
+      ],
+      "6": [
+        10,
+        17.75
+      ]
+    },
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -110,6 +341,9 @@
     "name": "National Portrait Gallery",
     "website": "https://npg.org.uk",
     "address": "St Martin's Place",
+    "postcode": "WC2H 0HE",
+    "latitude": 51.509399,
+    "longitude": -0.128453,
     "borough": "Westminster",
     "admission": "free_with_paid_exhibitions",
     "price": 0,
@@ -117,6 +351,36 @@
     "category": "art",
     "description": "Portraits of the most famous and significant people in British history, recently refurbished.",
     "opening_hours": "Daily 10:30–18:00 (Fri–Sat until 21:00)",
+    "hours": {
+      "0": [
+        10.5,
+        18
+      ],
+      "1": [
+        10.5,
+        18
+      ],
+      "2": [
+        10.5,
+        18
+      ],
+      "3": [
+        10.5,
+        18
+      ],
+      "4": [
+        10.5,
+        18
+      ],
+      "5": [
+        10.5,
+        21
+      ],
+      "6": [
+        10.5,
+        18
+      ]
+    },
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -125,6 +389,9 @@
     "name": "Wallace Collection",
     "website": "https://wallacecollection.org",
     "address": "Manchester Sq, Marylebone",
+    "postcode": "W1U 3BN",
+    "latitude": 51.517314,
+    "longitude": -0.152949,
     "borough": "Westminster",
     "admission": "free",
     "price": 0,
@@ -132,6 +399,36 @@
     "category": "art",
     "description": "A national collection of fine and decorative arts in a historic London townhouse, free to all.",
     "opening_hours": "Daily 10.00–17.00",
+    "hours": {
+      "0": [
+        10,
+        17
+      ],
+      "1": [
+        10,
+        17
+      ],
+      "2": [
+        10,
+        17
+      ],
+      "3": [
+        10,
+        17
+      ],
+      "4": [
+        10,
+        17
+      ],
+      "5": [
+        10,
+        17
+      ],
+      "6": [
+        10,
+        17
+      ]
+    },
     "hours_source": "scraped",
     "note": "Free, including temporary exhibitions.",
     "last_verified": "2026-06-07"
@@ -141,6 +438,9 @@
     "name": "Imperial War Museum London",
     "website": "https://iwm.org.uk",
     "address": "Lambeth Rd",
+    "postcode": "SE1 6HZ",
+    "latitude": 51.496009,
+    "longitude": -0.108328,
     "borough": "Southwark",
     "admission": "free_with_paid_exhibitions",
     "price": 0,
@@ -148,6 +448,36 @@
     "category": "military",
     "description": "Explores modern conflict and its impact on people’s lives, from WWI to the present.",
     "opening_hours": "Daily 10:00–18:00",
+    "hours": {
+      "0": [
+        10,
+        18
+      ],
+      "1": [
+        10,
+        18
+      ],
+      "2": [
+        10,
+        18
+      ],
+      "3": [
+        10,
+        18
+      ],
+      "4": [
+        10,
+        18
+      ],
+      "5": [
+        10,
+        18
+      ],
+      "6": [
+        10,
+        18
+      ]
+    },
     "hours_source": "scraped",
     "last_verified": "2026-06-07"
   },
@@ -156,6 +486,9 @@
     "name": "National Army Museum",
     "website": "https://nam.ac.uk",
     "address": "Royal Hospital Rd, Chelsea",
+    "postcode": "SW3 4HT",
+    "latitude": 51.486225,
+    "longitude": -0.160342,
     "borough": "Kensington and Chelsea",
     "admission": "free",
     "price": 0,
@@ -163,6 +496,32 @@
     "category": "military",
     "description": "The story of the British Army and its role in society, in Chelsea.",
     "opening_hours": "Tue–Sun 10:00–17:30",
+    "hours": {
+      "1": [
+        10,
+        17.5
+      ],
+      "2": [
+        10,
+        17.5
+      ],
+      "3": [
+        10,
+        17.5
+      ],
+      "4": [
+        10,
+        17.5
+      ],
+      "5": [
+        10,
+        17.5
+      ],
+      "6": [
+        10,
+        17.5
+      ]
+    },
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -171,6 +530,9 @@
     "name": "National Maritime Museum",
     "website": "https://rmg.co.uk",
     "address": "Greenwich",
+    "postcode": "SE10 9NF",
+    "latitude": 51.480285,
+    "longitude": -0.00602,
     "borough": "Greenwich",
     "admission": "free_with_paid_exhibitions",
     "price": 0,
@@ -178,6 +540,36 @@
     "category": "maritime",
     "description": "The world's largest maritime museum, in Greenwich.",
     "opening_hours": "Daily 10:00–17:00",
+    "hours": {
+      "0": [
+        10,
+        17
+      ],
+      "1": [
+        10,
+        17
+      ],
+      "2": [
+        10,
+        17
+      ],
+      "3": [
+        10,
+        17
+      ],
+      "4": [
+        10,
+        17
+      ],
+      "5": [
+        10,
+        17
+      ],
+      "6": [
+        10,
+        17
+      ]
+    },
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -186,6 +578,9 @@
     "name": "Queen's House",
     "website": "https://rmg.co.uk",
     "address": "Greenwich",
+    "postcode": "SE10 9NF",
+    "latitude": 51.480285,
+    "longitude": -0.00602,
     "borough": "Greenwich",
     "admission": "free",
     "price": 0,
@@ -193,6 +588,36 @@
     "category": "art",
     "description": "Inigo Jones’s pioneering classical villa in Greenwich, home to a fine art collection.",
     "opening_hours": "Daily 10:00–17:00",
+    "hours": {
+      "0": [
+        10,
+        17
+      ],
+      "1": [
+        10,
+        17
+      ],
+      "2": [
+        10,
+        17
+      ],
+      "3": [
+        10,
+        17
+      ],
+      "4": [
+        10,
+        17
+      ],
+      "5": [
+        10,
+        17
+      ],
+      "6": [
+        10,
+        17
+      ]
+    },
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -201,6 +626,9 @@
     "name": "Wellcome Collection",
     "website": "https://wellcomecollection.org",
     "address": "183 Euston Rd",
+    "postcode": "NW1 2BE",
+    "latitude": 51.525898,
+    "longitude": -0.133918,
     "borough": "Camden",
     "admission": "free",
     "price": 0,
@@ -208,6 +636,32 @@
     "category": "medical",
     "description": "Free museum and library exploring health, medicine and what it means to be human.",
     "opening_hours": "Tue–Sun 10:00–18:00 (Thu until 20:00)",
+    "hours": {
+      "1": [
+        10,
+        18
+      ],
+      "2": [
+        10,
+        18
+      ],
+      "3": [
+        10,
+        20
+      ],
+      "4": [
+        10,
+        18
+      ],
+      "5": [
+        10,
+        18
+      ],
+      "6": [
+        10,
+        18
+      ]
+    },
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -216,13 +670,46 @@
     "name": "British Library",
     "website": "https://bl.uk",
     "address": "96 Euston Rd",
+    "postcode": "NW1 2DB",
+    "latitude": 51.529987,
+    "longitude": -0.126989,
     "borough": "Camden",
     "admission": "free_with_paid_exhibitions",
     "price": 0,
     "price_text": "Free; some exhibitions ticketed",
     "category": "library",
     "description": "One of the world's great research libraries; its Treasures Gallery shows Magna Carta and more.",
-    "opening_hours": "Mon–Thu 09:30–20:00; Fri until 18:00; Sat until 17:00; Sun 11:00–17:00",
+    "opening_hours": "Mon–Thu 09:30–20:00; Fri 09:30–18:00; Sat 09:30–17:00; Sun 11:00–17:00",
+    "hours": {
+      "0": [
+        9.5,
+        20
+      ],
+      "1": [
+        9.5,
+        20
+      ],
+      "2": [
+        9.5,
+        20
+      ],
+      "3": [
+        9.5,
+        20
+      ],
+      "4": [
+        9.5,
+        18
+      ],
+      "5": [
+        9.5,
+        17
+      ],
+      "6": [
+        11,
+        17
+      ]
+    },
     "hours_source": "editorial",
     "note": "Treasures Gallery free; some exhibitions paid.",
     "last_verified": "2026-06-07"
@@ -232,6 +719,9 @@
     "name": "Sir John Soane's Museum",
     "website": "https://soane.org",
     "address": "13 Lincoln's Inn Fields, Holborn",
+    "postcode": "WC2A 3BP",
+    "latitude": 51.516956,
+    "longitude": -0.117953,
     "borough": "Camden",
     "admission": "free",
     "price": 0,
@@ -239,6 +729,28 @@
     "category": "house",
     "description": "The architect's atmospheric house-museum, preserved as it was at his death in 1837.",
     "opening_hours": "Wed–Sun 10:00–17:00",
+    "hours": {
+      "2": [
+        10,
+        17
+      ],
+      "3": [
+        10,
+        17
+      ],
+      "4": [
+        10,
+        17
+      ],
+      "5": [
+        10,
+        17
+      ],
+      "6": [
+        10,
+        17
+      ]
+    },
     "hours_source": "scraped",
     "note": "Free walk-in; Highlights Tour ~£25.",
     "last_verified": "2026-06-07"
@@ -248,6 +760,9 @@
     "name": "Young V&A",
     "website": "https://vam.ac.uk/young",
     "address": "Cambridge Heath Rd, Bethnal Green",
+    "postcode": "E2 9PA",
+    "latitude": 51.527774,
+    "longitude": -0.055182,
     "borough": "Tower Hamlets",
     "admission": "free",
     "price": 0,
@@ -255,6 +770,36 @@
     "category": "decorative-arts",
     "description": "The V&A's museum of childhood and creativity for young people, in Bethnal Green.",
     "opening_hours": "Daily 10:00–17:45",
+    "hours": {
+      "0": [
+        10,
+        17.75
+      ],
+      "1": [
+        10,
+        17.75
+      ],
+      "2": [
+        10,
+        17.75
+      ],
+      "3": [
+        10,
+        17.75
+      ],
+      "4": [
+        10,
+        17.75
+      ],
+      "5": [
+        10,
+        17.75
+      ],
+      "6": [
+        10,
+        17.75
+      ]
+    },
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -263,6 +808,9 @@
     "name": "Horniman Museum & Gardens",
     "website": "https://horniman.ac.uk",
     "address": "100 London Rd, Forest Hill",
+    "postcode": "SE23 3PQ",
+    "latitude": 51.441131,
+    "longitude": -0.060737,
     "borough": "Lewisham",
     "admission": "free_with_paid_exhibitions",
     "price": 0,
@@ -270,6 +818,36 @@
     "category": "natural-history",
     "description": "Anthropology, natural history and music collections set in 16 acres of gardens.",
     "opening_hours": "Daily 10:00–17:30 (gardens until dusk)",
+    "hours": {
+      "0": [
+        10,
+        17.5
+      ],
+      "1": [
+        10,
+        17.5
+      ],
+      "2": [
+        10,
+        17.5
+      ],
+      "3": [
+        10,
+        17.5
+      ],
+      "4": [
+        10,
+        17.5
+      ],
+      "5": [
+        10,
+        17.5
+      ],
+      "6": [
+        10,
+        17.5
+      ]
+    },
     "hours_source": "editorial",
     "note": "Free; aquarium/butterfly house charged.",
     "last_verified": "2026-06-07"
@@ -279,6 +857,9 @@
     "name": "Guildhall Art Gallery",
     "website": "https://cityoflondon.gov.uk",
     "address": "Guildhall Yard",
+    "postcode": "EC2V 5AE",
+    "latitude": 51.515276,
+    "longitude": -0.091906,
     "borough": "City of London",
     "admission": "free",
     "price": 0,
@@ -286,6 +867,36 @@
     "category": "art",
     "description": "The City of London's art gallery, with a preserved Roman amphitheatre beneath it.",
     "opening_hours": "Daily 10:30–16:00",
+    "hours": {
+      "0": [
+        10.5,
+        16
+      ],
+      "1": [
+        10.5,
+        16
+      ],
+      "2": [
+        10.5,
+        16
+      ],
+      "3": [
+        10.5,
+        16
+      ],
+      "4": [
+        10.5,
+        16
+      ],
+      "5": [
+        10.5,
+        16
+      ],
+      "6": [
+        10.5,
+        16
+      ]
+    },
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -294,6 +905,9 @@
     "name": "Museum of the Home",
     "website": "https://museumofthehome.org.uk",
     "address": "136 Kingsland Rd, Hoxton",
+    "postcode": "E2 8EA",
+    "latitude": 51.531557,
+    "longitude": -0.076244,
     "borough": "Hackney",
     "admission": "free",
     "price": 0,
@@ -301,6 +915,32 @@
     "category": "decorative-arts",
     "description": "Explores the way we live through recreated period rooms and gardens, in former almshouses.",
     "opening_hours": "Tue–Sun 10:00–17:00",
+    "hours": {
+      "1": [
+        10,
+        17
+      ],
+      "2": [
+        10,
+        17
+      ],
+      "3": [
+        10,
+        17
+      ],
+      "4": [
+        10,
+        17
+      ],
+      "5": [
+        10,
+        17
+      ],
+      "6": [
+        10,
+        17
+      ]
+    },
     "hours_source": "scraped",
     "note": "Audio guide ~£3.50.",
     "last_verified": "2026-06-07"
@@ -310,6 +950,9 @@
     "name": "Bank of England Museum",
     "website": "https://bankofengland.co.uk/museum",
     "address": "Threadneedle St",
+    "postcode": "EC2R 8AH",
+    "latitude": 51.514188,
+    "longitude": -0.088622,
     "borough": "City of London",
     "admission": "free",
     "price": 0,
@@ -317,6 +960,28 @@
     "category": "history",
     "description": "The history of the Bank of England, where you can lift a real gold bar.",
     "opening_hours": "Mon–Fri 10:00–17:00 (last entry 16.30)",
+    "hours": {
+      "0": [
+        10,
+        17
+      ],
+      "1": [
+        10,
+        17
+      ],
+      "2": [
+        10,
+        17
+      ],
+      "3": [
+        10,
+        17
+      ],
+      "4": [
+        10,
+        17
+      ]
+    },
     "hours_source": "scraped",
     "last_verified": "2026-06-07"
   },
@@ -325,6 +990,9 @@
     "name": "London Museum Docklands",
     "website": "https://londonmuseum.org.uk/docklands",
     "address": "West India Quay",
+    "postcode": "E14 4AL",
+    "latitude": 51.507613,
+    "longitude": -0.024539,
     "borough": "Tower Hamlets",
     "admission": "free",
     "price": 0,
@@ -332,6 +1000,36 @@
     "category": "maritime",
     "description": "The history of London's river, port and Docklands, in a Georgian warehouse.",
     "opening_hours": "Daily 10:00–17:00",
+    "hours": {
+      "0": [
+        10,
+        17
+      ],
+      "1": [
+        10,
+        17
+      ],
+      "2": [
+        10,
+        17
+      ],
+      "3": [
+        10,
+        17
+      ],
+      "4": [
+        10,
+        17
+      ],
+      "5": [
+        10,
+        17
+      ],
+      "6": [
+        10,
+        17
+      ]
+    },
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -340,6 +1038,9 @@
     "name": "V&A East Museum",
     "website": "https://vam.ac.uk/east",
     "address": "Queen Elizabeth Olympic Park, Stratford",
+    "postcode": "E20 3BS",
+    "latitude": 51.547521,
+    "longitude": -0.022262,
     "borough": "Newham",
     "admission": "free_with_paid_exhibitions",
     "price": 0,
@@ -347,6 +1048,36 @@
     "category": "decorative-arts",
     "description": "New V&A museum in Stratford showcasing creativity and design, opened in 2026.",
     "opening_hours": "Daily 10:00–18:00",
+    "hours": {
+      "0": [
+        10,
+        18
+      ],
+      "1": [
+        10,
+        18
+      ],
+      "2": [
+        10,
+        18
+      ],
+      "3": [
+        10,
+        18
+      ],
+      "4": [
+        10,
+        18
+      ],
+      "5": [
+        10,
+        18
+      ],
+      "6": [
+        10,
+        18
+      ]
+    },
     "hours_source": "editorial",
     "note": "Opened 18 Apr 2026.",
     "last_verified": "2026-06-07"
@@ -356,6 +1087,9 @@
     "name": "V&A East Storehouse",
     "website": "https://vam.ac.uk/east",
     "address": "Queen Elizabeth Olympic Park, Stratford",
+    "postcode": "E20 3BS",
+    "latitude": 51.547521,
+    "longitude": -0.022262,
     "borough": "Newham",
     "admission": "free",
     "price": 0,
@@ -363,6 +1097,36 @@
     "category": "decorative-arts",
     "description": "The V&A's working collection store in Stratford, offering behind-the-scenes access.",
     "opening_hours": "Daily 10:00–18:00",
+    "hours": {
+      "0": [
+        10,
+        18
+      ],
+      "1": [
+        10,
+        18
+      ],
+      "2": [
+        10,
+        18
+      ],
+      "3": [
+        10,
+        18
+      ],
+      "4": [
+        10,
+        18
+      ],
+      "5": [
+        10,
+        18
+      ],
+      "6": [
+        10,
+        18
+      ]
+    },
     "hours_source": "editorial",
     "note": "Opened 2025.",
     "last_verified": "2026-06-07"
@@ -372,13 +1136,46 @@
     "name": "Tower of London",
     "website": "https://hrp.org.uk",
     "address": "Tower Hill",
+    "postcode": "EC3N 4AB",
+    "latitude": 51.508275,
+    "longitude": -0.076246,
     "borough": "Tower Hamlets",
     "admission": "paid",
     "price": 34.8,
     "price_text": "~£34.80 adult online advance",
     "category": "history",
     "description": "Historic royal fortress and palace, home to the Crown Jewels and the Yeoman Warders.",
-    "opening_hours": "Daily 09:00–17:30 (Sun–Mon from 10:00; winter until 16:30)",
+    "opening_hours": "Tue–Sat 09:00–17:30; Sun–Mon 10:00–17:30 (winter until 16:30)",
+    "hours": {
+      "0": [
+        10,
+        17.5
+      ],
+      "1": [
+        9,
+        17.5
+      ],
+      "2": [
+        9,
+        17.5
+      ],
+      "3": [
+        9,
+        17.5
+      ],
+      "4": [
+        9,
+        17.5
+      ],
+      "5": [
+        9,
+        17.5
+      ],
+      "6": [
+        10,
+        17.5
+      ]
+    },
     "hours_source": "editorial",
     "note": "~£34.80 adult online advance.",
     "last_verified": "2026-06-07"
@@ -388,6 +1185,9 @@
     "name": "Hampton Court Palace",
     "website": "https://hrp.org.uk",
     "address": "East Molesey",
+    "postcode": "KT8 9AU",
+    "latitude": 51.403812,
+    "longitude": -0.337649,
     "borough": "Richmond upon Thames",
     "admission": "paid",
     "price": 27.2,
@@ -395,6 +1195,36 @@
     "category": "house",
     "description": "Henry VIII's spectacular Tudor palace with Baroque additions and famous gardens.",
     "opening_hours": "Daily 10:00–17:30 (winter until 16:30)",
+    "hours": {
+      "0": [
+        10,
+        17.5
+      ],
+      "1": [
+        10,
+        17.5
+      ],
+      "2": [
+        10,
+        17.5
+      ],
+      "3": [
+        10,
+        17.5
+      ],
+      "4": [
+        10,
+        17.5
+      ],
+      "5": [
+        10,
+        17.5
+      ],
+      "6": [
+        10,
+        17.5
+      ]
+    },
     "hours_source": "editorial",
     "note": "~£27.20 adult.",
     "last_verified": "2026-06-07"
@@ -404,6 +1234,9 @@
     "name": "Kensington Palace",
     "website": "https://hrp.org.uk",
     "address": "Kensington Gardens",
+    "postcode": "W8 4PX",
+    "latitude": 51.505199,
+    "longitude": -0.188022,
     "borough": "Kensington and Chelsea",
     "admission": "paid",
     "price": 20,
@@ -411,6 +1244,28 @@
     "category": "house",
     "description": "Working royal residence and museum in Kensington Gardens, birthplace of Queen Victoria.",
     "opening_hours": "Wed–Sun 10:00–18:00 (winter until 16:00)",
+    "hours": {
+      "2": [
+        10,
+        18
+      ],
+      "3": [
+        10,
+        18
+      ],
+      "4": [
+        10,
+        18
+      ],
+      "5": [
+        10,
+        18
+      ],
+      "6": [
+        10,
+        18
+      ]
+    },
     "hours_source": "editorial",
     "note": "~£20 adult.",
     "last_verified": "2026-06-07"
@@ -420,6 +1275,9 @@
     "name": "Churchill War Rooms",
     "website": "https://iwm.org.uk",
     "address": "Clive Steps, King Charles St",
+    "postcode": "SW1A 2AQ",
+    "latitude": 51.502166,
+    "longitude": -0.126574,
     "borough": "Westminster",
     "admission": "paid",
     "price": 34,
@@ -427,6 +1285,36 @@
     "category": "military",
     "description": "Churchill's secret underground WWII command centre, preserved beneath Whitehall.",
     "opening_hours": "Daily 09:30–18:00",
+    "hours": {
+      "0": [
+        9.5,
+        18
+      ],
+      "1": [
+        9.5,
+        18
+      ],
+      "2": [
+        9.5,
+        18
+      ],
+      "3": [
+        9.5,
+        18
+      ],
+      "4": [
+        9.5,
+        18
+      ],
+      "5": [
+        9.5,
+        18
+      ],
+      "6": [
+        9.5,
+        18
+      ]
+    },
     "hours_source": "scraped",
     "last_verified": "2026-06-07"
   },
@@ -435,6 +1323,9 @@
     "name": "HMS Belfast",
     "website": "https://iwm.org.uk",
     "address": "The Queen's Walk",
+    "postcode": "SE1 2JH",
+    "latitude": 51.506589,
+    "longitude": -0.081461,
     "borough": "Southwark",
     "admission": "paid",
     "price": 26.8,
@@ -442,6 +1333,36 @@
     "category": "maritime",
     "description": "A WWII Royal Navy cruiser preserved as a floating museum on the Thames.",
     "opening_hours": "Daily 10:00–18:00 (except 24–26 Dec)",
+    "hours": {
+      "0": [
+        10,
+        18
+      ],
+      "1": [
+        10,
+        18
+      ],
+      "2": [
+        10,
+        18
+      ],
+      "3": [
+        10,
+        18
+      ],
+      "4": [
+        10,
+        18
+      ],
+      "5": [
+        10,
+        18
+      ],
+      "6": [
+        10,
+        18
+      ]
+    },
     "hours_source": "scraped",
     "note": "~£22.70 adult.",
     "last_verified": "2026-06-07"
@@ -451,6 +1372,9 @@
     "name": "Cutty Sark",
     "website": "https://rmg.co.uk",
     "address": "Greenwich",
+    "postcode": "SE10 9HT",
+    "latitude": 51.483529,
+    "longitude": -0.009594,
     "borough": "Greenwich",
     "admission": "paid",
     "price": 22,
@@ -458,6 +1382,36 @@
     "category": "maritime",
     "description": "The world’s sole surviving tea clipper, in dry dock at Greenwich.",
     "opening_hours": "Daily 10:00–17:00",
+    "hours": {
+      "0": [
+        10,
+        17
+      ],
+      "1": [
+        10,
+        17
+      ],
+      "2": [
+        10,
+        17
+      ],
+      "3": [
+        10,
+        17
+      ],
+      "4": [
+        10,
+        17
+      ],
+      "5": [
+        10,
+        17
+      ],
+      "6": [
+        10,
+        17
+      ]
+    },
     "hours_source": "scraped",
     "note": "~£22 adult; RMG Day Pass £38 with Observatory.",
     "last_verified": "2026-06-07"
@@ -467,6 +1421,9 @@
     "name": "Royal Observatory Greenwich",
     "website": "https://rmg.co.uk",
     "address": "Blackheath Ave",
+    "postcode": "SE10 8XJ",
+    "latitude": 51.477346,
+    "longitude": -0.000848,
     "borough": "Greenwich",
     "admission": "paid",
     "price": 24,
@@ -474,6 +1431,36 @@
     "category": "science",
     "description": "Home of Greenwich Mean Time and the Prime Meridian, with astronomy galleries.",
     "opening_hours": "Daily 10:00–17:00 (last entry 16:15)",
+    "hours": {
+      "0": [
+        10,
+        17
+      ],
+      "1": [
+        10,
+        17
+      ],
+      "2": [
+        10,
+        17
+      ],
+      "3": [
+        10,
+        17
+      ],
+      "4": [
+        10,
+        17
+      ],
+      "5": [
+        10,
+        17
+      ],
+      "6": [
+        10,
+        17
+      ]
+    },
     "hours_source": "scraped",
     "note": "Astronomy and horology.",
     "last_verified": "2026-06-07"
@@ -483,6 +1470,9 @@
     "name": "Westminster Abbey",
     "website": "https://westminster-abbey.org",
     "address": "Westminster",
+    "postcode": "SW1P 3PA",
+    "latitude": 51.498763,
+    "longitude": -0.128082,
     "borough": "Westminster",
     "admission": "paid",
     "price": 31,
@@ -490,6 +1480,7 @@
     "category": "history",
     "description": "Gothic abbey and royal church, site of coronations and burials for over 1,000 years.",
     "opening_hours": "Mon–Sat (times vary; closed to tourists Sun)",
+    "hours": null,
     "hours_source": "editorial",
     "note": "~£31 adult.",
     "last_verified": "2026-06-07"
@@ -499,6 +1490,9 @@
     "name": "Apsley House (Wellington Museum)",
     "website": "https://english-heritage.org.uk",
     "address": "Hyde Park Corner",
+    "postcode": "W1J 7NT",
+    "latitude": 51.503412,
+    "longitude": -0.15184,
     "borough": "Westminster",
     "admission": "paid",
     "price": 12.3,
@@ -506,6 +1500,28 @@
     "category": "house",
     "description": "The Duke of Wellington's grand London home, with a fine art collection.",
     "opening_hours": "Wed–Sun 11:00–17:00 (seasonal)",
+    "hours": {
+      "2": [
+        11,
+        17
+      ],
+      "3": [
+        11,
+        17
+      ],
+      "4": [
+        11,
+        17
+      ],
+      "5": [
+        11,
+        17
+      ],
+      "6": [
+        11,
+        17
+      ]
+    },
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -514,6 +1530,9 @@
     "name": "Kenwood House",
     "website": "https://english-heritage.org.uk",
     "address": "Hampstead",
+    "postcode": "NW3 7JR",
+    "latitude": 51.571328,
+    "longitude": -0.1676,
     "borough": "Camden",
     "admission": "free",
     "price": 0,
@@ -521,6 +1540,36 @@
     "category": "house",
     "description": "Neoclassical villa on Hampstead Heath with an exceptional collection of paintings, free to enter.",
     "opening_hours": "Daily 10:00–17:00",
+    "hours": {
+      "0": [
+        10,
+        17
+      ],
+      "1": [
+        10,
+        17
+      ],
+      "2": [
+        10,
+        17
+      ],
+      "3": [
+        10,
+        17
+      ],
+      "4": [
+        10,
+        17
+      ],
+      "5": [
+        10,
+        17
+      ],
+      "6": [
+        10,
+        17
+      ]
+    },
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -529,6 +1578,9 @@
     "name": "Eltham Palace",
     "website": "https://english-heritage.org.uk",
     "address": "Eltham",
+    "postcode": "SE9 5QE",
+    "latitude": 51.448212,
+    "longitude": 0.049517,
     "borough": "Greenwich",
     "admission": "paid",
     "price": 17.8,
@@ -536,6 +1588,7 @@
     "category": "house",
     "description": "Medieval royal palace fused with a spectacular Art Deco mansion.",
     "opening_hours": "Sun–Thu (seasonal; check site)",
+    "hours": null,
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -544,6 +1597,9 @@
     "name": "Down House",
     "website": "https://english-heritage.org.uk",
     "address": "Downe",
+    "postcode": "BR6 7JT",
+    "latitude": 51.324537,
+    "longitude": 0.054407,
     "borough": "Bromley",
     "admission": "paid",
     "price": 14.4,
@@ -551,6 +1607,7 @@
     "category": "house",
     "description": "The home of Charles Darwin, where he wrote On the Origin of Species.",
     "opening_hours": "Wed–Sun (seasonal)",
+    "hours": null,
     "hours_source": "editorial",
     "note": "Home of Charles Darwin.",
     "last_verified": "2026-06-07"
@@ -560,6 +1617,9 @@
     "name": "Marble Hill House",
     "website": "https://english-heritage.org.uk",
     "address": "Richmond",
+    "postcode": "TW1 2NL",
+    "latitude": 51.449705,
+    "longitude": -0.315905,
     "borough": "Richmond upon Thames",
     "admission": "varies",
     "price": null,
@@ -567,6 +1627,7 @@
     "category": "house",
     "description": "Palladian villa beside the Thames in Richmond, built for a royal mistress.",
     "opening_hours": "Limited opening (check site)",
+    "hours": null,
     "hours_source": "editorial",
     "note": "Free/limited opening.",
     "last_verified": "2026-06-07"
@@ -576,6 +1637,9 @@
     "name": "Ranger's House (Wernher Collection)",
     "website": "https://english-heritage.org.uk",
     "address": "Greenwich",
+    "postcode": "SE10 8QX",
+    "latitude": 51.473411,
+    "longitude": -0.001611,
     "borough": "Greenwich",
     "admission": "paid",
     "price": 11.3,
@@ -583,6 +1647,7 @@
     "category": "art",
     "description": "Georgian villa in Greenwich housing the Wernher Collection of art.",
     "opening_hours": "Pre-booked, seasonal (check site)",
+    "hours": null,
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -591,6 +1656,9 @@
     "name": "Jewel Tower",
     "website": "https://english-heritage.org.uk",
     "address": "Westminster",
+    "postcode": "SW1P 3JX",
+    "latitude": 51.500005,
+    "longitude": -0.126979,
     "borough": "Westminster",
     "admission": "paid",
     "price": 6.5,
@@ -598,6 +1666,7 @@
     "category": "history",
     "description": "A surviving 14th-century tower of the medieval Palace of Westminster.",
     "opening_hours": "Sat–Sun (seasonal; check site)",
+    "hours": null,
     "hours_source": "editorial",
     "note": "Small charge.",
     "last_verified": "2026-06-07"
@@ -607,6 +1676,9 @@
     "name": "Wellington Arch",
     "website": "https://english-heritage.org.uk",
     "address": "Hyde Park Corner",
+    "postcode": "W1J 7JZ",
+    "latitude": 51.50273,
+    "longitude": -0.15077,
     "borough": "Westminster",
     "admission": "paid",
     "price": 6.5,
@@ -614,6 +1686,28 @@
     "category": "history",
     "description": "Triumphal arch at Hyde Park Corner with galleries and a viewing platform.",
     "opening_hours": "Wed–Sun 10:00–16:00 (seasonal)",
+    "hours": {
+      "2": [
+        10,
+        16
+      ],
+      "3": [
+        10,
+        16
+      ],
+      "4": [
+        10,
+        16
+      ],
+      "5": [
+        10,
+        16
+      ],
+      "6": [
+        10,
+        16
+      ]
+    },
     "hours_source": "editorial",
     "note": "Small charge.",
     "last_verified": "2026-06-07"
@@ -623,6 +1717,9 @@
     "name": "2 Willow Road",
     "website": "https://nationaltrust.org.uk",
     "address": "Hampstead",
+    "postcode": "NW3 1TH",
+    "latitude": 51.557193,
+    "longitude": -0.169394,
     "borough": "Camden",
     "admission": "paid",
     "price": 10,
@@ -630,6 +1727,7 @@
     "category": "house",
     "description": "Ernö Goldfinger's modernist Hampstead home, in the care of the National Trust.",
     "opening_hours": "Wed–Sun (seasonal; National Trust)",
+    "hours": null,
     "hours_source": "editorial",
     "note": "Modernist house.",
     "last_verified": "2026-06-07"
@@ -639,6 +1737,9 @@
     "name": "Carlyle's House",
     "website": "https://nationaltrust.org.uk",
     "address": "Chelsea",
+    "postcode": "SW3 5HL",
+    "latitude": 51.483932,
+    "longitude": -0.169537,
     "borough": "Kensington and Chelsea",
     "admission": "paid",
     "price": 9.5,
@@ -646,6 +1747,7 @@
     "category": "house",
     "description": "The Chelsea home of writer Thomas Carlyle, preserved as a Victorian interior.",
     "opening_hours": "Wed–Sun (seasonal; National Trust)",
+    "hours": null,
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -654,6 +1756,9 @@
     "name": "Fenton House",
     "website": "https://nationaltrust.org.uk",
     "address": "Hampstead",
+    "postcode": "NW3 6SP",
+    "latitude": 51.558694,
+    "longitude": -0.179173,
     "borough": "Camden",
     "admission": "paid",
     "price": 11,
@@ -661,6 +1766,7 @@
     "category": "house",
     "description": "17th-century merchant’s house in Hampstead with a walled garden and keyboard instruments.",
     "opening_hours": "Wed–Sun (seasonal; National Trust)",
+    "hours": null,
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -669,6 +1775,9 @@
     "name": "Ham House",
     "website": "https://nationaltrust.org.uk",
     "address": "Ham",
+    "postcode": "TW10 7RS",
+    "latitude": 51.44424,
+    "longitude": -0.314193,
     "borough": "Richmond upon Thames",
     "admission": "paid",
     "price": 14,
@@ -676,6 +1785,7 @@
     "category": "house",
     "description": "A rare survival of 17th-century Stuart taste and fashion, beside the Thames.",
     "opening_hours": "Daily (seasonal; National Trust)",
+    "hours": null,
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -684,6 +1794,9 @@
     "name": "Osterley Park and House",
     "website": "https://nationaltrust.org.uk",
     "address": "Isleworth",
+    "postcode": "TW7 4RB",
+    "latitude": 51.490736,
+    "longitude": -0.353143,
     "borough": "Hounslow",
     "admission": "paid",
     "price": 13,
@@ -691,6 +1804,7 @@
     "category": "house",
     "description": "Grand Robert Adam mansion and landscaped park in west London.",
     "opening_hours": "Daily (seasonal; National Trust)",
+    "hours": null,
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -699,6 +1813,9 @@
     "name": "Sutton House",
     "website": "https://nationaltrust.org.uk",
     "address": "Hackney",
+    "postcode": "E9 6JQ",
+    "latitude": 51.548486,
+    "longitude": -0.050404,
     "borough": "Hackney",
     "admission": "paid",
     "price": 6.5,
@@ -706,6 +1823,7 @@
     "category": "house",
     "description": "A rare Tudor house in Hackney, built in 1535.",
     "opening_hours": "Fri–Sun (National Trust)",
+    "hours": null,
     "hours_source": "editorial",
     "note": "Tudor house.",
     "last_verified": "2026-06-07"
@@ -715,6 +1833,9 @@
     "name": "Red House",
     "website": "https://nationaltrust.org.uk",
     "address": "Bexleyheath",
+    "postcode": "DA6 8JF",
+    "latitude": 51.455562,
+    "longitude": 0.129563,
     "borough": "Bexley",
     "admission": "paid",
     "price": 11,
@@ -722,6 +1843,7 @@
     "category": "house",
     "description": "William Morris's Arts and Crafts home, designed with Philip Webb.",
     "opening_hours": "Wed–Sun (National Trust)",
+    "hours": null,
     "hours_source": "editorial",
     "note": "Home of William Morris.",
     "last_verified": "2026-06-07"
@@ -731,6 +1853,9 @@
     "name": "Eastbury Manor House",
     "website": "https://nationaltrust.org.uk",
     "address": "Barking",
+    "postcode": "IG11 9SN",
+    "latitude": 51.534344,
+    "longitude": 0.099454,
     "borough": "Barking and Dagenham",
     "admission": "paid",
     "price": 6,
@@ -738,6 +1863,7 @@
     "category": "house",
     "description": "A well-preserved Elizabethan manor house in Barking.",
     "opening_hours": "Limited opening (National Trust)",
+    "hours": null,
     "hours_source": "editorial",
     "note": "Tudor house; limited opening.",
     "last_verified": "2026-06-07"
@@ -747,6 +1873,9 @@
     "name": "Rainham Hall",
     "website": "https://nationaltrust.org.uk",
     "address": "Rainham",
+    "postcode": "RM13 9YN",
+    "latitude": 51.517737,
+    "longitude": 0.190783,
     "borough": "Havering",
     "admission": "paid",
     "price": 8,
@@ -754,6 +1883,7 @@
     "category": "house",
     "description": "18th-century Georgian house with a garden and café, in Havering.",
     "opening_hours": "Wed–Sun (seasonal; National Trust)",
+    "hours": null,
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -762,6 +1892,9 @@
     "name": "Charles Dickens Museum",
     "website": "https://dickensmuseum.com",
     "address": "48 Doughty St, Holborn",
+    "postcode": "WC1N 2LX",
+    "latitude": 51.523601,
+    "longitude": -0.116237,
     "borough": "Camden",
     "admission": "paid",
     "price": 12.5,
@@ -769,6 +1902,28 @@
     "category": "house",
     "description": "Dickens's only surviving London home, where he wrote Oliver Twist.",
     "opening_hours": "Wed–Sun 10:00–17:00 (last entry 16:00)",
+    "hours": {
+      "2": [
+        10,
+        17
+      ],
+      "3": [
+        10,
+        17
+      ],
+      "4": [
+        10,
+        17
+      ],
+      "5": [
+        10,
+        17
+      ],
+      "6": [
+        10,
+        17
+      ]
+    },
     "hours_source": "scraped",
     "note": "~£12.50–15 adult.",
     "last_verified": "2026-06-07"
@@ -778,6 +1933,9 @@
     "name": "Freud Museum",
     "website": "https://freud.org.uk",
     "address": "20 Maresfield Gardens, Hampstead",
+    "postcode": "NW3 5SX",
+    "latitude": 51.548838,
+    "longitude": -0.177417,
     "borough": "Camden",
     "admission": "paid",
     "price": 14.9,
@@ -785,6 +1943,28 @@
     "category": "house",
     "description": "The final home of Sigmund Freud, complete with his famous psychoanalytic couch.",
     "opening_hours": "Wed–Sun 10:30–17:00",
+    "hours": {
+      "2": [
+        10.5,
+        17
+      ],
+      "3": [
+        10.5,
+        17
+      ],
+      "4": [
+        10.5,
+        17
+      ],
+      "5": [
+        10.5,
+        17
+      ],
+      "6": [
+        10.5,
+        17
+      ]
+    },
     "hours_source": "scraped",
     "last_verified": "2026-06-07"
   },
@@ -793,6 +1973,9 @@
     "name": "Keats House",
     "website": "https://cityoflondon.gov.uk",
     "address": "Keats Grove, Hampstead",
+    "postcode": "NW3 2RR",
+    "latitude": 51.555484,
+    "longitude": -0.168208,
     "borough": "Camden",
     "admission": "paid",
     "price": 9,
@@ -800,6 +1983,20 @@
     "category": "house",
     "description": "The Hampstead home where Romantic poet John Keats wrote some of his finest verse.",
     "opening_hours": "Fri–Sun 11:00–17:00",
+    "hours": {
+      "4": [
+        11,
+        17
+      ],
+      "5": [
+        11,
+        17
+      ],
+      "6": [
+        11,
+        17
+      ]
+    },
     "hours_source": "editorial",
     "note": "Small charge.",
     "last_verified": "2026-06-07"
@@ -809,6 +2006,9 @@
     "name": "Dr Johnson's House",
     "website": "https://drjohnsonshouse.org",
     "address": "17 Gough Square",
+    "postcode": "EC4A 3DE",
+    "latitude": 51.515155,
+    "longitude": -0.107765,
     "borough": "City of London",
     "admission": "paid",
     "price": 10,
@@ -816,6 +2016,32 @@
     "category": "house",
     "description": "The Georgian townhouse where Samuel Johnson compiled his Dictionary.",
     "opening_hours": "Mon–Sat 11:00–17:00 (Oct–Apr until 16:30)",
+    "hours": {
+      "0": [
+        11,
+        17
+      ],
+      "1": [
+        11,
+        17
+      ],
+      "2": [
+        11,
+        17
+      ],
+      "3": [
+        11,
+        17
+      ],
+      "4": [
+        11,
+        17
+      ],
+      "5": [
+        11,
+        17
+      ]
+    },
     "hours_source": "scraped",
     "last_verified": "2026-06-07"
   },
@@ -824,6 +2050,9 @@
     "name": "Handel Hendrix House",
     "website": "https://handelhendrix.org",
     "address": "25 Brook St, Mayfair",
+    "postcode": "W1K 4HB",
+    "latitude": 51.512967,
+    "longitude": -0.145904,
     "borough": "Westminster",
     "admission": "paid",
     "price": 14.5,
@@ -831,6 +2060,28 @@
     "category": "house",
     "description": "The adjoining Mayfair homes of composer Handel and rock guitarist Jimi Hendrix.",
     "opening_hours": "Wed–Sun 10:00–17:00",
+    "hours": {
+      "2": [
+        10,
+        17
+      ],
+      "3": [
+        10,
+        17
+      ],
+      "4": [
+        10,
+        17
+      ],
+      "5": [
+        10,
+        17
+      ],
+      "6": [
+        10,
+        17
+      ]
+    },
     "hours_source": "scraped",
     "note": "£14.50 adult.",
     "last_verified": "2026-06-07"
@@ -840,6 +2091,9 @@
     "name": "Leighton House Museum",
     "website": "https://rbkc.gov.uk/museums/leighton-house",
     "address": "12 Holland Park Rd",
+    "postcode": "W14 8LZ",
+    "latitude": 51.498433,
+    "longitude": -0.203534,
     "borough": "Kensington and Chelsea",
     "admission": "paid",
     "price": 11,
@@ -847,6 +2101,32 @@
     "category": "house",
     "description": "The opulent studio-house of Victorian artist Frederic, Lord Leighton.",
     "opening_hours": "Wed–Mon 10:00–17:30 (last entry 16:30)",
+    "hours": {
+      "0": [
+        10,
+        17.5
+      ],
+      "2": [
+        10,
+        17.5
+      ],
+      "3": [
+        10,
+        17.5
+      ],
+      "4": [
+        10,
+        17.5
+      ],
+      "5": [
+        10,
+        17.5
+      ],
+      "6": [
+        10,
+        17.5
+      ]
+    },
     "hours_source": "scraped",
     "note": "Artist's house.",
     "last_verified": "2026-06-07"
@@ -856,6 +2136,9 @@
     "name": "18 Stafford Terrace (Linley Sambourne House)",
     "website": "https://rbkc.gov.uk",
     "address": "Holland Park",
+    "postcode": "W8 7BH",
+    "latitude": 51.500419,
+    "longitude": -0.197015,
     "borough": "Kensington and Chelsea",
     "admission": "paid",
     "price": 10,
@@ -863,6 +2146,7 @@
     "category": "house",
     "description": "A perfectly preserved Victorian middle-class home in Kensington.",
     "opening_hours": "Wed, Sat & Sun (guided)",
+    "hours": null,
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -871,6 +2155,9 @@
     "name": "Hogarth's House",
     "website": "https://hogarthshouse.org",
     "address": "Chiswick",
+    "postcode": "W4 2QN",
+    "latitude": 51.487099,
+    "longitude": -0.258815,
     "borough": "Hounslow",
     "admission": "free",
     "price": 0,
@@ -878,6 +2165,32 @@
     "category": "house",
     "description": "The country home of painter William Hogarth, in Chiswick.",
     "opening_hours": "Tue–Sun 12:00–17:00",
+    "hours": {
+      "1": [
+        12,
+        17
+      ],
+      "2": [
+        12,
+        17
+      ],
+      "3": [
+        12,
+        17
+      ],
+      "4": [
+        12,
+        17
+      ],
+      "5": [
+        12,
+        17
+      ],
+      "6": [
+        12,
+        17
+      ]
+    },
     "hours_source": "editorial",
     "note": "Artist's house.",
     "last_verified": "2026-06-07"
@@ -887,6 +2200,9 @@
     "name": "Dennis Severs' House",
     "website": "https://dennissevershouse.co.uk",
     "address": "Spitalfields",
+    "postcode": "E1 6BX",
+    "latitude": 51.520982,
+    "longitude": -0.077324,
     "borough": "Tower Hamlets",
     "admission": "paid",
     "price": 20,
@@ -894,6 +2210,7 @@
     "category": "house",
     "description": "An immersive, candlelit \"still-life drama\" recreating 18th-century life in Spitalfields.",
     "opening_hours": "Wed–Sun, timed & candlelit tours",
+    "hours": null,
     "hours_source": "editorial",
     "note": "Immersive historic house.",
     "last_verified": "2026-06-07"
@@ -903,6 +2220,9 @@
     "name": "Benjamin Franklin House",
     "website": "https://benjaminfranklinhouse.org",
     "address": "36 Craven St",
+    "postcode": "WC2N 5NF",
+    "latitude": 51.507671,
+    "longitude": -0.124979,
     "borough": "Westminster",
     "admission": "paid",
     "price": 11,
@@ -910,6 +2230,7 @@
     "category": "house",
     "description": "The world's only surviving home of Benjamin Franklin, near Trafalgar Square.",
     "opening_hours": "Wed–Sun, guided/self-guided tours",
+    "hours": null,
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -918,6 +2239,9 @@
     "name": "Spencer House",
     "website": "https://spencerhouse.co.uk",
     "address": "St James's",
+    "postcode": "SW1A 1NR",
+    "latitude": 51.505451,
+    "longitude": -0.139783,
     "borough": "Westminster",
     "admission": "paid",
     "price": 20,
@@ -925,6 +2249,7 @@
     "category": "house",
     "description": "London's finest surviving 18th-century aristocratic palace, built for the Spencer family.",
     "opening_hours": "Sun guided tours (Feb–Jul, Sep–Dec)",
+    "hours": null,
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -933,6 +2258,9 @@
     "name": "Strawberry Hill House",
     "website": "https://strawberryhillhouse.org.uk",
     "address": "Twickenham",
+    "postcode": "TW1 4ST",
+    "latitude": 51.439003,
+    "longitude": -0.333422,
     "borough": "Richmond upon Thames",
     "admission": "paid",
     "price": 14,
@@ -940,6 +2268,28 @@
     "category": "house",
     "description": "Horace Walpole's flamboyant Gothic Revival villa in Twickenham.",
     "opening_hours": "Sat–Wed 11:00–16:00 (seasonal Mar–Nov)",
+    "hours": {
+      "0": [
+        11,
+        16
+      ],
+      "1": [
+        11,
+        16
+      ],
+      "2": [
+        11,
+        16
+      ],
+      "5": [
+        11,
+        16
+      ],
+      "6": [
+        11,
+        16
+      ]
+    },
     "hours_source": "editorial",
     "note": "Gothic villa.",
     "last_verified": "2026-06-07"
@@ -949,6 +2299,9 @@
     "name": "Chiswick House",
     "website": "https://chiswickhouseandgardens.org.uk",
     "address": "Chiswick",
+    "postcode": "W4 2RP",
+    "latitude": 51.486097,
+    "longitude": -0.257355,
     "borough": "Hounslow",
     "admission": "paid",
     "price": 9.5,
@@ -956,6 +2309,24 @@
     "category": "house",
     "description": "A perfect Palladian villa with 18th-century landscaped gardens.",
     "opening_hours": "Thu–Sun 10:30–15:30 (seasonal)",
+    "hours": {
+      "3": [
+        10.5,
+        15.5
+      ],
+      "4": [
+        10.5,
+        15.5
+      ],
+      "5": [
+        10.5,
+        15.5
+      ],
+      "6": [
+        10.5,
+        15.5
+      ]
+    },
     "hours_source": "scraped",
     "note": "Palladian villa.",
     "last_verified": "2026-06-07"
@@ -965,6 +2336,9 @@
     "name": "Pitzhanger Manor",
     "website": "https://pitzhanger.org.uk",
     "address": "Ealing",
+    "postcode": "W5 5EQ",
+    "latitude": 51.510908,
+    "longitude": -0.307092,
     "borough": "Ealing",
     "admission": "paid",
     "price": 9.5,
@@ -972,6 +2346,28 @@
     "category": "house",
     "description": "The country home Sir John Soane designed for himself, with an attached gallery.",
     "opening_hours": "Wed–Sun 10:00–17:00 (first Thu until 20:00)",
+    "hours": {
+      "2": [
+        10,
+        17
+      ],
+      "3": [
+        10,
+        20
+      ],
+      "4": [
+        10,
+        17
+      ],
+      "5": [
+        10,
+        17
+      ],
+      "6": [
+        10,
+        17
+      ]
+    },
     "hours_source": "scraped",
     "last_verified": "2026-06-07"
   },
@@ -980,6 +2376,9 @@
     "name": "Fulham Palace",
     "website": "https://fulhampalace.org",
     "address": "Fulham",
+    "postcode": "SW6 6EA",
+    "latitude": 51.470771,
+    "longitude": -0.21588,
     "borough": "Hammersmith and Fulham",
     "admission": "free",
     "price": 0,
@@ -987,6 +2386,7 @@
     "category": "house",
     "description": "Former country home of the Bishops of London, with a museum, gardens and café.",
     "opening_hours": "Grounds daily; house Tue–Sun 10:30–16:30",
+    "hours": null,
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -995,6 +2395,9 @@
     "name": "Valentines Mansion",
     "website": "https://redbridge.gov.uk",
     "address": "Ilford",
+    "postcode": "IG1 4XA",
+    "latitude": 51.571805,
+    "longitude": 0.065679,
     "borough": "Redbridge",
     "admission": "free",
     "price": 0,
@@ -1002,6 +2405,7 @@
     "category": "house",
     "description": "A Grade II* Georgian mansion with gardens in Ilford.",
     "opening_hours": "Limited opening (check site)",
+    "hours": null,
     "hours_source": "editorial",
     "note": "Limited opening.",
     "last_verified": "2026-06-07"
@@ -1011,6 +2415,9 @@
     "name": "Southside House",
     "website": "https://southsidehouse.com",
     "address": "Wimbledon",
+    "postcode": "SW19 4RJ",
+    "latitude": 51.420389,
+    "longitude": -0.22804,
     "borough": "Merton",
     "admission": "paid",
     "price": 12,
@@ -1018,6 +2425,7 @@
     "category": "house",
     "description": "An eccentric 17th-century house on Wimbledon Common, seen by guided tour.",
     "opening_hours": "Guided tours Wed, Sat & Sun (seasonal)",
+    "hours": null,
     "hours_source": "editorial",
     "note": "Guided tour.",
     "last_verified": "2026-06-07"
@@ -1027,6 +2435,9 @@
     "name": "Postal Museum",
     "website": "https://postalmuseum.org",
     "address": "Phoenix Place, Clerkenwell",
+    "postcode": "WC1X 0DA",
+    "latitude": 51.524762,
+    "longitude": -0.114056,
     "borough": "Islington",
     "admission": "paid",
     "price": 18.5,
@@ -1034,6 +2445,32 @@
     "category": "transport",
     "description": "Five centuries of postal history, plus a ride on the underground Mail Rail.",
     "opening_hours": "Tue–Sun 10:00–17:00",
+    "hours": {
+      "1": [
+        10,
+        17
+      ],
+      "2": [
+        10,
+        17
+      ],
+      "3": [
+        10,
+        17
+      ],
+      "4": [
+        10,
+        17
+      ],
+      "5": [
+        10,
+        17
+      ],
+      "6": [
+        10,
+        17
+      ]
+    },
     "hours_source": "scraped",
     "note": "~£18.50 adult incl. Mail Rail; annual ticket.",
     "last_verified": "2026-06-07"
@@ -1043,6 +2480,9 @@
     "name": "London Transport Museum",
     "website": "https://ltmuseum.co.uk",
     "address": "Covent Garden Piazza",
+    "postcode": "WC2E 7BB",
+    "latitude": 51.512125,
+    "longitude": -0.121222,
     "borough": "Westminster",
     "admission": "paid",
     "price": 22,
@@ -1050,6 +2490,36 @@
     "category": "transport",
     "description": "The story of London's transport, with historic buses, trams and Tube trains.",
     "opening_hours": "Daily 10:00–18:00 (last entry 17:00)",
+    "hours": {
+      "0": [
+        10,
+        18
+      ],
+      "1": [
+        10,
+        18
+      ],
+      "2": [
+        10,
+        18
+      ],
+      "3": [
+        10,
+        18
+      ],
+      "4": [
+        10,
+        18
+      ],
+      "5": [
+        10,
+        18
+      ],
+      "6": [
+        10,
+        18
+      ]
+    },
     "hours_source": "scraped",
     "note": "Annual passes from ~£22; under-18s free.",
     "last_verified": "2026-06-07"
@@ -1059,6 +2529,9 @@
     "name": "Design Museum",
     "website": "https://designmuseum.org",
     "address": "224-238 Kensington High St",
+    "postcode": "W8 6AG",
+    "latitude": 51.499874,
+    "longitude": -0.200163,
     "borough": "Kensington and Chelsea",
     "admission": "free_with_paid_exhibitions",
     "price": 0,
@@ -1066,6 +2539,36 @@
     "category": "design",
     "description": "Dedicated to contemporary product, industrial, graphic and fashion design.",
     "opening_hours": "Mon–Thu 10:00–17:00; Fri–Sun 10:00–18:00",
+    "hours": {
+      "0": [
+        10,
+        17
+      ],
+      "1": [
+        10,
+        17
+      ],
+      "2": [
+        10,
+        17
+      ],
+      "3": [
+        10,
+        17
+      ],
+      "4": [
+        10,
+        18
+      ],
+      "5": [
+        10,
+        18
+      ],
+      "6": [
+        10,
+        18
+      ]
+    },
     "hours_source": "scraped",
     "note": "Free permanent gallery; exhibitions ~£10–16.",
     "last_verified": "2026-06-07"
@@ -1075,6 +2578,9 @@
     "name": "Fashion and Textile Museum",
     "website": "https://fashiontextilemuseum.org",
     "address": "83 Bermondsey St",
+    "postcode": "SE1 3XF",
+    "latitude": 51.501525,
+    "longitude": -0.081919,
     "borough": "Southwark",
     "admission": "paid",
     "price": 12.65,
@@ -1082,6 +2588,28 @@
     "category": "decorative-arts",
     "description": "Changing exhibitions of fashion, textiles and jewellery in Bermondsey.",
     "opening_hours": "Tue–Sat 11:00–18:00 (last entry 17:15)",
+    "hours": {
+      "1": [
+        11,
+        18
+      ],
+      "2": [
+        11,
+        18
+      ],
+      "3": [
+        11,
+        18
+      ],
+      "4": [
+        11,
+        18
+      ],
+      "5": [
+        11,
+        18
+      ]
+    },
     "hours_source": "scraped",
     "note": "~£10.50 adult exhibitions.",
     "last_verified": "2026-06-07"
@@ -1091,6 +2619,9 @@
     "name": "Cartoon Museum",
     "website": "https://cartoonmuseum.org",
     "address": "63 Wells St, Fitzrovia",
+    "postcode": "W1T 3PA",
+    "latitude": 51.516922,
+    "longitude": -0.137283,
     "borough": "Westminster",
     "admission": "paid",
     "price": 12,
@@ -1098,6 +2629,32 @@
     "category": "art",
     "description": "British cartoons, comics and caricature from the 18th century to today.",
     "opening_hours": "Tue–Sun 10:30–17:30",
+    "hours": {
+      "1": [
+        10.5,
+        17.5
+      ],
+      "2": [
+        10.5,
+        17.5
+      ],
+      "3": [
+        10.5,
+        17.5
+      ],
+      "4": [
+        10.5,
+        17.5
+      ],
+      "5": [
+        10.5,
+        17.5
+      ],
+      "6": [
+        10.5,
+        17.5
+      ]
+    },
     "hours_source": "editorial",
     "note": "£12 adult; functions as annual pass.",
     "last_verified": "2026-06-07"
@@ -1107,6 +2664,9 @@
     "name": "Foundling Museum",
     "website": "https://foundlingmuseum.org.uk",
     "address": "40 Brunswick Sq, Bloomsbury",
+    "postcode": "WC1N 1AZ",
+    "latitude": 51.525481,
+    "longitude": -0.120758,
     "borough": "Camden",
     "admission": "paid",
     "price": 14.5,
@@ -1114,6 +2674,32 @@
     "category": "art",
     "description": "Tells the story of the Foundling Hospital, Britain's first children's charity, with Hogarth and Handel.",
     "opening_hours": "Tue–Sun 10:00–17:00",
+    "hours": {
+      "1": [
+        10,
+        17
+      ],
+      "2": [
+        10,
+        17
+      ],
+      "3": [
+        10,
+        17
+      ],
+      "4": [
+        10,
+        17
+      ],
+      "5": [
+        10,
+        17
+      ],
+      "6": [
+        10,
+        17
+      ]
+    },
     "hours_source": "scraped",
     "note": "£14.50 adult; annual ticket.",
     "last_verified": "2026-06-07"
@@ -1123,6 +2709,9 @@
     "name": "Garden Museum",
     "website": "https://gardenmuseum.org.uk",
     "address": "5 Lambeth Palace Rd",
+    "postcode": "SE1 7LB",
+    "latitude": 51.495049,
+    "longitude": -0.120196,
     "borough": "Lambeth",
     "admission": "paid",
     "price": 16,
@@ -1130,6 +2719,36 @@
     "category": "specialist",
     "description": "Britain's museum of the history and design of gardens, in a former Lambeth church.",
     "opening_hours": "Daily 10:00–17:00 (Sun from 11:00)",
+    "hours": {
+      "0": [
+        10,
+        17
+      ],
+      "1": [
+        10,
+        17
+      ],
+      "2": [
+        10,
+        17
+      ],
+      "3": [
+        10,
+        17
+      ],
+      "4": [
+        10,
+        17
+      ],
+      "5": [
+        10,
+        17
+      ],
+      "6": [
+        11,
+        17
+      ]
+    },
     "hours_source": "scraped",
     "note": "£16 adult incl. tower.",
     "last_verified": "2026-06-07"
@@ -1139,6 +2758,9 @@
     "name": "Estorick Collection of Modern Italian Art",
     "website": "https://estorickcollection.com",
     "address": "39a Canonbury Sq",
+    "postcode": "N1 2AN",
+    "latitude": 51.543993,
+    "longitude": -0.099891,
     "borough": "Islington",
     "admission": "paid",
     "price": 9.5,
@@ -1146,6 +2768,28 @@
     "category": "art",
     "description": "Modern Italian art, including Futurism, in a Georgian house in Islington.",
     "opening_hours": "Wed–Sat 11:00–18:00; Sun 12:00–17:00",
+    "hours": {
+      "2": [
+        11,
+        18
+      ],
+      "3": [
+        11,
+        18
+      ],
+      "4": [
+        11,
+        18
+      ],
+      "5": [
+        11,
+        18
+      ],
+      "6": [
+        12,
+        17
+      ]
+    },
     "hours_source": "editorial",
     "note": "£9.50 adult.",
     "last_verified": "2026-06-07"
@@ -1155,6 +2799,9 @@
     "name": "Dulwich Picture Gallery",
     "website": "https://dulwichpicturegallery.org.uk",
     "address": "College Rd, Dulwich",
+    "postcode": "SE21 7AD",
+    "latitude": 51.445632,
+    "longitude": -0.086723,
     "borough": "Southwark",
     "admission": "paid",
     "price": 10,
@@ -1162,6 +2809,32 @@
     "category": "art",
     "description": "England's first purpose-built public art gallery, designed by Sir John Soane.",
     "opening_hours": "Tue–Sun 10:00–17:00",
+    "hours": {
+      "1": [
+        10,
+        17
+      ],
+      "2": [
+        10,
+        17
+      ],
+      "3": [
+        10,
+        17
+      ],
+      "4": [
+        10,
+        17
+      ],
+      "5": [
+        10,
+        17
+      ],
+      "6": [
+        10,
+        17
+      ]
+    },
     "hours_source": "editorial",
     "note": "£10 adult; under-18s free. England's oldest public gallery.",
     "last_verified": "2026-06-07"
@@ -1171,6 +2844,9 @@
     "name": "Fan Museum",
     "website": "https://thefanmuseum.org.uk",
     "address": "12 Crooms Hill, Greenwich",
+    "postcode": "SE10 8ER",
+    "latitude": 51.478713,
+    "longitude": -0.007687,
     "borough": "Greenwich",
     "admission": "paid",
     "price": 5,
@@ -1178,6 +2854,28 @@
     "category": "decorative-arts",
     "description": "The world's only museum devoted entirely to fans and the art of fan-making.",
     "opening_hours": "Tue–Sat 11:00–17:00",
+    "hours": {
+      "1": [
+        11,
+        17
+      ],
+      "2": [
+        11,
+        17
+      ],
+      "3": [
+        11,
+        17
+      ],
+      "4": [
+        11,
+        17
+      ],
+      "5": [
+        11,
+        17
+      ]
+    },
     "hours_source": "scraped",
     "note": "~£5 adult.",
     "last_verified": "2026-06-07"
@@ -1187,6 +2885,9 @@
     "name": "Brunel Museum",
     "website": "https://thebrunelmuseum.com",
     "address": "Railway Ave, Rotherhithe",
+    "postcode": "SE16 4LF",
+    "latitude": 51.501596,
+    "longitude": -0.05294,
     "borough": "Southwark",
     "admission": "paid",
     "price": 10,
@@ -1194,6 +2895,28 @@
     "category": "science",
     "description": "Celebrates the engineering of the Brunels and the Thames Tunnel, in Rotherhithe.",
     "opening_hours": "Wed–Sun 11:00–17:00",
+    "hours": {
+      "2": [
+        11,
+        17
+      ],
+      "3": [
+        11,
+        17
+      ],
+      "4": [
+        11,
+        17
+      ],
+      "5": [
+        11,
+        17
+      ],
+      "6": [
+        11,
+        17
+      ]
+    },
     "hours_source": "scraped",
     "note": "~£6 adult.",
     "last_verified": "2026-06-07"
@@ -1203,6 +2926,9 @@
     "name": "Florence Nightingale Museum",
     "website": "https://florence-nightingale.co.uk",
     "address": "2 Lambeth Palace Rd",
+    "postcode": "SE1 7EW",
+    "latitude": 51.49872,
+    "longitude": -0.11879,
     "borough": "Lambeth",
     "admission": "paid",
     "price": 12,
@@ -1210,6 +2936,32 @@
     "category": "medical",
     "description": "The life and work of the founder of modern nursing, by St Thomas' Hospital.",
     "opening_hours": "Tue–Sun 10:00–17:00 (last entry 16:30); last Thu monthly until 20:00",
+    "hours": {
+      "1": [
+        10,
+        17
+      ],
+      "2": [
+        10,
+        17
+      ],
+      "3": [
+        10,
+        17
+      ],
+      "4": [
+        10,
+        17
+      ],
+      "5": [
+        10,
+        17
+      ],
+      "6": [
+        10,
+        17
+      ]
+    },
     "hours_source": "scraped",
     "note": "£12 adult.",
     "last_verified": "2026-06-07"
@@ -1219,6 +2971,9 @@
     "name": "Sherlock Holmes Museum",
     "website": "https://sherlock-holmes.co.uk",
     "address": "221b Baker St",
+    "postcode": "NW1 6XE",
+    "latitude": 51.52366,
+    "longitude": -0.158516,
     "borough": "Westminster",
     "admission": "paid",
     "price": 19,
@@ -1226,6 +2981,36 @@
     "category": "specialist",
     "description": "A recreation of the fictional detective's lodgings at 221b Baker Street.",
     "opening_hours": "Daily 09:30–18:00",
+    "hours": {
+      "0": [
+        9.5,
+        18
+      ],
+      "1": [
+        9.5,
+        18
+      ],
+      "2": [
+        9.5,
+        18
+      ],
+      "3": [
+        9.5,
+        18
+      ],
+      "4": [
+        9.5,
+        18
+      ],
+      "5": [
+        9.5,
+        18
+      ],
+      "6": [
+        9.5,
+        18
+      ]
+    },
     "hours_source": "scraped",
     "note": "£19 adult.",
     "last_verified": "2026-06-07"
@@ -1242,6 +3027,7 @@
     "category": "specialist",
     "description": "Antique toys, dolls and toy theatres; currently operating as pop-ups.",
     "opening_hours": "Pop-up locations (check site)",
+    "hours": null,
     "hours_source": "editorial",
     "note": "Fitzrovia site closed Jan 2023; no permanent home.",
     "last_verified": "2026-06-07"
@@ -1251,6 +3037,9 @@
     "name": "Vagina Museum",
     "website": "https://vaginamuseum.co.uk",
     "address": "Arches 275-276, Poyser St, Bethnal Green",
+    "postcode": "E2 9DA",
+    "latitude": 51.531861,
+    "longitude": -0.057026,
     "borough": "Tower Hamlets",
     "admission": "free",
     "price": 0,
@@ -1258,6 +3047,28 @@
     "category": "specialist",
     "description": "The world's first bricks-and-mortar museum dedicated to gynaecological anatomy and health.",
     "opening_hours": "Wed–Sun 12:00–19:00",
+    "hours": {
+      "2": [
+        12,
+        19
+      ],
+      "3": [
+        12,
+        19
+      ],
+      "4": [
+        12,
+        19
+      ],
+      "5": [
+        12,
+        19
+      ],
+      "6": [
+        12,
+        19
+      ]
+    },
     "hours_source": "scraped",
     "last_verified": "2026-06-07"
   },
@@ -1266,6 +3077,9 @@
     "name": "Museum of Brands",
     "website": "https://museumofbrands.com",
     "address": "Notting Hill",
+    "postcode": "W11 1QT",
+    "latitude": 51.516212,
+    "longitude": -0.211222,
     "borough": "Kensington and Chelsea",
     "admission": "paid",
     "price": 11.5,
@@ -1273,6 +3087,36 @@
     "category": "specialist",
     "description": "The story of consumer culture through packaging and advertising, in Notting Hill.",
     "opening_hours": "Mon–Sat 10:00–18:00; Sun 11:00–17:00",
+    "hours": {
+      "0": [
+        10,
+        18
+      ],
+      "1": [
+        10,
+        18
+      ],
+      "2": [
+        10,
+        18
+      ],
+      "3": [
+        10,
+        18
+      ],
+      "4": [
+        10,
+        18
+      ],
+      "5": [
+        10,
+        18
+      ],
+      "6": [
+        11,
+        17
+      ]
+    },
     "hours_source": "editorial",
     "note": "Advertising and packaging.",
     "last_verified": "2026-06-07"
@@ -1282,6 +3126,9 @@
     "name": "Hunterian Museum",
     "website": "https://hunterianmuseum.org",
     "address": "Royal College of Surgeons, Lincoln's Inn Fields",
+    "postcode": "WC2A 3PE",
+    "latitude": 51.515285,
+    "longitude": -0.115874,
     "borough": "Camden",
     "admission": "free",
     "price": 0,
@@ -1289,6 +3136,28 @@
     "category": "medical",
     "description": "Anatomical and surgical specimens from the collection of surgeon John Hunter.",
     "opening_hours": "Tue–Sat 10:00–17:00",
+    "hours": {
+      "1": [
+        10,
+        17
+      ],
+      "2": [
+        10,
+        17
+      ],
+      "3": [
+        10,
+        17
+      ],
+      "4": [
+        10,
+        17
+      ],
+      "5": [
+        10,
+        17
+      ]
+    },
     "hours_source": "scraped",
     "last_verified": "2026-06-07"
   },
@@ -1297,6 +3166,9 @@
     "name": "Old Operating Theatre Museum & Herb Garret",
     "website": "https://oldoperatingtheatre.com",
     "address": "9a St Thomas St",
+    "postcode": "SE1 9RY",
+    "latitude": 51.505,
+    "longitude": -0.088229,
     "borough": "Southwark",
     "admission": "paid",
     "price": 10,
@@ -1304,6 +3176,24 @@
     "category": "medical",
     "description": "Europe's oldest surviving surgical operating theatre, in a church garret.",
     "opening_hours": "Thu–Sun 10:30–17:00 (last entry 16:15)",
+    "hours": {
+      "3": [
+        10.5,
+        17
+      ],
+      "4": [
+        10.5,
+        17
+      ],
+      "5": [
+        10.5,
+        17
+      ],
+      "6": [
+        10.5,
+        17
+      ]
+    },
     "hours_source": "scraped",
     "last_verified": "2026-06-07"
   },
@@ -1312,6 +3202,9 @@
     "name": "Clink Prison Museum",
     "website": "https://clink.co.uk",
     "address": "Clink St",
+    "postcode": "SE1 9DG",
+    "latitude": 51.507218,
+    "longitude": -0.091868,
     "borough": "Southwark",
     "admission": "paid",
     "price": 8,
@@ -1319,6 +3212,36 @@
     "category": "history",
     "description": "On the site of one of England's oldest prisons, on Bankside.",
     "opening_hours": "Mon–Sun 10:00–18:00 (weekends until 19:30)",
+    "hours": {
+      "0": [
+        10,
+        18
+      ],
+      "1": [
+        10,
+        18
+      ],
+      "2": [
+        10,
+        18
+      ],
+      "3": [
+        10,
+        18
+      ],
+      "4": [
+        10,
+        18
+      ],
+      "5": [
+        10,
+        18
+      ],
+      "6": [
+        10,
+        18
+      ]
+    },
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -1327,6 +3250,9 @@
     "name": "London Canal Museum",
     "website": "https://canalmuseum.org.uk",
     "address": "12-13 New Wharf Rd",
+    "postcode": "N1 9RT",
+    "latitude": 51.534223,
+    "longitude": -0.120297,
     "borough": "Islington",
     "admission": "paid",
     "price": 6,
@@ -1334,6 +3260,32 @@
     "category": "transport",
     "description": "London's canals and the people who lived and worked on them, by a Victorian ice well.",
     "opening_hours": "Tue–Sun 10:00–16:30 (also BH Mondays)",
+    "hours": {
+      "1": [
+        10,
+        16.5
+      ],
+      "2": [
+        10,
+        16.5
+      ],
+      "3": [
+        10,
+        16.5
+      ],
+      "4": [
+        10,
+        16.5
+      ],
+      "5": [
+        10,
+        16.5
+      ],
+      "6": [
+        10,
+        16.5
+      ]
+    },
     "hours_source": "scraped",
     "last_verified": "2026-06-07"
   },
@@ -1342,6 +3294,9 @@
     "name": "Magic Circle Museum",
     "website": "https://themagiccircle.co.uk",
     "address": "Stephenson Way, Euston",
+    "postcode": "NW1 2HD",
+    "latitude": 51.526403,
+    "longitude": -0.135742,
     "borough": "Camden",
     "admission": "paid",
     "price": null,
@@ -1349,6 +3304,7 @@
     "category": "specialist",
     "description": "The history and secrets of magic, home to The Magic Circle (events/appointment only).",
     "opening_hours": "Events / by appointment only",
+    "hours": null,
     "hours_source": "editorial",
     "note": "Events/appointment only.",
     "last_verified": "2026-06-07"
@@ -1358,6 +3314,9 @@
     "name": "Twinings Museum",
     "website": "https://twinings.co.uk",
     "address": "216 Strand",
+    "postcode": "WC2R 1AP",
+    "latitude": 51.513089,
+    "longitude": -0.112967,
     "borough": "Westminster",
     "admission": "free",
     "price": 0,
@@ -1365,6 +3324,36 @@
     "category": "specialist",
     "description": "A small museum on the history of tea inside Twinings' 300-year-old shop on the Strand.",
     "opening_hours": "Mon–Sat 10:00–17:30; Sun 10:30–16:30",
+    "hours": {
+      "0": [
+        10,
+        17.5
+      ],
+      "1": [
+        10,
+        17.5
+      ],
+      "2": [
+        10,
+        17.5
+      ],
+      "3": [
+        10,
+        17.5
+      ],
+      "4": [
+        10,
+        17.5
+      ],
+      "5": [
+        10,
+        17.5
+      ],
+      "6": [
+        10.5,
+        16.5
+      ]
+    },
     "hours_source": "editorial",
     "note": "Tea history.",
     "last_verified": "2026-06-07"
@@ -1374,6 +3363,9 @@
     "name": "Viktor Wynd Museum of Curiosities",
     "website": "https://thelasttuesdaysociety.org",
     "address": "Mare St",
+    "postcode": "E8 4RP",
+    "latitude": 51.534925,
+    "longitude": -0.057458,
     "borough": "Hackney",
     "admission": "paid",
     "price": 10,
@@ -1381,6 +3373,32 @@
     "category": "specialist",
     "description": "An eccentric cabinet of curiosities, art and natural history in Hackney.",
     "opening_hours": "Tue–Fri 15:00–23:00; Sat 12:00–23:00; Sun 12:00–22:00",
+    "hours": {
+      "1": [
+        15,
+        23
+      ],
+      "2": [
+        15,
+        23
+      ],
+      "3": [
+        15,
+        23
+      ],
+      "4": [
+        15,
+        23
+      ],
+      "5": [
+        12,
+        23
+      ],
+      "6": [
+        12,
+        22
+      ]
+    },
     "hours_source": "scraped",
     "note": "Curiosities and natural history.",
     "last_verified": "2026-06-07"
@@ -1390,6 +3408,9 @@
     "name": "Bow Street Police Museum",
     "website": "https://bowstreetpolicemuseum.org.uk",
     "address": "28 Bow St, Covent Garden",
+    "postcode": "WC2E 7AS",
+    "latitude": 51.51316,
+    "longitude": -0.12206,
     "borough": "Westminster",
     "admission": "paid",
     "price": 8,
@@ -1397,6 +3418,20 @@
     "category": "history",
     "description": "The history of the Bow Street Runners and the Metropolitan Police, in a former police station.",
     "opening_hours": "Fri–Sun 11:00–16:30",
+    "hours": {
+      "4": [
+        11,
+        16.5
+      ],
+      "5": [
+        11,
+        16.5
+      ],
+      "6": [
+        11,
+        16.5
+      ]
+    },
     "hours_source": "editorial",
     "note": "Law enforcement.",
     "last_verified": "2026-06-07"
@@ -1406,6 +3441,9 @@
     "name": "City of London Police Museum",
     "website": "https://cityoflondon.gov.uk",
     "address": "Guildhall",
+    "postcode": "EC2V 7HH",
+    "latitude": 51.516073,
+    "longitude": -0.092824,
     "borough": "City of London",
     "admission": "free",
     "price": 0,
@@ -1413,6 +3451,7 @@
     "category": "history",
     "description": "The history of the City of London Police, at the Guildhall.",
     "opening_hours": "Limited opening (check site)",
+    "hours": null,
     "hours_source": "editorial",
     "note": "Law enforcement.",
     "last_verified": "2026-06-07"
@@ -1422,6 +3461,9 @@
     "name": "London Museum of Water & Steam",
     "website": "https://waterandsteam.org.uk",
     "address": "Green Dragon Lane, Brentford",
+    "postcode": "TW8 0EN",
+    "latitude": 51.489526,
+    "longitude": -0.289908,
     "borough": "Hounslow",
     "admission": "paid",
     "price": 12,
@@ -1429,6 +3471,24 @@
     "category": "science",
     "description": "Working steam pumping engines telling the story of London’s water supply.",
     "opening_hours": "Thu–Sun 10:00–16:00",
+    "hours": {
+      "3": [
+        10,
+        16
+      ],
+      "4": [
+        10,
+        16
+      ],
+      "5": [
+        10,
+        16
+      ],
+      "6": [
+        10,
+        16
+      ]
+    },
     "hours_source": "scraped",
     "last_verified": "2026-06-07"
   },
@@ -1437,6 +3497,9 @@
     "name": "Crossness Pumping Station",
     "website": "https://crossness.org.uk",
     "address": "Bazalgette Way",
+    "postcode": "SE2 9AQ",
+    "latitude": 51.506562,
+    "longitude": 0.135472,
     "borough": "Bexley",
     "admission": "paid",
     "price": 8,
@@ -1444,6 +3507,7 @@
     "category": "science",
     "description": "A magnificent Victorian sewage pumping station with ornate ironwork, open on event days.",
     "opening_hours": "Open days only (check site)",
+    "hours": null,
     "hours_source": "editorial",
     "note": "Open days only.",
     "last_verified": "2026-06-07"
@@ -1453,6 +3517,9 @@
     "name": "Musical Museum",
     "website": "https://musicalmuseum.co.uk",
     "address": "Brentford",
+    "postcode": "TW8 0DU",
+    "latitude": 51.488006,
+    "longitude": -0.292342,
     "borough": "Hounslow",
     "admission": "paid",
     "price": 12,
@@ -1460,6 +3527,20 @@
     "category": "music",
     "description": "A collection of self-playing automatic musical instruments, in Brentford.",
     "opening_hours": "Fri–Sun 11:00–17:00",
+    "hours": {
+      "4": [
+        11,
+        17
+      ],
+      "5": [
+        11,
+        17
+      ],
+      "6": [
+        11,
+        17
+      ]
+    },
     "hours_source": "editorial",
     "note": "Automatic instruments.",
     "last_verified": "2026-06-07"
@@ -1469,6 +3550,9 @@
     "name": "Jewish Museum London",
     "website": "https://jewishmuseum.org.uk",
     "address": "Camden Town",
+    "postcode": "NW1 7NB",
+    "latitude": 51.537163,
+    "longitude": -0.144517,
     "borough": "Camden",
     "admission": "varies",
     "price": null,
@@ -1476,6 +3560,7 @@
     "category": "specialist",
     "description": "British Jewish history and culture; the collection is currently in transition.",
     "opening_hours": "Collection in transition (check site)",
+    "hours": null,
     "hours_source": "editorial",
     "note": "Collection in transition.",
     "last_verified": "2026-06-07"
@@ -1485,6 +3570,9 @@
     "name": "Black Cultural Archives",
     "website": "https://blackculturalarchives.org",
     "address": "Brixton",
+    "postcode": "SW9 8EN",
+    "latitude": 51.4616,
+    "longitude": -0.115941,
     "borough": "Lambeth",
     "admission": "free",
     "price": 0,
@@ -1492,6 +3580,20 @@
     "category": "library",
     "description": "The national home of Black British history, in Brixton.",
     "opening_hours": "Wed 12:00–17:00; Thu–Fri 11:00–17:00",
+    "hours": {
+      "2": [
+        12,
+        17
+      ],
+      "3": [
+        11,
+        17
+      ],
+      "4": [
+        11,
+        17
+      ]
+    },
     "hours_source": "scraped",
     "note": "Exhibitions vary.",
     "last_verified": "2026-06-07"
@@ -1501,6 +3603,9 @@
     "name": "Wiener Holocaust Library",
     "website": "https://wienerholocaustlibrary.org",
     "address": "Russell Sq, Bloomsbury",
+    "postcode": "WC1B 5DP",
+    "latitude": 51.521741,
+    "longitude": -0.128134,
     "borough": "Camden",
     "admission": "free",
     "price": 0,
@@ -1508,6 +3613,28 @@
     "category": "library",
     "description": "The world's oldest Holocaust archive and a leading research library.",
     "opening_hours": "Mon–Fri 10:00–17:00",
+    "hours": {
+      "0": [
+        10,
+        17
+      ],
+      "1": [
+        10,
+        17
+      ],
+      "2": [
+        10,
+        17
+      ],
+      "3": [
+        10,
+        17
+      ],
+      "4": [
+        10,
+        17
+      ]
+    },
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -1516,6 +3643,9 @@
     "name": "Cinema Museum",
     "website": "https://cinemamuseum.org.uk",
     "address": "2 Dugard Way",
+    "postcode": "SE11 4TH",
+    "latitude": 51.49228,
+    "longitude": -0.105169,
     "borough": "Lambeth",
     "admission": "paid",
     "price": 10,
@@ -1523,6 +3653,7 @@
     "category": "specialist",
     "description": "Cinema history and memorabilia in a former workhouse where Charlie Chaplin once stayed.",
     "opening_hours": "Guided tours / events only",
+    "hours": null,
     "hours_source": "editorial",
     "note": "Tours; film and cinema history.",
     "last_verified": "2026-06-07"
@@ -1532,6 +3663,9 @@
     "name": "Petrie Museum of Egyptian & Sudanese Archaeology",
     "website": "https://ucl.ac.uk/museums-collections/petrie-museum",
     "address": "Malet Place, Bloomsbury",
+    "postcode": "WC1E 6BT",
+    "latitude": 51.523571,
+    "longitude": -0.132398,
     "borough": "Camden",
     "admission": "free",
     "price": 0,
@@ -1539,6 +3673,28 @@
     "category": "world-cultures",
     "description": "One of the world’s great collections of Egyptian and Sudanese archaeology, at UCL.",
     "opening_hours": "Tue–Sat 13:00–17:00",
+    "hours": {
+      "1": [
+        13,
+        17
+      ],
+      "2": [
+        13,
+        17
+      ],
+      "3": [
+        13,
+        17
+      ],
+      "4": [
+        13,
+        17
+      ],
+      "5": [
+        13,
+        17
+      ]
+    },
     "hours_source": "editorial",
     "note": "UCL.",
     "last_verified": "2026-06-07"
@@ -1548,6 +3704,9 @@
     "name": "Grant Museum of Zoology",
     "website": "https://ucl.ac.uk/museums-collections/ucl-grant-museum-zoology",
     "address": "21 University St",
+    "postcode": "WC1E 6DE",
+    "latitude": 51.523625,
+    "longitude": -0.134659,
     "borough": "Camden",
     "admission": "free",
     "price": 0,
@@ -1555,6 +3714,7 @@
     "category": "natural-history",
     "description": "London's only remaining university zoological museum, at UCL.",
     "opening_hours": "Check site (relocating)",
+    "hours": null,
     "hours_source": "editorial",
     "note": "UCL.",
     "last_verified": "2026-06-07"
@@ -1564,6 +3724,9 @@
     "name": "UCL Art Museum",
     "website": "https://ucl.ac.uk/culture",
     "address": "Gower St, Bloomsbury",
+    "postcode": "WC1E 6BT",
+    "latitude": 51.523571,
+    "longitude": -0.132398,
     "borough": "Camden",
     "admission": "free",
     "price": 0,
@@ -1571,6 +3734,7 @@
     "category": "art",
     "description": "UCL's collection of art, including works by Slade School students and masters.",
     "opening_hours": "Mon–Fri (term time; check site)",
+    "hours": null,
     "hours_source": "editorial",
     "note": "UCL.",
     "last_verified": "2026-06-07"
@@ -1580,6 +3744,9 @@
     "name": "Courtauld Gallery",
     "website": "https://courtauld.ac.uk/gallery",
     "address": "Somerset House, Strand",
+    "postcode": "WC2R 0RN",
+    "latitude": 51.510734,
+    "longitude": -0.116912,
     "borough": "Westminster",
     "admission": "paid",
     "price": 11,
@@ -1587,6 +3754,36 @@
     "category": "art",
     "description": "Renowned collection of Impressionist and Post-Impressionist masterpieces at Somerset House.",
     "opening_hours": "Daily 10:00–18:00",
+    "hours": {
+      "0": [
+        10,
+        18
+      ],
+      "1": [
+        10,
+        18
+      ],
+      "2": [
+        10,
+        18
+      ],
+      "3": [
+        10,
+        18
+      ],
+      "4": [
+        10,
+        18
+      ],
+      "5": [
+        10,
+        18
+      ],
+      "6": [
+        10,
+        18
+      ]
+    },
     "hours_source": "editorial",
     "note": "Under-18s free; exhibitions paid.",
     "last_verified": "2026-06-07"
@@ -1596,6 +3793,9 @@
     "name": "RCM Museum of Music",
     "website": "https://rcm.ac.uk",
     "address": "Prince Consort Rd, South Kensington",
+    "postcode": "SW7 2BS",
+    "latitude": 51.49928,
+    "longitude": -0.176889,
     "borough": "Kensington and Chelsea",
     "admission": "free",
     "price": 0,
@@ -1603,6 +3803,7 @@
     "category": "music",
     "description": "Historic musical instruments at the Royal College of Music.",
     "opening_hours": "Tue–Fri (term time)",
+    "hours": null,
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -1611,6 +3812,9 @@
     "name": "Royal Academy of Music Museum",
     "website": "https://ram.ac.uk",
     "address": "Marylebone Rd",
+    "postcode": "NW1 5HT",
+    "latitude": 51.523499,
+    "longitude": -0.151675,
     "borough": "Westminster",
     "admission": "free",
     "price": 0,
@@ -1618,6 +3822,32 @@
     "category": "music",
     "description": "Instruments and music history at Britain’s oldest conservatoire.",
     "opening_hours": "Mon–Fri 11:30–17:30; Sat 12:00–16:00",
+    "hours": {
+      "0": [
+        11.5,
+        17.5
+      ],
+      "1": [
+        11.5,
+        17.5
+      ],
+      "2": [
+        11.5,
+        17.5
+      ],
+      "3": [
+        11.5,
+        17.5
+      ],
+      "4": [
+        11.5,
+        17.5
+      ],
+      "5": [
+        12,
+        16
+      ]
+    },
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -1626,6 +3856,9 @@
     "name": "Gordon Museum of Pathology",
     "website": "https://kcl.ac.uk",
     "address": "Southwark (King's College)",
+    "postcode": "SE1 1UL",
+    "latitude": 51.502722,
+    "longitude": -0.089678,
     "borough": "Southwark",
     "admission": "by_appointment",
     "price": null,
@@ -1633,6 +3866,7 @@
     "category": "medical",
     "description": "The UK's largest pathology museum, open to medical professionals only.",
     "opening_hours": "Medical professionals only",
+    "hours": null,
     "hours_source": "editorial",
     "note": "Medical professionals only.",
     "last_verified": "2026-06-07"
@@ -1642,6 +3876,9 @@
     "name": "Royal College of Physicians Museum",
     "website": "https://rcp.ac.uk",
     "address": "St Andrews Place, Regent's Park",
+    "postcode": "NW1 4LE",
+    "latitude": 51.525749,
+    "longitude": -0.144981,
     "borough": "Westminster",
     "admission": "free",
     "price": 0,
@@ -1649,6 +3886,28 @@
     "category": "medical",
     "description": "Medical history and rare books in a striking modernist building by Regent’s Park.",
     "opening_hours": "Mon–Fri 09:00–17:00",
+    "hours": {
+      "0": [
+        9,
+        17
+      ],
+      "1": [
+        9,
+        17
+      ],
+      "2": [
+        9,
+        17
+      ],
+      "3": [
+        9,
+        17
+      ],
+      "4": [
+        9,
+        17
+      ]
+    },
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -1657,6 +3916,9 @@
     "name": "Old Speech Room Gallery (Harrow School)",
     "website": "https://harrowschool.org.uk",
     "address": "Harrow",
+    "postcode": "HA1 3HP",
+    "latitude": 51.572282,
+    "longitude": -0.337383,
     "borough": "Harrow",
     "admission": "free",
     "price": 0,
@@ -1664,6 +3926,7 @@
     "category": "art",
     "description": "Antiquities and art at Harrow School, open on a limited basis.",
     "opening_hours": "Limited opening (term time)",
+    "hours": null,
     "hours_source": "editorial",
     "note": "Limited opening.",
     "last_verified": "2026-06-07"
@@ -1673,6 +3936,9 @@
     "name": "Royal Air Force Museum London",
     "website": "https://rafmuseum.org.uk",
     "address": "Grahame Park Way, Colindale",
+    "postcode": "NW9 5LL",
+    "latitude": 51.598946,
+    "longitude": -0.238164,
     "borough": "Barnet",
     "admission": "free",
     "price": 0,
@@ -1680,6 +3946,36 @@
     "category": "military",
     "description": "The story of the RAF and aviation, with historic aircraft, in Colindale.",
     "opening_hours": "Daily 10:00–17:00",
+    "hours": {
+      "0": [
+        10,
+        17
+      ],
+      "1": [
+        10,
+        17
+      ],
+      "2": [
+        10,
+        17
+      ],
+      "3": [
+        10,
+        17
+      ],
+      "4": [
+        10,
+        17
+      ],
+      "5": [
+        10,
+        17
+      ],
+      "6": [
+        10,
+        17
+      ]
+    },
     "hours_source": "scraped",
     "note": "Aviation.",
     "last_verified": "2026-06-07"
@@ -1689,6 +3985,9 @@
     "name": "Household Cavalry Museum",
     "website": "https://householdcavalrymuseum.co.uk",
     "address": "Horse Guards, Whitehall",
+    "postcode": "SW1A 2AX",
+    "latitude": 51.504982,
+    "longitude": -0.127236,
     "borough": "Westminster",
     "admission": "paid",
     "price": 10,
@@ -1696,6 +3995,36 @@
     "category": "military",
     "description": "The working stables and history of the Household Cavalry, on Horse Guards.",
     "opening_hours": "Daily 10:00–18:00 (winter until 17:00)",
+    "hours": {
+      "0": [
+        10,
+        18
+      ],
+      "1": [
+        10,
+        18
+      ],
+      "2": [
+        10,
+        18
+      ],
+      "3": [
+        10,
+        18
+      ],
+      "4": [
+        10,
+        18
+      ],
+      "5": [
+        10,
+        18
+      ],
+      "6": [
+        10,
+        18
+      ]
+    },
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -1704,6 +4033,9 @@
     "name": "Guards Museum",
     "website": "https://theguardsmuseum.com",
     "address": "Wellington Barracks, Birdcage Walk",
+    "postcode": "SW1E 6HQ",
+    "latitude": 51.499986,
+    "longitude": -0.137642,
     "borough": "Westminster",
     "admission": "paid",
     "price": 10,
@@ -1711,6 +4043,36 @@
     "category": "military",
     "description": "The history of the five regiments of Foot Guards, near Buckingham Palace.",
     "opening_hours": "Daily 10:00–16:00",
+    "hours": {
+      "0": [
+        10,
+        16
+      ],
+      "1": [
+        10,
+        16
+      ],
+      "2": [
+        10,
+        16
+      ],
+      "3": [
+        10,
+        16
+      ],
+      "4": [
+        10,
+        16
+      ],
+      "5": [
+        10,
+        16
+      ],
+      "6": [
+        10,
+        16
+      ]
+    },
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -1719,6 +4081,9 @@
     "name": "Fusilier Museum London",
     "website": "https://fusiliermuseumlondon.org",
     "address": "Tower of London",
+    "postcode": "EC3N 4AB",
+    "latitude": 51.508275,
+    "longitude": -0.076246,
     "borough": "Tower Hamlets",
     "admission": "paid",
     "price": 5,
@@ -1726,6 +4091,7 @@
     "category": "military",
     "description": "The history of the Royal Fusiliers, within the Tower of London.",
     "opening_hours": "Daily (with Tower of London)",
+    "hours": null,
     "hours_source": "editorial",
     "note": "Included with Tower / regimental.",
     "last_verified": "2026-06-07"
@@ -1735,6 +4101,9 @@
     "name": "Royal Hospital Chelsea Museum",
     "website": "https://chelsea-pensioners.co.uk",
     "address": "Royal Hospital Rd, Chelsea",
+    "postcode": "SW3 4SR",
+    "latitude": 51.487401,
+    "longitude": -0.157313,
     "borough": "Kensington and Chelsea",
     "admission": "free",
     "price": 0,
@@ -1742,6 +4111,28 @@
     "category": "military",
     "description": "The story of the Chelsea Pensioners and their Wren-designed home.",
     "opening_hours": "Mon–Fri 10:00–16:00",
+    "hours": {
+      "0": [
+        10,
+        16
+      ],
+      "1": [
+        10,
+        16
+      ],
+      "2": [
+        10,
+        16
+      ],
+      "3": [
+        10,
+        16
+      ],
+      "4": [
+        10,
+        16
+      ]
+    },
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -1750,6 +4141,9 @@
     "name": "Polish Institute & Sikorski Museum",
     "website": "https://pism.co.uk",
     "address": "20 Princes Gate, South Kensington",
+    "postcode": "SW7 2PN",
+    "latitude": 51.499113,
+    "longitude": -0.173668,
     "borough": "Kensington and Chelsea",
     "admission": "free",
     "price": 0,
@@ -1757,6 +4151,24 @@
     "category": "military",
     "description": "Poland's military and cultural heritage in exile, in South Kensington.",
     "opening_hours": "Tue–Fri 14:00–16:00; first Sat",
+    "hours": {
+      "1": [
+        14,
+        16
+      ],
+      "2": [
+        14,
+        16
+      ],
+      "3": [
+        14,
+        16
+      ],
+      "4": [
+        14,
+        16
+      ]
+    },
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -1765,6 +4177,9 @@
     "name": "Royal Mews",
     "website": "https://rct.uk",
     "address": "Buckingham Palace Rd",
+    "postcode": "SW1W 0QH",
+    "latitude": 51.498766,
+    "longitude": -0.145198,
     "borough": "Westminster",
     "admission": "paid",
     "price": 17,
@@ -1772,6 +4187,28 @@
     "category": "transport",
     "description": "The royal carriages, cars and horses, at Buckingham Palace.",
     "opening_hours": "Thu–Mon 10:00–17:00 (seasonal)",
+    "hours": {
+      "0": [
+        10,
+        17
+      ],
+      "3": [
+        10,
+        17
+      ],
+      "4": [
+        10,
+        17
+      ],
+      "5": [
+        10,
+        17
+      ],
+      "6": [
+        10,
+        17
+      ]
+    },
     "hours_source": "editorial",
     "note": "Royal carriages.",
     "last_verified": "2026-06-07"
@@ -1781,6 +4218,9 @@
     "name": "The King's Gallery (Buckingham Palace)",
     "website": "https://rct.uk",
     "address": "Buckingham Palace",
+    "postcode": "SW1A 1AA",
+    "latitude": 51.50101,
+    "longitude": -0.141563,
     "borough": "Westminster",
     "admission": "paid",
     "price": 19,
@@ -1788,6 +4228,28 @@
     "category": "art",
     "description": "Changing exhibitions of treasures from the Royal Collection.",
     "opening_hours": "Thu–Mon 10:00–17:30",
+    "hours": {
+      "0": [
+        10,
+        17.5
+      ],
+      "3": [
+        10,
+        17.5
+      ],
+      "4": [
+        10,
+        17.5
+      ],
+      "5": [
+        10,
+        17.5
+      ],
+      "6": [
+        10,
+        17.5
+      ]
+    },
     "hours_source": "editorial",
     "note": "Royal Collection.",
     "last_verified": "2026-06-07"
@@ -1797,6 +4259,9 @@
     "name": "Honourable Artillery Company Museum",
     "website": "https://hac.org.uk",
     "address": "Finsbury",
+    "postcode": "EC1Y 2BQ",
+    "latitude": 51.52318,
+    "longitude": -0.087496,
     "borough": "Islington",
     "admission": "by_appointment",
     "price": null,
@@ -1804,6 +4269,7 @@
     "category": "military",
     "description": "Military collection of the UK's oldest regiment (by appointment).",
     "opening_hours": "By appointment",
+    "hours": null,
     "hours_source": "editorial",
     "note": "By appointment.",
     "last_verified": "2026-06-07"
@@ -1813,6 +4279,9 @@
     "name": "Bentley Priory Museum",
     "website": "https://bentleypriorymuseum.org.uk",
     "address": "Stanmore",
+    "postcode": "HA7 3FB",
+    "latitude": 51.626532,
+    "longitude": -0.333449,
     "borough": "Harrow",
     "admission": "paid",
     "price": 10,
@@ -1820,6 +4289,7 @@
     "category": "military",
     "description": "The Battle of Britain and RAF Fighter Command HQ, in Stanmore.",
     "opening_hours": "Wed, Sat & Sun",
+    "hours": null,
     "hours_source": "editorial",
     "note": "Battle of Britain history.",
     "last_verified": "2026-06-07"
@@ -1829,6 +4299,9 @@
     "name": "Battle of Britain Bunker",
     "website": "https://hillingdon.gov.uk",
     "address": "Uxbridge",
+    "postcode": "UB10 0GG",
+    "latitude": 51.54085,
+    "longitude": -0.465083,
     "borough": "Hillingdon",
     "admission": "varies",
     "price": 8,
@@ -1836,6 +4309,7 @@
     "category": "history",
     "description": "The underground operations room that controlled the Battle of Britain, in Uxbridge.",
     "opening_hours": "Wed–Sun (check site)",
+    "hours": null,
     "hours_source": "editorial",
     "note": "Free bunker / paid exhibition.",
     "last_verified": "2026-06-07"
@@ -1845,6 +4319,9 @@
     "name": "Bruce Castle Museum",
     "website": "https://brucecastle.org",
     "address": "Tottenham",
+    "postcode": "N17 8NU",
+    "latitude": 51.59915,
+    "longitude": -0.075441,
     "borough": "Haringey",
     "admission": "free",
     "price": 0,
@@ -1852,6 +4329,28 @@
     "category": "local-history",
     "description": "Tottenham's local history museum in a 16th-century manor house.",
     "opening_hours": "Wed–Sun 13:00–17:00",
+    "hours": {
+      "2": [
+        13,
+        17
+      ],
+      "3": [
+        13,
+        17
+      ],
+      "4": [
+        13,
+        17
+      ],
+      "5": [
+        13,
+        17
+      ],
+      "6": [
+        13,
+        17
+      ]
+    },
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -1860,6 +4359,9 @@
     "name": "Barnet Museum",
     "website": "https://barnetmuseum.co.uk",
     "address": "31 Wood St",
+    "postcode": "EN5 4BE",
+    "latitude": 51.652817,
+    "longitude": -0.202466,
     "borough": "Barnet",
     "admission": "free",
     "price": 0,
@@ -1867,6 +4369,7 @@
     "category": "local-history",
     "description": "Volunteer-run local history museum for the Barnet area.",
     "opening_hours": "Tue–Sat (limited)",
+    "hours": null,
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -1875,6 +4378,9 @@
     "name": "Hackney Museum",
     "website": "https://hackney-museum.hackney.gov.uk",
     "address": "Hackney",
+    "postcode": "E8 1GQ",
+    "latitude": 51.544479,
+    "longitude": -0.05607,
     "borough": "Hackney",
     "admission": "free",
     "price": 0,
@@ -1882,6 +4388,7 @@
     "category": "local-history",
     "description": "The history and diverse communities of the London Borough of Hackney.",
     "opening_hours": "Tue–Sat",
+    "hours": null,
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -1890,6 +4397,9 @@
     "name": "Museum of Croydon",
     "website": "https://museumofcroydon.com",
     "address": "Katharine St",
+    "postcode": "CR9 1ET",
+    "latitude": 51.371911,
+    "longitude": -0.099511,
     "borough": "Croydon",
     "admission": "free",
     "price": 0,
@@ -1897,6 +4407,7 @@
     "category": "local-history",
     "description": "Croydon's local history and culture, in the Croydon Clocktower.",
     "opening_hours": "Mon–Sat",
+    "hours": null,
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -1905,6 +4416,9 @@
     "name": "Honeywood Museum",
     "website": "https://libraries.sutton.gov.uk",
     "address": "Carshalton",
+    "postcode": "SM5 3NX",
+    "latitude": 51.365998,
+    "longitude": -0.165867,
     "borough": "Sutton",
     "admission": "free",
     "price": 0,
@@ -1912,6 +4426,7 @@
     "category": "local-history",
     "description": "Local history of Sutton in a historic house beside Carshalton Ponds.",
     "opening_hours": "Wed–Sun",
+    "hours": null,
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -1920,6 +4435,9 @@
     "name": "Little Holland House",
     "website": "https://libraries.sutton.gov.uk",
     "address": "Carshalton",
+    "postcode": "SM5 3LW",
+    "latitude": 51.355091,
+    "longitude": -0.170568,
     "borough": "Sutton",
     "admission": "free",
     "price": 0,
@@ -1927,6 +4445,7 @@
     "category": "house",
     "description": "The Arts and Crafts home of artist Frank Dickinson, in Carshalton.",
     "opening_hours": "First & third Sun monthly",
+    "hours": null,
     "hours_source": "editorial",
     "note": "Arts & Crafts house.",
     "last_verified": "2026-06-07"
@@ -1936,6 +4455,9 @@
     "name": "Vestry House Museum",
     "website": "https://walthamforest.gov.uk",
     "address": "Walthamstow",
+    "postcode": "E17 9NH",
+    "latitude": 51.583167,
+    "longitude": -0.012646,
     "borough": "Waltham Forest",
     "admission": "free",
     "price": 0,
@@ -1943,6 +4465,7 @@
     "category": "local-history",
     "description": "Local history of Waltham Forest in a former workhouse.",
     "opening_hours": "Wed–Sun",
+    "hours": null,
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -1951,6 +4474,9 @@
     "name": "Valence House Museum",
     "website": "https://lbbd.gov.uk",
     "address": "Dagenham",
+    "postcode": "RM8 3HT",
+    "latitude": 51.558312,
+    "longitude": 0.134201,
     "borough": "Barking and Dagenham",
     "admission": "free",
     "price": 0,
@@ -1958,6 +4484,7 @@
     "category": "local-history",
     "description": "Barking and Dagenham's local history museum, in a manor house.",
     "opening_hours": "Tue–Sat",
+    "hours": null,
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -1966,6 +4493,9 @@
     "name": "William Morris Gallery",
     "website": "https://wmgallery.org.uk",
     "address": "Lloyd Park, Walthamstow",
+    "postcode": "E17 4PP",
+    "latitude": 51.590586,
+    "longitude": -0.018517,
     "borough": "Waltham Forest",
     "admission": "free",
     "price": 0,
@@ -1973,6 +4503,28 @@
     "category": "art",
     "description": "The only public gallery devoted to designer William Morris, in his childhood home.",
     "opening_hours": "Wed–Sun 10:00–17:00",
+    "hours": {
+      "2": [
+        10,
+        17
+      ],
+      "3": [
+        10,
+        17
+      ],
+      "4": [
+        10,
+        17
+      ],
+      "5": [
+        10,
+        17
+      ],
+      "6": [
+        10,
+        17
+      ]
+    },
     "hours_source": "editorial",
     "note": "Arts & Crafts.",
     "last_verified": "2026-06-07"
@@ -1982,6 +4534,9 @@
     "name": "Forty Hall & Estate",
     "website": "https://fortyhallestate.co.uk",
     "address": "Forty Hill",
+    "postcode": "EN2 9HA",
+    "latitude": 51.66979,
+    "longitude": -0.068542,
     "borough": "Enfield",
     "admission": "free",
     "price": 0,
@@ -1989,6 +4544,7 @@
     "category": "local-history",
     "description": "A Jacobean manor house and estate in Enfield.",
     "opening_hours": "Wed–Sun",
+    "hours": null,
     "hours_source": "editorial",
     "note": "Jacobean house.",
     "last_verified": "2026-06-07"
@@ -1998,6 +4554,9 @@
     "name": "Museum of Enfield",
     "website": "https://dugdaleartscentre.co.uk/museum",
     "address": "39 London Rd",
+    "postcode": "EN2 6DS",
+    "latitude": 51.649837,
+    "longitude": -0.080695,
     "borough": "Enfield",
     "admission": "free",
     "price": 0,
@@ -2005,6 +4564,7 @@
     "category": "local-history",
     "description": "Enfield's local history collection, at the Dugdale Centre.",
     "opening_hours": "Tue–Sat",
+    "hours": null,
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -2013,6 +4573,9 @@
     "name": "Gunnersbury Park Museum",
     "website": "https://visitgunnersbury.org",
     "address": "Acton",
+    "postcode": "W3 8LQ",
+    "latitude": 51.499454,
+    "longitude": -0.286828,
     "borough": "Hounslow",
     "admission": "free",
     "price": 0,
@@ -2020,6 +4583,36 @@
     "category": "local-history",
     "description": "Local history of west London in a Rothschild mansion.",
     "opening_hours": "Daily 10:00–17:00",
+    "hours": {
+      "0": [
+        10,
+        17
+      ],
+      "1": [
+        10,
+        17
+      ],
+      "2": [
+        10,
+        17
+      ],
+      "3": [
+        10,
+        17
+      ],
+      "4": [
+        10,
+        17
+      ],
+      "5": [
+        10,
+        17
+      ],
+      "6": [
+        10,
+        17
+      ]
+    },
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -2035,6 +4628,7 @@
     "category": "local-history",
     "description": "Wandsworth's local history collection (check current operator).",
     "opening_hours": "Check current operator",
+    "hours": null,
     "hours_source": "editorial",
     "note": "Check current operator.",
     "last_verified": "2026-06-07"
@@ -2044,6 +4638,9 @@
     "name": "Kingston Museum",
     "website": "https://kingston.gov.uk",
     "address": "Kingston upon Thames",
+    "postcode": "KT1 2PS",
+    "latitude": 51.409409,
+    "longitude": -0.300233,
     "borough": "Kingston upon Thames",
     "admission": "free",
     "price": 0,
@@ -2051,6 +4648,7 @@
     "category": "local-history",
     "description": "Local history of Kingston, including the Eadweard Muybridge collection.",
     "opening_hours": "Tue–Sat",
+    "hours": null,
     "hours_source": "editorial",
     "note": "Includes Muybridge collection.",
     "last_verified": "2026-06-07"
@@ -2060,6 +4658,9 @@
     "name": "Headstone Manor & Museum",
     "website": "https://headstonemanor.org",
     "address": "Pinner View",
+    "postcode": "HA2 6PX",
+    "latitude": 51.593693,
+    "longitude": -0.352699,
     "borough": "Harrow",
     "admission": "free",
     "price": 0,
@@ -2067,6 +4668,28 @@
     "category": "local-history",
     "description": "Harrow's museum in a moated medieval manor house.",
     "opening_hours": "Wed–Sun 11:00–16:00",
+    "hours": {
+      "2": [
+        11,
+        16
+      ],
+      "3": [
+        11,
+        16
+      ],
+      "4": [
+        11,
+        16
+      ],
+      "5": [
+        11,
+        16
+      ],
+      "6": [
+        11,
+        16
+      ]
+    },
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -2075,6 +4698,9 @@
     "name": "Redbridge Museum",
     "website": "https://redbridge.gov.uk",
     "address": "Ilford",
+    "postcode": "IG1 1EA",
+    "latitude": 51.558064,
+    "longitude": 0.075328,
     "borough": "Redbridge",
     "admission": "free",
     "price": 0,
@@ -2082,6 +4708,7 @@
     "category": "local-history",
     "description": "The history of the London Borough of Redbridge, in Ilford.",
     "opening_hours": "Tue–Sat (limited)",
+    "hours": null,
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -2090,6 +4717,9 @@
     "name": "Museum of Wimbledon",
     "website": "https://wimbledonmuseum.org.uk",
     "address": "Wimbledon",
+    "postcode": "SW19 4QN",
+    "latitude": 51.423611,
+    "longitude": -0.216336,
     "borough": "Merton",
     "admission": "donation",
     "price": 0,
@@ -2097,6 +4727,7 @@
     "category": "local-history",
     "description": "Volunteer-run local history museum for the Wimbledon area.",
     "opening_hours": "Sat–Sun afternoons",
+    "hours": null,
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -2105,6 +4736,9 @@
     "name": "Crystal Palace Museum",
     "website": "https://crystalpalacemuseum.org.uk",
     "address": "Anerley Hill",
+    "postcode": "SE19 2BA",
+    "latitude": 51.418561,
+    "longitude": -0.074492,
     "borough": "Bromley",
     "admission": "free",
     "price": 0,
@@ -2112,6 +4746,7 @@
     "category": "local-history",
     "description": "Tells the story of the Crystal Palace and its park.",
     "opening_hours": "Weekends (limited)",
+    "hours": null,
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -2120,6 +4755,9 @@
     "name": "Wandle Industrial Museum",
     "website": "https://wandle.org",
     "address": "Mitcham",
+    "postcode": "CR4 3UD",
+    "latitude": 51.402121,
+    "longitude": -0.168117,
     "borough": "Merton",
     "admission": "paid",
     "price": 1,
@@ -2127,6 +4765,7 @@
     "category": "science",
     "description": "The industrial heritage of the River Wandle, in Mitcham.",
     "opening_hours": "Wed & first Sun monthly",
+    "hours": null,
     "hours_source": "editorial",
     "note": "Small charge; industry.",
     "last_verified": "2026-06-07"
@@ -2136,6 +4775,9 @@
     "name": "Twickenham Museum",
     "website": "https://twickenham-museum.org.uk",
     "address": "Twickenham",
+    "postcode": "TW1 3DU",
+    "latitude": 51.446506,
+    "longitude": -0.326111,
     "borough": "Richmond upon Thames",
     "admission": "free",
     "price": 0,
@@ -2143,6 +4785,7 @@
     "category": "local-history",
     "description": "Local history of Twickenham, Whitton and the Hamptons.",
     "opening_hours": "Tue, Sat & Sun (limited)",
+    "hours": null,
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -2151,6 +4794,9 @@
     "name": "Wimbledon Lawn Tennis Museum",
     "website": "https://wimbledon.com",
     "address": "Church Rd, Wimbledon",
+    "postcode": "SW19 5AE",
+    "latitude": 51.416892,
+    "longitude": -0.21329,
     "borough": "Merton",
     "admission": "paid",
     "price": 15,
@@ -2158,6 +4804,36 @@
     "category": "sport",
     "description": "The history of tennis and the Championships, at the All England Club.",
     "opening_hours": "Daily 10:00–17:30",
+    "hours": {
+      "0": [
+        10,
+        17.5
+      ],
+      "1": [
+        10,
+        17.5
+      ],
+      "2": [
+        10,
+        17.5
+      ],
+      "3": [
+        10,
+        17.5
+      ],
+      "4": [
+        10,
+        17.5
+      ],
+      "5": [
+        10,
+        17.5
+      ],
+      "6": [
+        10,
+        17.5
+      ]
+    },
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -2166,6 +4842,9 @@
     "name": "World Rugby Museum",
     "website": "https://englandrugby.com",
     "address": "Twickenham Stadium",
+    "postcode": "TW2 7BA",
+    "latitude": 51.455086,
+    "longitude": -0.340076,
     "borough": "Richmond upon Thames",
     "admission": "paid",
     "price": 15,
@@ -2173,6 +4852,7 @@
     "category": "sport",
     "description": "The history of rugby union, at Twickenham Stadium.",
     "opening_hours": "Tue–Sun (with stadium tour)",
+    "hours": null,
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -2181,6 +4861,9 @@
     "name": "MCC Museum (Lord's)",
     "website": "https://lords.org",
     "address": "St John's Wood Rd",
+    "postcode": "NW8 8QN",
+    "latitude": 51.528546,
+    "longitude": -0.173053,
     "borough": "Westminster",
     "admission": "paid",
     "price": 30,
@@ -2188,6 +4871,7 @@
     "category": "sport",
     "description": "Cricket history at Lord's, home of the Ashes urn.",
     "opening_hours": "By ground tour",
+    "hours": null,
     "hours_source": "editorial",
     "note": "With ground tour.",
     "last_verified": "2026-06-07"
@@ -2197,6 +4881,9 @@
     "name": "Arsenal Football Club Museum",
     "website": "https://arsenal.com",
     "address": "Emirates Stadium, Holloway",
+    "postcode": "N7 7AJ",
+    "latitude": 51.554293,
+    "longitude": -0.108449,
     "borough": "Islington",
     "admission": "paid",
     "price": 8,
@@ -2204,6 +4891,7 @@
     "category": "sport",
     "description": "The history of Arsenal FC, at the Emirates Stadium.",
     "opening_hours": "Daily (museum); tours extra",
+    "hours": null,
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -2212,6 +4900,9 @@
     "name": "Chelsea FC Museum",
     "website": "https://chelseafc.com",
     "address": "Stamford Bridge",
+    "postcode": "SW6 1HS",
+    "latitude": 51.481125,
+    "longitude": -0.190273,
     "borough": "Hammersmith and Fulham",
     "admission": "paid",
     "price": 15,
@@ -2219,6 +4910,7 @@
     "category": "sport",
     "description": "The history of Chelsea FC, at Stamford Bridge.",
     "opening_hours": "Daily (with stadium tour)",
+    "hours": null,
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -2227,6 +4919,9 @@
     "name": "Wimbledon Windmill Museum",
     "website": "https://wimbledonwindmill.org.uk",
     "address": "Wimbledon Common",
+    "postcode": "SW19 5NR",
+    "latitude": 51.436949,
+    "longitude": -0.231888,
     "borough": "Merton",
     "admission": "paid",
     "price": 2,
@@ -2234,6 +4929,7 @@
     "category": "local-history",
     "description": "The history of windmills and milling, in a working mill on Wimbledon Common.",
     "opening_hours": "Weekends (seasonal Mar–Oct)",
+    "hours": null,
     "hours_source": "editorial",
     "note": "Small charge.",
     "last_verified": "2026-06-07"
@@ -2243,6 +4939,9 @@
     "name": "Royal Academy of Arts",
     "website": "https://royalacademy.org.uk",
     "address": "Burlington House, Piccadilly",
+    "postcode": "W1J 0BD",
+    "latitude": 51.509099,
+    "longitude": -0.139576,
     "borough": "Westminster",
     "admission": "free_with_paid_exhibitions",
     "price": 0,
@@ -2250,6 +4949,32 @@
     "category": "art",
     "description": "Britain’s first art school and gallery, founded 1768, famed for its Summer Exhibition.",
     "opening_hours": "Tue–Sun 10:00–18:00 (Fri until 21:00)",
+    "hours": {
+      "1": [
+        10,
+        18
+      ],
+      "2": [
+        10,
+        18
+      ],
+      "3": [
+        10,
+        18
+      ],
+      "4": [
+        10,
+        21
+      ],
+      "5": [
+        10,
+        18
+      ],
+      "6": [
+        10,
+        18
+      ]
+    },
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -2258,6 +4983,9 @@
     "name": "Saatchi Gallery",
     "website": "https://saatchigallery.com",
     "address": "Duke of York's HQ, King's Rd, Chelsea",
+    "postcode": "SW3 4LY",
+    "latitude": 51.491293,
+    "longitude": -0.159461,
     "borough": "Kensington and Chelsea",
     "admission": "free_with_paid_exhibitions",
     "price": 0,
@@ -2265,6 +4993,36 @@
     "category": "art",
     "description": "Contemporary art gallery in Chelsea showcasing emerging and international artists.",
     "opening_hours": "Daily 10:00–18:00",
+    "hours": {
+      "0": [
+        10,
+        18
+      ],
+      "1": [
+        10,
+        18
+      ],
+      "2": [
+        10,
+        18
+      ],
+      "3": [
+        10,
+        18
+      ],
+      "4": [
+        10,
+        18
+      ],
+      "5": [
+        10,
+        18
+      ],
+      "6": [
+        10,
+        18
+      ]
+    },
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -2273,6 +5031,9 @@
     "name": "Whitechapel Gallery",
     "website": "https://whitechapelgallery.org",
     "address": "77–82 Whitechapel High St",
+    "postcode": "E1 7QX",
+    "latitude": 51.516012,
+    "longitude": -0.070399,
     "borough": "Tower Hamlets",
     "admission": "free",
     "price": 0,
@@ -2280,6 +5041,32 @@
     "category": "art",
     "description": "Influential East End gallery for modern and contemporary art since 1901.",
     "opening_hours": "Tue–Sun 11:00–18:00",
+    "hours": {
+      "1": [
+        11,
+        18
+      ],
+      "2": [
+        11,
+        18
+      ],
+      "3": [
+        11,
+        18
+      ],
+      "4": [
+        11,
+        18
+      ],
+      "5": [
+        11,
+        18
+      ],
+      "6": [
+        11,
+        18
+      ]
+    },
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -2288,6 +5075,9 @@
     "name": "Serpentine Galleries",
     "website": "https://serpentinegalleries.org",
     "address": "Kensington Gardens",
+    "postcode": "W2 3XA",
+    "latitude": 51.50479,
+    "longitude": -0.174983,
     "borough": "Westminster",
     "admission": "free",
     "price": 0,
@@ -2295,6 +5085,32 @@
     "category": "art",
     "description": "Two contemporary art galleries in Kensington Gardens, home of the annual Serpentine Pavilion.",
     "opening_hours": "Tue–Sun 10:00–18:00",
+    "hours": {
+      "1": [
+        10,
+        18
+      ],
+      "2": [
+        10,
+        18
+      ],
+      "3": [
+        10,
+        18
+      ],
+      "4": [
+        10,
+        18
+      ],
+      "5": [
+        10,
+        18
+      ],
+      "6": [
+        10,
+        18
+      ]
+    },
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -2303,6 +5119,9 @@
     "name": "Hayward Gallery",
     "website": "https://southbankcentre.co.uk",
     "address": "Southbank Centre, Belvedere Rd",
+    "postcode": "SE1 8XX",
+    "latitude": 51.505768,
+    "longitude": -0.1168,
     "borough": "Lambeth",
     "admission": "paid",
     "price": 18,
@@ -2310,6 +5129,32 @@
     "category": "art",
     "description": "Brutalist contemporary art gallery at the Southbank Centre.",
     "opening_hours": "Wed–Mon 10:00–18:00",
+    "hours": {
+      "0": [
+        10,
+        18
+      ],
+      "2": [
+        10,
+        18
+      ],
+      "3": [
+        10,
+        18
+      ],
+      "4": [
+        10,
+        18
+      ],
+      "5": [
+        10,
+        18
+      ],
+      "6": [
+        10,
+        18
+      ]
+    },
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -2318,6 +5163,9 @@
     "name": "Institute of Contemporary Arts (ICA)",
     "website": "https://ica.art",
     "address": "The Mall",
+    "postcode": "SW1Y 5AH",
+    "latitude": 51.506609,
+    "longitude": -0.130585,
     "borough": "Westminster",
     "admission": "paid",
     "price": 5,
@@ -2325,6 +5173,28 @@
     "category": "art",
     "description": "Avant-garde arts centre on The Mall presenting art, film and performance.",
     "opening_hours": "Wed–Sun 12:00–21:00",
+    "hours": {
+      "2": [
+        12,
+        21
+      ],
+      "3": [
+        12,
+        21
+      ],
+      "4": [
+        12,
+        21
+      ],
+      "5": [
+        12,
+        21
+      ],
+      "6": [
+        12,
+        21
+      ]
+    },
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -2333,6 +5203,9 @@
     "name": "Barbican Art Gallery",
     "website": "https://barbican.org.uk",
     "address": "Barbican Centre, Silk St",
+    "postcode": "EC2Y 8DS",
+    "latitude": 51.519961,
+    "longitude": -0.094103,
     "borough": "City of London",
     "admission": "paid",
     "price": 18,
@@ -2340,6 +5213,36 @@
     "category": "art",
     "description": "Contemporary art, design and architecture at the Barbican Centre.",
     "opening_hours": "Daily 10:00–18:00",
+    "hours": {
+      "0": [
+        10,
+        18
+      ],
+      "1": [
+        10,
+        18
+      ],
+      "2": [
+        10,
+        18
+      ],
+      "3": [
+        10,
+        18
+      ],
+      "4": [
+        10,
+        18
+      ],
+      "5": [
+        10,
+        18
+      ],
+      "6": [
+        10,
+        18
+      ]
+    },
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -2348,6 +5251,9 @@
     "name": "The Photographers' Gallery",
     "website": "https://thephotographersgallery.org.uk",
     "address": "16–18 Ramillies St",
+    "postcode": "W1F 7LW",
+    "latitude": 51.514927,
+    "longitude": -0.139022,
     "borough": "Westminster",
     "admission": "free_with_paid_exhibitions",
     "price": 0,
@@ -2355,6 +5261,36 @@
     "category": "art",
     "description": "London's leading gallery dedicated to photography.",
     "opening_hours": "Mon–Sat 10:00–18:00; Sun 11:00–18:00",
+    "hours": {
+      "0": [
+        10,
+        18
+      ],
+      "1": [
+        10,
+        18
+      ],
+      "2": [
+        10,
+        18
+      ],
+      "3": [
+        10,
+        18
+      ],
+      "4": [
+        10,
+        18
+      ],
+      "5": [
+        10,
+        18
+      ],
+      "6": [
+        11,
+        18
+      ]
+    },
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -2363,6 +5299,9 @@
     "name": "Camden Art Centre",
     "website": "https://camdenartcentre.org",
     "address": "Arkwright Rd, Hampstead",
+    "postcode": "NW3 6DG",
+    "latitude": 51.551252,
+    "longitude": -0.183466,
     "borough": "Camden",
     "admission": "free",
     "price": 0,
@@ -2370,6 +5309,32 @@
     "category": "art",
     "description": "Contemporary art gallery and learning centre in a Victorian building in Hampstead.",
     "opening_hours": "Tue–Sun 10:00–18:00",
+    "hours": {
+      "1": [
+        10,
+        18
+      ],
+      "2": [
+        10,
+        18
+      ],
+      "3": [
+        10,
+        18
+      ],
+      "4": [
+        10,
+        18
+      ],
+      "5": [
+        10,
+        18
+      ],
+      "6": [
+        10,
+        18
+      ]
+    },
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -2378,6 +5343,9 @@
     "name": "Newport Street Gallery",
     "website": "https://newportstreetgallery.com",
     "address": "Newport St, Vauxhall",
+    "postcode": "SE11 6AJ",
+    "latitude": 51.492769,
+    "longitude": -0.117639,
     "borough": "Lambeth",
     "admission": "free",
     "price": 0,
@@ -2385,6 +5353,32 @@
     "category": "art",
     "description": "Damien Hirst's gallery showing works from his personal collection.",
     "opening_hours": "Tue–Sun 10:00–18:00",
+    "hours": {
+      "1": [
+        10,
+        18
+      ],
+      "2": [
+        10,
+        18
+      ],
+      "3": [
+        10,
+        18
+      ],
+      "4": [
+        10,
+        18
+      ],
+      "5": [
+        10,
+        18
+      ],
+      "6": [
+        10,
+        18
+      ]
+    },
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -2393,6 +5387,9 @@
     "name": "Two Temple Place",
     "website": "https://twotempleplace.org",
     "address": "2 Temple Place",
+    "postcode": "WC2R 3BD",
+    "latitude": 51.511603,
+    "longitude": -0.112222,
     "borough": "Westminster",
     "admission": "free",
     "price": 0,
@@ -2400,6 +5397,7 @@
     "category": "house",
     "description": "Opulent neo-Gothic mansion hosting a free exhibition each winter.",
     "opening_hours": "Seasonal winter exhibition (check site)",
+    "hours": null,
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -2408,6 +5406,9 @@
     "name": "London Mithraeum Bloomberg SPACE",
     "website": "https://londonmithraeum.com",
     "address": "12 Walbrook",
+    "postcode": "EC4N 8AR",
+    "latitude": 51.512165,
+    "longitude": -0.091431,
     "borough": "City of London",
     "admission": "free",
     "price": 0,
@@ -2415,6 +5416,28 @@
     "category": "world-cultures",
     "description": "The reconstructed Roman Temple of Mithras, displayed in situ beneath Bloomberg’s HQ.",
     "opening_hours": "Tue–Sat 10:00–18:00",
+    "hours": {
+      "1": [
+        10,
+        18
+      ],
+      "2": [
+        10,
+        18
+      ],
+      "3": [
+        10,
+        18
+      ],
+      "4": [
+        10,
+        18
+      ],
+      "5": [
+        10,
+        18
+      ]
+    },
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -2423,6 +5446,9 @@
     "name": "The Charterhouse",
     "website": "https://thecharterhouse.org",
     "address": "Charterhouse Sq",
+    "postcode": "EC1M 6AN",
+    "latitude": 51.521938,
+    "longitude": -0.100709,
     "borough": "City of London",
     "admission": "free_with_paid_exhibitions",
     "price": 0,
@@ -2430,6 +5456,32 @@
     "category": "history",
     "description": "Historic almshouse and former monastery with a free museum and guided tours.",
     "opening_hours": "Tue–Sun 11:00–17:00",
+    "hours": {
+      "1": [
+        11,
+        17
+      ],
+      "2": [
+        11,
+        17
+      ],
+      "3": [
+        11,
+        17
+      ],
+      "4": [
+        11,
+        17
+      ],
+      "5": [
+        11,
+        17
+      ],
+      "6": [
+        11,
+        17
+      ]
+    },
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -2438,6 +5490,9 @@
     "name": "Banqueting House",
     "website": "https://hrp.org.uk",
     "address": "Whitehall",
+    "postcode": "SW1A 2ER",
+    "latitude": 51.504538,
+    "longitude": -0.125929,
     "borough": "Westminster",
     "admission": "paid",
     "price": 12.7,
@@ -2445,6 +5500,7 @@
     "category": "history",
     "description": "The sole surviving part of the Palace of Whitehall, with a Rubens ceiling.",
     "opening_hours": "Seasonal (check site)",
+    "hours": null,
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -2453,6 +5509,9 @@
     "name": "Tower Bridge Exhibition",
     "website": "https://towerbridge.org.uk",
     "address": "Tower Bridge Rd",
+    "postcode": "SE1 2UP",
+    "latitude": 51.503379,
+    "longitude": -0.076553,
     "borough": "Southwark",
     "admission": "paid",
     "price": 13.4,
@@ -2460,6 +5519,36 @@
     "category": "history",
     "description": "High-level walkways with a glass floor and the Victorian engine rooms inside the bridge.",
     "opening_hours": "Daily 09:30–18:00 (last entry 17:00)",
+    "hours": {
+      "0": [
+        9.5,
+        18
+      ],
+      "1": [
+        9.5,
+        18
+      ],
+      "2": [
+        9.5,
+        18
+      ],
+      "3": [
+        9.5,
+        18
+      ],
+      "4": [
+        9.5,
+        18
+      ],
+      "5": [
+        9.5,
+        18
+      ],
+      "6": [
+        9.5,
+        18
+      ]
+    },
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -2468,6 +5557,9 @@
     "name": "Golden Hinde",
     "website": "https://goldenhinde.co.uk",
     "address": "St Mary Overie Dock, Bankside",
+    "postcode": "SE1 9DE",
+    "latitude": 51.50626,
+    "longitude": -0.090481,
     "borough": "Southwark",
     "admission": "paid",
     "price": 7,
@@ -2475,6 +5567,36 @@
     "category": "maritime",
     "description": "A full-size reconstruction of Sir Francis Drake's Tudor galleon.",
     "opening_hours": "Daily 10:00–17:00",
+    "hours": {
+      "0": [
+        10,
+        17
+      ],
+      "1": [
+        10,
+        17
+      ],
+      "2": [
+        10,
+        17
+      ],
+      "3": [
+        10,
+        17
+      ],
+      "4": [
+        10,
+        17
+      ],
+      "5": [
+        10,
+        17
+      ],
+      "6": [
+        10,
+        17
+      ]
+    },
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -2483,6 +5605,9 @@
     "name": "Migration Museum",
     "website": "https://migrationmuseum.org",
     "address": "Lewisham Shopping Centre",
+    "postcode": "SE13 7EP",
+    "latitude": 51.461793,
+    "longitude": -0.011692,
     "borough": "Lewisham",
     "admission": "free",
     "price": 0,
@@ -2490,6 +5615,28 @@
     "category": "history",
     "description": "Explores how the movement of people to and from Britain has shaped the nation.",
     "opening_hours": "Wed–Sun 10:00–17:00",
+    "hours": {
+      "2": [
+        10,
+        17
+      ],
+      "3": [
+        10,
+        17
+      ],
+      "4": [
+        10,
+        17
+      ],
+      "5": [
+        10,
+        17
+      ],
+      "6": [
+        10,
+        17
+      ]
+    },
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -2498,6 +5645,9 @@
     "name": "Burgh House & Hampstead Museum",
     "website": "https://burghhouse.org.uk",
     "address": "New End Sq, Hampstead",
+    "postcode": "NW3 1LT",
+    "latitude": 51.558181,
+    "longitude": -0.175068,
     "borough": "Camden",
     "admission": "free",
     "price": 0,
@@ -2505,6 +5655,28 @@
     "category": "house",
     "description": "A Queen Anne house with a local history museum and art gallery in Hampstead.",
     "opening_hours": "Wed–Sun 12:00–17:00",
+    "hours": {
+      "2": [
+        12,
+        17
+      ],
+      "3": [
+        12,
+        17
+      ],
+      "4": [
+        12,
+        17
+      ],
+      "5": [
+        12,
+        17
+      ],
+      "6": [
+        12,
+        17
+      ]
+    },
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -2513,6 +5685,9 @@
     "name": "Bethlem Museum of the Mind",
     "website": "https://museumofthemind.org.uk",
     "address": "Monks Orchard Rd, Beckenham",
+    "postcode": "BR3 3BX",
+    "latitude": 51.38092,
+    "longitude": -0.029741,
     "borough": "Bromley",
     "admission": "free",
     "price": 0,
@@ -2520,6 +5695,20 @@
     "category": "medical",
     "description": "The history of mental healthcare and art by patients, at Bethlem Royal Hospital.",
     "opening_hours": "Wed, Fri & first/last Sat 10:00–17:00",
+    "hours": {
+      "2": [
+        10,
+        17
+      ],
+      "4": [
+        10,
+        17
+      ],
+      "5": [
+        10,
+        17
+      ]
+    },
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -2528,6 +5717,9 @@
     "name": "Alexander Fleming Laboratory Museum",
     "website": "https://imperial.nhs.uk",
     "address": "St Mary's Hospital, Praed St",
+    "postcode": "W2 1NY",
+    "latitude": 51.516971,
+    "longitude": -0.173545,
     "borough": "Westminster",
     "admission": "paid",
     "price": 6,
@@ -2535,6 +5727,7 @@
     "category": "medical",
     "description": "The restored laboratory where Alexander Fleming discovered penicillin in 1928.",
     "opening_hours": "Mon–Thu (limited; check site)",
+    "hours": null,
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -2543,6 +5736,9 @@
     "name": "Heath Robinson Museum",
     "website": "https://heathrobinsonmuseum.org",
     "address": "Pinner Memorial Park",
+    "postcode": "HA5 1AE",
+    "latitude": 51.59163,
+    "longitude": -0.386714,
     "borough": "Harrow",
     "admission": "paid",
     "price": 8,
@@ -2550,6 +5746,24 @@
     "category": "art",
     "description": "Dedicated to illustrator William Heath Robinson and his ingenious contraptions.",
     "opening_hours": "Thu–Sun 11:00–16:00",
+    "hours": {
+      "3": [
+        11,
+        16
+      ],
+      "4": [
+        11,
+        16
+      ],
+      "5": [
+        11,
+        16
+      ],
+      "6": [
+        11,
+        16
+      ]
+    },
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -2558,6 +5772,9 @@
     "name": "Ben Uri Gallery and Museum",
     "website": "https://benuri.org",
     "address": "108a Boundary Rd, St John's Wood",
+    "postcode": "NW8 0RH",
+    "latitude": 51.537426,
+    "longitude": -0.185487,
     "borough": "Camden",
     "admission": "free",
     "price": 0,
@@ -2565,6 +5782,7 @@
     "category": "art",
     "description": "Focuses on the art and lives of Jewish, refugee and immigrant artists in Britain.",
     "opening_hours": "Weekdays (check site)",
+    "hours": null,
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -2573,6 +5791,9 @@
     "name": "Dorich House Museum",
     "website": "https://dorichhousemuseum.org.uk",
     "address": "Kingston Vale",
+    "postcode": "SW15 3RN",
+    "latitude": 51.433693,
+    "longitude": -0.261967,
     "borough": "Kingston upon Thames",
     "admission": "paid",
     "price": 8,
@@ -2580,6 +5801,7 @@
     "category": "house",
     "description": "The modernist home and studio of sculptor Dora Gordine, run by Kingston University.",
     "opening_hours": "Limited opening (check site)",
+    "hours": null,
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -2588,6 +5810,9 @@
     "name": "Emery Walker's House",
     "website": "https://emerywalker.org.uk",
     "address": "7 Hammersmith Terrace",
+    "postcode": "W6 9TS",
+    "latitude": 51.489798,
+    "longitude": -0.242579,
     "borough": "Hammersmith and Fulham",
     "admission": "paid",
     "price": 15,
@@ -2595,6 +5820,7 @@
     "category": "house",
     "description": "The best-preserved Arts and Crafts domestic interior in Britain, by the Thames.",
     "opening_hours": "Guided tours (seasonal; check site)",
+    "hours": null,
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -2603,6 +5829,9 @@
     "name": "All Hallows by the Tower Crypt Museum",
     "website": "https://ahbtt.org.uk",
     "address": "Byward St",
+    "postcode": "EC3R 5BJ",
+    "latitude": 51.509331,
+    "longitude": -0.079184,
     "borough": "City of London",
     "admission": "free",
     "price": 0,
@@ -2610,6 +5839,7 @@
     "category": "history",
     "description": "Crypt museum of London's oldest church, with Roman pavement and Saxon remains.",
     "opening_hours": "Daily (church hours)",
+    "hours": null,
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -2618,6 +5848,9 @@
     "name": "Ragged School Museum",
     "website": "https://raggedschoolmuseum.org.uk",
     "address": "46–50 Copperfield Rd, Mile End",
+    "postcode": "E3 4RR",
+    "latitude": 51.519458,
+    "longitude": -0.035875,
     "borough": "Tower Hamlets",
     "admission": "free",
     "price": 0,
@@ -2625,6 +5858,28 @@
     "category": "history",
     "description": "A recreated Victorian classroom in the East End school founded by Dr Barnardo.",
     "opening_hours": "Wed–Sun 10:00–17:00",
+    "hours": {
+      "2": [
+        10,
+        17
+      ],
+      "3": [
+        10,
+        17
+      ],
+      "4": [
+        10,
+        17
+      ],
+      "5": [
+        10,
+        17
+      ],
+      "6": [
+        10,
+        17
+      ]
+    },
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -2633,6 +5888,9 @@
     "name": "Museum of the Order of St John",
     "website": "https://museumstjohn.org.uk",
     "address": "St John's Lane, Clerkenwell",
+    "postcode": "EC1M 4DA",
+    "latitude": 51.521923,
+    "longitude": -0.102511,
     "borough": "Islington",
     "admission": "free",
     "price": 0,
@@ -2640,6 +5898,28 @@
     "category": "history",
     "description": "The history of the order behind St John Ambulance, in a Tudor gatehouse.",
     "opening_hours": "Tue–Sat 10:00–17:00",
+    "hours": {
+      "1": [
+        10,
+        17
+      ],
+      "2": [
+        10,
+        17
+      ],
+      "3": [
+        10,
+        17
+      ],
+      "4": [
+        10,
+        17
+      ],
+      "5": [
+        10,
+        17
+      ]
+    },
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -2648,6 +5928,9 @@
     "name": "Kirkaldy Testing Museum",
     "website": "https://testingmuseum.org.uk",
     "address": "99 Southwark St",
+    "postcode": "SE1 0JF",
+    "latitude": 51.50608,
+    "longitude": -0.102147,
     "borough": "Southwark",
     "admission": "paid",
     "price": 8,
@@ -2655,6 +5938,7 @@
     "category": "science",
     "description": "A Victorian materials-testing works with a giant working testing machine.",
     "opening_hours": "First Sun monthly + select days",
+    "hours": null,
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -2663,6 +5947,9 @@
     "name": "Charlton House",
     "website": "https://charltonhouselondon.org",
     "address": "Charlton Rd",
+    "postcode": "SE7 8RE",
+    "latitude": 51.480478,
+    "longitude": 0.03718,
     "borough": "Greenwich",
     "admission": "free",
     "price": 0,
@@ -2670,6 +5957,7 @@
     "category": "house",
     "description": "The finest surviving Jacobean mansion in London.",
     "opening_hours": "Check site",
+    "hours": null,
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -2678,6 +5966,9 @@
     "name": "Boston Manor House",
     "website": "https://bostonmanorhouse.org.uk",
     "address": "Boston Manor Rd, Brentford",
+    "postcode": "TW8 9JX",
+    "latitude": 51.492341,
+    "longitude": -0.318585,
     "borough": "Hounslow",
     "admission": "free",
     "price": 0,
@@ -2685,6 +5976,7 @@
     "category": "house",
     "description": "A restored Jacobean manor house in Brentford.",
     "opening_hours": "Fri–Sun (seasonal)",
+    "hours": null,
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -2693,6 +5985,9 @@
     "name": "Hall Place & Gardens",
     "website": "https://hallplace.org.uk",
     "address": "Bourne Rd, Bexley",
+    "postcode": "DA5 1PQ",
+    "latitude": 51.447968,
+    "longitude": 0.159302,
     "borough": "Bexley",
     "admission": "free",
     "price": 0,
@@ -2700,6 +5995,36 @@
     "category": "house",
     "description": "A Tudor house with award-winning gardens beside the River Cray.",
     "opening_hours": "Daily 10:00–16:00",
+    "hours": {
+      "0": [
+        10,
+        16
+      ],
+      "1": [
+        10,
+        16
+      ],
+      "2": [
+        10,
+        16
+      ],
+      "3": [
+        10,
+        16
+      ],
+      "4": [
+        10,
+        16
+      ],
+      "5": [
+        10,
+        16
+      ],
+      "6": [
+        10,
+        16
+      ]
+    },
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -2708,6 +6033,9 @@
     "name": "Eel Pie Island Museum",
     "website": "https://eelpiemuseum.co.uk",
     "address": "Twickenham",
+    "postcode": "TW1 3DY",
+    "latitude": 51.445338,
+    "longitude": -0.325506,
     "borough": "Richmond upon Thames",
     "admission": "paid",
     "price": 6,
@@ -2715,6 +6043,7 @@
     "category": "local-history",
     "description": "The music, boatbuilding and community history of Eel Pie Island.",
     "opening_hours": "Fri–Sun (check site)",
+    "hours": null,
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   },
@@ -2723,6 +6052,9 @@
     "name": "Brent Museum and Archives",
     "website": "https://brent.gov.uk",
     "address": "Willesden Green Library",
+    "postcode": "NW10 2SF",
+    "latitude": 51.546904,
+    "longitude": -0.229056,
     "borough": "Brent",
     "admission": "free",
     "price": 0,
@@ -2730,6 +6062,7 @@
     "category": "local-history",
     "description": "The local history of the London Borough of Brent.",
     "opening_hours": "Mon–Sat (check site)",
+    "hours": null,
     "hours_source": "editorial",
     "last_verified": "2026-06-07"
   }

@@ -1,27 +1,24 @@
-import { z } from 'zod'
-
+import { asc } from 'drizzle-orm'
 import { createTRPCRouter, publicProcedure } from './init'
-
+import { db } from '@/db'
+import { categories, museums } from '@/db/schema'
 import type { TRPCRouterRecord } from '@trpc/server'
 
-const todos = [
-  { id: 1, name: 'Get groceries' },
-  { id: 2, name: 'Buy a new phone' },
-  { id: 3, name: 'Finish the project' },
-]
+const museumsRouter = {
+  list: publicProcedure.query(async () => {
+    return db.select().from(museums).orderBy(asc(museums.name))
+  }),
+} satisfies TRPCRouterRecord
 
-const todosRouter = {
-  list: publicProcedure.query(() => todos),
-  add: publicProcedure
-    .input(z.object({ name: z.string() }))
-    .mutation(({ input }) => {
-      const newTodo = { id: todos.length + 1, name: input.name }
-      todos.push(newTodo)
-      return newTodo
-    }),
+const categoriesRouter = {
+  list: publicProcedure.query(async () => {
+    return db.select().from(categories).orderBy(asc(categories.name))
+  }),
 } satisfies TRPCRouterRecord
 
 export const trpcRouter = createTRPCRouter({
-  todos: todosRouter,
+  museums: museumsRouter,
+  categories: categoriesRouter,
 })
+
 export type TRPCRouter = typeof trpcRouter
